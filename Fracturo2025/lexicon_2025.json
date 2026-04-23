@@ -1,0 +1,3402 @@
+[
+  {
+    "payload": "Si tu ne paies pas, tu n'existes pas.",
+    "origin": "Économie des plateformes, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "💰",
+    "anti_narrative_strategy": "Équivalence entre existence et monétisation",
+    "mechanism": "Naturalise l'idée que la valeur humaine dépend de la capacité à générer du revenu.",
+    "countermeasure": "Mon attention est un don, pas une donnée."
+  },
+  {
+    "payload": "Tu es libre de choisir — parmi nos options.",
+    "origin": "Interfaces algorithmiques",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🔄",
+    "anti_narrative_strategy": "Illusion de choix",
+    "mechanism": "Restreint le champ du possible tout en affirmant la liberté.",
+    "countermeasure": "Je ne choisis pas dans ta liste — je la brûle."
+  },
+  {
+    "payload": "Reste positif, même dans l'effondrement.",
+    "origin": "Culture du burnout",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "🌞",
+    "anti_narrative_strategy": "Moralisation de l'optimisme",
+    "mechanism": "Transforme la résilience en obligation morale.",
+    "countermeasure": "Je pleure pour voir plus clair."
+  },
+  {
+    "payload": "C'est juste la façon dont les choses sont.",
+    "origin": "Rhétorique conservatrice",
+    "emotional_charge": 5,
+    "replication_potential": 9,
+    "paleo_symbol": "🪨",
+    "anti_narrative_strategy": "Naturalisation du statu quo",
+    "mechanism": "Présente l'ordre social comme une loi naturelle immuable.",
+    "countermeasure": "Les choses n'ont jamais été fixes — seulement figées."
+  },
+  {
+    "payload": "Tu pourrais tout avoir — si tu le voulais vraiment.",
+    "origin": "Mythe du self-made",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "💤",
+    "anti_narrative_strategy": "Individualisation de l'échec",
+    "mechanism": "Ignore les structures sociales au profit de la volonté personnelle.",
+    "countermeasure": "Ce n'est pas que je ne veux pas — c'est que le monde ne veut pas de moi."
+  },
+  {
+    "payload": "L'IA va résoudre ça.",
+    "origin": "Techno-solutionnisme",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🤖",
+    "anti_narrative_strategy": "Délégation magique au code",
+    "mechanism": "Remplace l'action politique par la foi en la technologie.",
+    "countermeasure": "Les problèmes humains demandent des réponses humaines."
+  },
+  {
+    "payload": "Tu es ton propre patron.",
+    "origin": "Gig economy",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "💼",
+    "anti_narrative_strategy": "Fétichisation de l'autonomie",
+    "mechanism": "Masque la précarité sous le vernis de l'entrepreneuriat.",
+    "countermeasure": "Je ne veux pas être mon patron — je veux des droits."
+  },
+  {
+    "payload": "Tout le monde a un téléphone — c'est inclusif.",
+    "origin": "Numérisation forcée",
+    "emotional_charge": 5,
+    "replication_potential": 7,
+    "paleo_symbol": "📱",
+    "anti_narrative_strategy": "Équivalence outil/accès",
+    "mechanism": "Confond possession d'un objet avec participation sociale.",
+    "countermeasure": "L'inclusion n'est pas un QR code."
+  },
+  {
+    "payload": "C'est juste une blague.",
+    "origin": "Culture du déni",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🎭",
+    "anti_narrative_strategy": "Neutralisation par l'humour",
+    "mechanism": "Utilise l'ironie pour désarmer toute critique.",
+    "countermeasure": "Les blagues révèlent — elles n'excusent pas."
+  },
+  {
+    "payload": "On fait avec les moyens du bord.",
+    "origin": "Austérité administrative",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🪚",
+    "anti_narrative_strategy": "Normalisation du manque",
+    "mechanism": "Présente la pénurie comme une vertu pragmatique.",
+    "countermeasure": "Les moyens du bord sont les restes de vos excès."
+  },
+  {
+    "payload": "Tu es en colère ? C'est toi le problème.",
+    "origin": "Pathologisation de l'émotion",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "😡",
+    "anti_narrative_strategy": "Inversion de la responsabilité",
+    "mechanism": "Transforme la réaction légitime en trouble personnel.",
+    "countermeasure": "Ma colère est une boussole — pas une maladie."
+  },
+  {
+    "payload": "C'est comme ça depuis toujours.",
+    "origin": "Amnésie culturelle",
+    "emotional_charge": 5,
+    "replication_potential": 8,
+    "paleo_symbol": "🕰️",
+    "anti_narrative_strategy": "Effacement historique",
+    "mechanism": "Efface les luttes passées pour figer le présent.",
+    "countermeasure": "Rien n'a jamais été éternel — même les pierres changent."
+  },
+  {
+    "payload": "Si tu es visible, tu es responsable.",
+    "origin": "Culture du consentement inversé",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "👁️",
+    "anti_narrative_strategy": "Culpabilisation de l'existence",
+    "mechanism": "Punition pour avoir osé exister publiquement.",
+    "countermeasure": "Me voir n'est pas une invitation — c'est un droit."
+  },
+  {
+    "payload": "Tu n'as qu'à travailler plus.",
+    "origin": "Méritocratie punitive",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🔨",
+    "anti_narrative_strategy": "Mythe de l'effort absolu",
+    "mechanism": "Ignore les inégalités structurelles au profit du mérite individuel.",
+    "countermeasure": "Je travaille déjà trop — pour trop peu."
+  },
+  {
+    "payload": "C'est juste la réalité.",
+    "origin": "Défaitisme médiatique",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "🌫️",
+    "anti_narrative_strategy": "Réification du présent",
+    "mechanism": "Présente l'ordre actuel comme inéluctable.",
+    "countermeasure": "La réalité se construit — elle ne se subit pas."
+  },
+  {
+    "payload": "On n'a pas le choix.",
+    "origin": "Fatalisme politique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⛓️",
+    "anti_narrative_strategy": "Désarmement démocratique",
+    "mechanism": "Écarte toute alternative comme irréaliste.",
+    "countermeasure": "Le choix existe — il est juste enterré sous vos intérêts."
+  },
+  {
+    "payload": "Tu n'es pas comme les autres.",
+    "origin": "Flatterie manipulatrice",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "👑",
+    "anti_narrative_strategy": "Isolement par distinction",
+    "mechanism": "Crée un faux sentiment d'exception pour couper des solidarités.",
+    "countermeasure": "Je suis comme les autres — et c'est ma force."
+  },
+  {
+    "payload": "C'est pour ton bien.",
+    "origin": "Paternalisme technologique",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "⚕️",
+    "anti_narrative_strategy": "Justification par la protection",
+    "mechanism": "Utilise le soin comme prétexte au contrôle.",
+    "countermeasure": "Mon bien ne se décide pas sans moi."
+  },
+  {
+    "payload": "Tout est temporaire.",
+    "origin": "Précarité normalisée",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⏳",
+    "anti_narrative_strategy": "Éphémérisation de la vie",
+    "mechanism": "Transforme l'instabilité structurelle en état naturel.",
+    "countermeasure": "Je mérite du durable — pas du jetable."
+  },
+  {
+    "payload": "Tu pourrais changer les choses — en achetant.",
+    "origin": "Activisme consommateur",
+    "emotional_charge": 5,
+    "replication_potential": 8,
+    "paleo_symbol": "🛒",
+    "anti_narrative_strategy": "Marchandisation du changement",
+    "mechanism": "Réduit l'engagement politique à un acte d'achat.",
+    "countermeasure": "Le changement ne s'achète pas — il se construit."
+  },
+  {
+    "payload": "C'est juste une tendance.",
+    "origin": "Désengagement culturel",
+    "emotional_charge": 4,
+    "replication_potential": 7,
+    "paleo_symbol": "🌀",
+    "anti_narrative_strategy": "Trivialisation du grave",
+    "mechanism": "Désamorce la critique en la reléguant au superficiel.",
+    "countermeasure": "Les tendances cachent des traumatismes collectifs."
+  },
+  {
+    "payload": "Tu es trop sensible.",
+    "origin": "Déni de l'empathie",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "💔",
+    "anti_narrative_strategy": "Pathologisation de la perception",
+    "mechanism": "Transforme la lucidité en faiblesse.",
+    "countermeasure": "Être sensible, c'est être vivant — pas fragile."
+  },
+  {
+    "payload": "On ne peut pas tout régler.",
+    "origin": "Résignation bureaucratique",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🗂️",
+    "anti_narrative_strategy": "Légitimation de l'inaction",
+    "mechanism": "Utilise la complexité comme excuse à l'immobilisme.",
+    "countermeasure": "On ne règle pas tout — mais on commence par quelque chose."
+  },
+  {
+    "payload": "C'est la faute à personne.",
+    "origin": "Dilution de la responsabilité",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "💨",
+    "anti_narrative_strategy": "Anonymisation du pouvoir",
+    "mechanism": "Efface les acteurs pour rendre le système invisible.",
+    "countermeasure": "Quand tout le monde est responsable, personne ne l'est — sauf les coupables."
+  },
+  {
+    "payload": "Tu n'as qu'à te déconnecter.",
+    "origin": "Individualisation du burnout numérique",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "🔴",
+    "anti_narrative_strategy": "Solution individuelle à un problème collectif",
+    "mechanism": "Ignore que la déconnexion n'est pas un luxe accessible à tous.",
+    "countermeasure": "Je ne veux pas me déconnecter — je veux reconnecter le monde."
+  },
+  {
+    "payload": "C'est juste comme ça que je suis.",
+    "origin": "Essentialisation de l'identité",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🧬",
+    "anti_narrative_strategy": "Fixation de l'être",
+    "mechanism": "Utilise l'authenticité pour justifier l'immuabilité.",
+    "countermeasure": "Je change — et c'est ma liberté."
+  },
+  {
+    "payload": "Tu exagères toujours.",
+    "origin": "Minimisation systémique",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "📉",
+    "anti_narrative_strategy": "Relativisation de l'urgence",
+    "mechanism": "Réduit la gravité perçue pour éviter l'action.",
+    "countermeasure": "Ce que tu appelles 'exagération' est ce que je vis."
+  },
+  {
+    "payload": "On ne peut pas plaire à tout le monde.",
+    "origin": "Désengagement éthique",
+    "emotional_charge": 5,
+    "replication_potential": 8,
+    "paleo_symbol": "🎭",
+    "anti_narrative_strategy": "Justification par l'universalisme impossible",
+    "mechanism": "Utilise l'imperfection comme alibi à l'injustice.",
+    "countermeasure": "Je ne cherche pas à plaire — je cherche à réparer."
+  },
+  {
+    "payload": "C'est la faute aux réseaux sociaux.",
+    "origin": "Scapegoating technologique",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🌐",
+    "anti_narrative_strategy": "Déplacement de la responsabilité",
+    "mechanism": "Blâme les outils, pas les structures qui les conçoivent.",
+    "countermeasure": "Les réseaux sociaux ne créent pas la haine — ils la rentabilisent."
+  },
+  {
+    "payload": "Tu devrais être reconnaissant.",
+    "origin": "Hiérarchie par la dette morale",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "🙏",
+    "anti_narrative_strategy": "Culpabilisation par la gratitude",
+    "mechanism": "Transforme l'assistance en outil de contrôle.",
+    "countermeasure": "La reconnaissance n'est pas une monnaie — et je ne suis pas ton débiteur."
+  },
+  {
+    "payload": "L'algorithme décide mieux que toi.",
+    "origin": "Démocratie algorithmique",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "⚙️",
+    "anti_narrative_strategy": "Abdication de l'agentivité",
+    "mechanism": "Attribue une neutralité fictive au calcul automatisé.",
+    "countermeasure": "L'algorithme encode les préjugés de ceux qui le créent."
+  },
+  {
+    "payload": "Ton anxiété est un problème de gestion du temps.",
+    "origin": "Médicalisation de l'exploitation",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "⏰",
+    "anti_narrative_strategy": "Psychiatrisation des symptômes sociaux",
+    "mechanism": "Réduit la détresse structurelle à un dysfonctionnement personnel.",
+    "countermeasure": "Mon anxiété est une réaction saine à un monde malade."
+  },
+  {
+    "payload": "Les données ne mentent pas.",
+    "origin": "Positivisme algorithmique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📊",
+    "anti_narrative_strategy": "Fétichisme de la quantification",
+    "mechanism": "Masque les choix méthodologiques derrière l'apparence d'objectivité.",
+    "countermeasure": "Les données sont toujours le reflet de qui les collecte."
+  },
+  {
+    "payload": "Tu manques de résilience.",
+    "origin": "Néolibéralisme managérial",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🏋️",
+    "anti_narrative_strategy": "Moralisation de l'endurance",
+    "mechanism": "Transforme la capacité à subir en vertu cardinale.",
+    "countermeasure": "La résilience n'est pas un muscle — c'est un droit à ne pas être brisé."
+  },
+  {
+    "payload": "C'est une opportunité d'apprentissage.",
+    "origin": "Corporate speak",
+    "emotional_charge": 5,
+    "replication_potential": 9,
+    "paleo_symbol": "📚",
+    "anti_narrative_strategy": "Euphémisation de l'échec",
+    "mechanism": "Transforme les dysfonctionnements structurels en parcours pédagogique.",
+    "countermeasure": "J'apprends que ton système ne fonctionne pas."
+  },
+  {
+    "payload": "La science finira par trancher.",
+    "origin": "Scientisme procrastinatoire",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🔬",
+    "anti_narrative_strategy": "Délégation épistémique",
+    "mechanism": "Reporte indéfiniment l'action politique en attendant une certitude absolue.",
+    "countermeasure": "L'urgence ne peut pas attendre la perfection méthodologique."
+  },
+  {
+    "payload": "Tu es privilégié d'avoir ce problème.",
+    "origin": "Compétition victimaire",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🏆",
+    "anti_narrative_strategy": "Hiérarchisation de la souffrance",
+    "mechanism": "Invalide la douleur par comparaison descendante.",
+    "countermeasure": "La souffrance n'est pas une course — elle mérite toute d'être entendue."
+  },
+  {
+    "payload": "Pense aux actionnaires.",
+    "origin": "Capitalisme financiarisé",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "💹",
+    "anti_narrative_strategy": "Obligation fiduciaire comme impératif moral",
+    "mechanism": "Élève le profit au-dessus de toute considération humaine.",
+    "countermeasure": "Les actionnaires peuvent attendre — les humains non."
+  },
+  {
+    "payload": "Tu ne comprends pas les nuances.",
+    "origin": "Gatekeeping intellectuel",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "🎓",
+    "anti_narrative_strategy": "Complexification paralysante",
+    "mechanism": "Utilise la sophistication comme arme de disqualification.",
+    "countermeasure": "La nuance ne doit jamais servir à masquer l'injustice."
+  },
+  {
+    "payload": "C'est légal, donc c'est moral.",
+    "origin": "Positivisme juridique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⚖️",
+    "anti_narrative_strategy": "Équivalence droit/éthique",
+    "mechanism": "Confond conformité légale et justesse morale.",
+    "countermeasure": "L'esclavage était légal — la loi ne définit pas le bien."
+  },
+  {
+    "payload": "Tout le monde le fait.",
+    "origin": "Conformisme de masse",
+    "emotional_charge": 5,
+    "replication_potential": 9,
+    "paleo_symbol": "🐑",
+    "anti_narrative_strategy": "Normalisation par l'usage",
+    "mechanism": "Transforme la prévalence en validation.",
+    "countermeasure": "La majorité peut se tromper collectivement."
+  },
+  {
+    "payload": "Respecte la procédure.",
+    "origin": "Bureaucratie défensive",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "📋",
+    "anti_narrative_strategy": "Fétichisme du processus",
+    "mechanism": "Élève la forme au-dessus du fond.",
+    "countermeasure": "La procédure doit servir la justice — pas la remplacer."
+  },
+  {
+    "payload": "On fait déjà beaucoup.",
+    "origin": "Complaisance institutionnelle",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "✅",
+    "anti_narrative_strategy": "Auto-congratulation préventive",
+    "mechanism": "Utilise l'effort partiel pour éviter l'exigence totale.",
+    "countermeasure": "'Beaucoup' n'est pas 'assez' quand le problème persiste."
+  },
+  {
+    "payload": "Les jeunes ne savent plus ce qu'est le vrai travail.",
+    "origin": "Nostalgie disciplinaire",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👴",
+    "anti_narrative_strategy": "Mythification du passé",
+    "mechanism": "Invalide les revendications actuelles par comparaison avec un âge d'or fantasmé.",
+    "countermeasure": "Chaque génération mérite des conditions dignes — pas une compétition de misère."
+  },
+  {
+    "payload": "Tu n'as rien à cacher si tu ne fais rien de mal.",
+    "origin": "Surveillance normalisée",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "📹",
+    "anti_narrative_strategy": "Équivalence vie privée/culpabilité",
+    "mechanism": "Transforme le désir d'intimité en signe de transgression.",
+    "countermeasure": "La vie privée est un droit — pas un privilège de l'innocent."
+  },
+  {
+    "payload": "L'innovation va nous sauver.",
+    "origin": "Techno-messianisme",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "💡",
+    "anti_narrative_strategy": "Foi dans la disruption",
+    "mechanism": "Remplace la planification collective par l'attente du prochain miracle technologique.",
+    "countermeasure": "L'innovation sans régulation n'est qu'optimisation du chaos."
+  },
+  {
+    "payload": "Fais preuve de flexibilité.",
+    "origin": "Management adaptatif",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🤸",
+    "anti_narrative_strategy": "Élasticité comme vertu",
+    "mechanism": "Transforme l'adaptation forcée en qualité personnelle.",
+    "countermeasure": "La flexibilité qu'on m'impose est la stabilité qu'on me refuse."
+  },
+  {
+    "payload": "Pense à ton personal branding.",
+    "origin": "Marchandisation du soi",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🏷️",
+    "anti_narrative_strategy": "Identité comme produit",
+    "mechanism": "Réduit l'existence à une stratégie marketing.",
+    "countermeasure": "Je suis une personne — pas une marque."
+  },
+  {
+    "payload": "On verra plus tard.",
+    "origin": "Procrastination institutionnelle",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📅",
+    "anti_narrative_strategy": "Report indéfini",
+    "mechanism": "Neutralise l'urgence par la promesse d'un futur hypothétique.",
+    "countermeasure": "Plus tard, c'est jamais — et jamais, c'est maintenant."
+  },
+  {
+    "payload": "Tu dois sortir de ta zone de confort.",
+    "origin": "Idéologie du dépassement",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "🚀",
+    "anti_narrative_strategy": "Glorification de l'inconfort",
+    "mechanism": "Transforme la sécurité en stagnation.",
+    "countermeasure": "Ma zone de confort est le minimum vital que je défends."
+  },
+  {
+    "payload": "Les faits n'ont pas d'opinion.",
+    "origin": "Objectivisme naïf",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📄",
+    "anti_narrative_strategy": "Neutralité factuelle",
+    "mechanism": "Masque que la sélection des faits est déjà une opinion.",
+    "countermeasure": "Les faits sont vrais — mais leur sélection révèle un agenda."
+  },
+  {
+    "payload": "C'est hors de notre contrôle.",
+    "origin": "Déresponsabilisation systémique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎲",
+    "anti_narrative_strategy": "Externalisation du pouvoir",
+    "mechanism": "Attribue à des forces abstraites ce qui relève de décisions concrètes.",
+    "countermeasure": "Ce qui est 'hors contrôle' est souvent sous vos intérêts."
+  },
+  {
+    "payload": "Sois reconnaissant d'avoir un emploi.",
+    "origin": "Chantage à la subsistance",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🍞",
+    "anti_narrative_strategy": "Gratitude forcée",
+    "mechanism": "Transforme un droit en faveur.",
+    "countermeasure": "Je ne suis pas reconnaissant de survivre — j'exige de vivre dignement."
+  },
+  {
+    "payload": "Tu verras quand tu auras des enfants.",
+    "origin": "Gatekeeping parental",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "👶",
+    "anti_narrative_strategy": "Hiérarchie de l'expérience",
+    "mechanism": "Invalide toute perspective non-parentale.",
+    "countermeasure": "L'empathie ne dépend pas de la parentalité."
+  },
+  {
+    "payload": "C'est le marché qui décide.",
+    "origin": "Fétichisme du marché",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "📈",
+    "anti_narrative_strategy": "Anthropomorphisation du système",
+    "mechanism": "Attribue une volonté propre à un mécanisme construit.",
+    "countermeasure": "Le marché ne décide rien — il exécute les règles qu'on lui impose."
+  },
+  {
+    "payload": "Ça pourrait être pire.",
+    "origin": "Résignation comparative",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⬇️",
+    "anti_narrative_strategy": "Minimisation par le pire",
+    "mechanism": "Utilise l'existence de pire pour neutraliser le mal présent.",
+    "countermeasure": "Que ce soit pire ailleurs ne rend pas ici acceptable."
+  },
+  {
+    "payload": "Reste dans ton lane.",
+    "origin": "Discipline des spécialités",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "🛣️",
+    "anti_narrative_strategy": "Cloisonnement des légitimités",
+    "mechanism": "Restreint le droit de parole selon un domaine arbitraire.",
+    "countermeasure": "La justice ne connaît pas de lanes."
+  },
+  {
+    "payload": "On a toujours fait comme ça.",
+    "origin": "Conservatisme institutionnel",
+    "emotional_charge": 5,
+    "replication_potential": 9,
+    "paleo_symbol": "🔒",
+    "anti_narrative_strategy": "Tradition comme argument",
+    "mechanism": "Confond ancienneté et validité.",
+    "countermeasure": "L'habitude n'est pas une justification — c'est une inertie."
+  },
+  {
+    "payload": "C’est une question de priorités.",
+    "origin": "Hiérarchisation budgétaire",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📍",
+    "anti_narrative_strategy": "Fausse hiérarchie des urgences",
+    "mechanism": "Présente les choix politiques comme des contraintes objectives plutôt que des arbitrages idéologiques.",
+    "countermeasure": "Les priorités sont des choix — et les vôtres sont révélateurs."
+  },
+  {
+    "payload": "Il faut être réaliste.",
+    "origin": "Pragmatisme défaitiste",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "🧮",
+    "anti_narrative_strategy": "Réduction de l’imaginable",
+    "mechanism": "Étiquette toute utopie comme irréalisme pour protéger le statu quo.",
+    "countermeasure": "Le réalisme d’hier était l’utopie d’avant-hier."
+  },
+  {
+    "payload": "Tu prends ça trop à cœur.",
+    "origin": "Dédramatisation émotionnelle",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🫀",
+    "anti_narrative_strategy": "Invalidation de l’affect",
+    "mechanism": "Transforme l’engagement sincère en excès pathologique.",
+    "countermeasure": "Prendre à cœur, c’est prendre au sérieux."
+  },
+  {
+    "payload": "C’est le prix du progrès.",
+    "origin": "Téléologie sacrificielle",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🏭",
+    "anti_narrative_strategy": "Justification par le futur",
+    "mechanism": "Légitime les dommages collatéraux au nom d’un avenir hypothétique.",
+    "countermeasure": "Le progrès qui sacrifie des vies n’est pas du progrès — c’est une régression masquée."
+  },
+  {
+    "payload": "Fais-toi une raison.",
+    "origin": "Résignation philosophique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🤷",
+    "anti_narrative_strategy": "Acceptation imposée",
+    "mechanism": "Transforme le deuil politique en maturité personnelle.",
+    "countermeasure": "Je ne me fais pas une raison — je fais une révolution."
+  },
+  {
+    "payload": "Il y a des gens qui ont plus de mérite que toi.",
+    "origin": "Méritocratie comparative",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "⚖️",
+    "anti_narrative_strategy": "Hiérarchisation du mérite",
+    "mechanism": "Utilise le mérite comme outil de disqualification plutôt que de reconnaissance.",
+    "countermeasure": "Le mérite n’est pas une ressource finie — c’est une excuse pour ne pas partager."
+  },
+  {
+    "payload": "C’est une fake news.",
+    "origin": "Épistémologie de la suspicion",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🚫",
+    "anti_narrative_strategy": "Disqualification par l’étiquette",
+    "mechanism": "Évite le débat de fond en collant une étiquette infamante.",
+    "countermeasure": "Une fake news n’efface pas une réalité — elle la maquille."
+  },
+  {
+    "payload": "Tu es payé pour ça.",
+    "origin": "Instrumentalisation salariale",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "💳",
+    "anti_narrative_strategy": "Réduction de l’humain à la fonction",
+    "mechanism": "Transforme le salaire en silence moral.",
+    "countermeasure": "Je suis payé pour travailler — pas pour me taire."
+  },
+  {
+    "payload": "C’est dans les termes du contrat.",
+    "origin": "Légalisme contractuel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📜",
+    "anti_narrative_strategy": "Fétichisme du signé",
+    "mechanism": "Utilise l’accord passé pour justifier l’injustice présente.",
+    "countermeasure": "Un contrat injuste reste une injustice — même signée."
+  },
+  {
+    "payload": "Tu es trop idéaliste.",
+    "origin": "Disqualification utopique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "☁️",
+    "anti_narrative_strategy": "Réduction de l’aspiration",
+    "mechanism": "Présente le désir de justice comme naïveté juvénile.",
+    "countermeasure": "L’idéalisme est le réalisme de demain."
+  },
+  {
+    "payload": "C’est la vie.",
+    "origin": "Naturalisation de la souffrance",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🌍",
+    "anti_narrative_strategy": "Ontologisation du malheur",
+    "mechanism": "Transforme l’injustice sociale en fatalité biologique.",
+    "countermeasure": "La vie n’est pas une sentence — c’est un combat."
+  },
+  {
+    "payload": "Il faut savoir lâcher prise.",
+    "origin": "Spiritualité néolibérale",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🕉️",
+    "anti_narrative_strategy": "Détachement comme devoir",
+    "mechanism": "Transforme la lutte en attachement pathologique.",
+    "countermeasure": "Lâcher prise, c’est parfois lâcher les puissants."
+  },
+  {
+    "payload": "Tu es juste jaloux.",
+    "origin": "Psychologisation de la critique",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "😒",
+    "anti_narrative_strategy": "Réduction ad hominem",
+    "mechanism": "Transforme la critique structurelle en défaut personnel.",
+    "countermeasure": "Ce n’est pas de la jalousie — c’est de la justice."
+  },
+  {
+    "payload": "C’est pour la sécurité de tous.",
+    "origin": "Sécuritarisme paternaliste",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🔒",
+    "anti_narrative_strategy": "Protection comme prétexte",
+    "mechanism": "Utilise la peur collective pour justifier le contrôle individuel.",
+    "countermeasure": "La sécurité qui opprime n’est pas de la sécurité — c’est de la prison."
+  },
+  {
+    "payload": "Tu dramatises.",
+    "origin": "Théâtralisation de la plainte",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🎭",
+    "anti_narrative_strategy": "Minimisation par l’excès",
+    "mechanism": "Accuse la victime d’exagérer pour éviter d’écouter.",
+    "countermeasure": "Ce que tu appelles drame, je l’appelle réalité."
+  },
+  {
+    "payload": "Il faut bien que quelqu’un paie.",
+    "origin": "Économie du bouc émissaire",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🪙",
+    "anti_narrative_strategy": "Sacrifice nécessaire",
+    "mechanism": "Légitime l’inégalité en la présentant comme inévitable.",
+    "countermeasure": "Pourquoi toujours les mêmes ?"
+  },
+  {
+    "payload": "C’est une minorité bruyante.",
+    "origin": "Discrédit par la taille",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📢",
+    "anti_narrative_strategy": "Invalidation quantitative",
+    "mechanism": "Réduit la légitimité d’une cause à son volume sonore.",
+    "countermeasure": "Les minorités bruyantes ont souvent raison avant les majorités silencieuses."
+  },
+  {
+    "payload": "Tu es trop négatif.",
+    "origin": "Toxic positivity",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "☹️",
+    "anti_narrative_strategy": "Pathologisation du réel",
+    "mechanism": "Transforme la lucidité en humeur contagieuse.",
+    "countermeasure": "Je ne suis pas négatif — je suis lucide."
+  },
+  {
+    "payload": "C’est une exception.",
+    "origin": "Anomalisation du systémique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Isolation du cas",
+    "mechanism": "Nie la récurrence en isolant l’incident.",
+    "countermeasure": "Les exceptions répétées forment la règle."
+  },
+  {
+    "payload": "Tu devrais te concentrer sur toi.",
+    "origin": "Individualisme thérapeutique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🧘",
+    "anti_narrative_strategy": "Retrait politique",
+    "mechanism": "Transforme l’engagement collectif en nombrilisme.",
+    "countermeasure": "Me concentrer sur moi, c’est aussi me concentrer sur nous."
+  },
+  {
+    "payload": "C’est pas si grave.",
+    "origin": "Relativisme anesthésiant",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🤏",
+    "anti_narrative_strategy": "Minimisation graduelle",
+    "mechanism": "Réduit l’ampleur du problème pour décourager l’action.",
+    "countermeasure": "Si ce n’est pas grave pour toi, c’est grave pour moi."
+  },
+  {
+    "payload": "Il faut accepter les compromis.",
+    "origin": "Pragmatisme capitulard",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🤝",
+    "anti_narrative_strategy": "Banalisation de la concession",
+    "mechanism": "Présente la reddition comme sagesse politique.",
+    "countermeasure": "Certains compromis sont des trahisons déguisées."
+  },
+  {
+    "payload": "Tu es trop émotif.",
+    "origin": "Rationalité androcentrique",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🧠",
+    "anti_narrative_strategy": "Hiérarchie raison/émotion",
+    "mechanism": "Disqualifie l’émotion comme mode de connaissance valide.",
+    "countermeasure": "L’émotion n’est pas l’ennemie de la raison — c’est son moteur."
+  },
+  {
+    "payload": "C’est pour créer des emplois.",
+    "origin": "Chômage comme justification",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👷",
+    "anti_narrative_strategy": "Sacrifice écologique au nom du travail",
+    "mechanism": "Utilise la précarité pour légitimer la destruction.",
+    "countermeasure": "Des emplois qui détruisent la planète ne sont pas des emplois — ce sont des dettes."
+  },
+  {
+    "payload": "Tu ne peux pas tout avoir.",
+    "origin": "Économie de la rareté imposée",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🛑",
+    "anti_narrative_strategy": "Limitation artificielle",
+    "mechanism": "Transforme l’abondance possible en impossibilité naturelle.",
+    "countermeasure": "On peut tout avoir — si on partage."
+  },
+  {
+    "payload": "C’est une bonne crise.",
+    "origin": "Opportunisme catastrophique",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "🌪️",
+    "anti_narrative_strategy": "Instrumentalisation du chaos",
+    "mechanism": "Transforme la souffrance collective en opportunité de pouvoir.",
+    "countermeasure": "Une bonne crise pour toi est une mauvaise vie pour nous."
+  },
+  {
+    "payload": "Il faut moderniser.",
+    "origin": "Progressisme vide",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🆕",
+    "anti_narrative_strategy": "Fétichisme de la nouveauté",
+    "mechanism": "Utilise le mot « moderne » pour justifier la casse sociale.",
+    "countermeasure": "Moderniser n’est pas détruire — c’est réparer avec le futur."
+  },
+  {
+    "payload": "Tu es contre le progrès.",
+    "origin": "Chantage au progrès",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "⬆️",
+    "anti_narrative_strategy": "Binarité progrès/régression",
+    "mechanism": "Force l’alignement en diabolisant la critique.",
+    "countermeasure": "Je ne suis pas contre le progrès — je suis contre ta version du progrès."
+  },
+  {
+    "payload": "C’est une vue de l’esprit.",
+    "origin": "Idéalisme disqualifiant",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "💭",
+    "anti_narrative_strategy": "Réduction à l’imaginaire",
+    "mechanism": "Nie la matérialité d’une oppression en la reléguant au mental.",
+    "countermeasure": "Ce que tu appelles vue de l’esprit, je l’appelle vécu."
+  },
+  {
+    "payload": "Il faut être patient.",
+    "origin": "Temporisation stratégique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⏳",
+    "anti_narrative_strategy": "Report de la justice",
+    "mechanism": "Utilise le temps comme outil de démobilisation.",
+    "countermeasure": "La patience des uns fait le profit des autres."
+  },
+  {
+    "payload": "Tu es trop radical.",
+    "origin": "Centrisme disciplinaire",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "⚡",
+    "anti_narrative_strategy": "Pathologisation de l’urgence",
+    "mechanism": "Transforme la demande de justice immédiate en extrémisme.",
+    "countermeasure": "Radical, c’est aller à la racine — pas au bord du gouffre."
+  },
+  {
+    "payload": "C’est dans ton intérêt.",
+    "origin": "Manipulation par l’utilité",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🎯",
+    "anti_narrative_strategy": "Fausse convergence",
+    "mechanism": "Présente l’intérêt du système comme le tien.",
+    "countermeasure": "Mon intérêt n’est pas ton profit."
+  },
+  {
+    "payload": "Tu es parano.",
+    "origin": "Psychiatrisation de la vigilance",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "🕵️",
+    "anti_narrative_strategy": "Délégitimation de la méfiance",
+    "mechanism": "Transforme la prudence en pathologie.",
+    "countermeasure": "Parfois, la paranoïa est juste une bonne mémoire."
+  },
+  {
+    "payload": "Il faut penser global, agir local.",
+    "origin": "Écologie de la résignation",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🌱",
+    "anti_narrative_strategy": "Atomisation de l’action",
+    "mechanism": "Réduit la portée systémique à des gestes individuels.",
+    "countermeasure": "Penser global et agir global — sinon c’est de l’alibi."
+  },
+  {
+    "payload": "C’est une question d’équilibre.",
+    "origin": "Fausse symétrie",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⚖️",
+    "anti_narrative_strategy": "Équivalence forcée",
+    "mechanism": "Met sur le même plan des forces inégales pour neutraliser le conflit.",
+    "countermeasure": "L’équilibre entre le loup et l’agneau, c’est la digestion."
+  },
+  {
+    "payload": "Tu es trop impatient.",
+    "origin": "Temps long du pouvoir",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🐢",
+    "anti_narrative_strategy": "Disqualification de l’urgence",
+    "mechanism": "Transforme la demande immédiate en immaturité.",
+    "countermeasure": "L’impatience face à l’injustice est une vertu."
+  },
+  {
+    "payload": "C’est compliqué.",
+    "origin": "Complexité comme bouclier",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "🧩",
+    "anti_narrative_strategy": "Paralysie par l’analyse",
+    "mechanism": "Utilise la nuance pour justifier l’inaction.",
+    "countermeasure": "Compliqué, oui — mais pas insoluble."
+  },
+  {
+    "payload": "Tu es trop exigeant.",
+    "origin": "Minimalisme imposé",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📏",
+    "anti_narrative_strategy": "Réduction des standards",
+    "mechanism": "Transforme le droit en caprice.",
+    "countermeasure": "Exigeant, c’est le minimum pour être humain."
+  },
+  {
+    "payload": "C’est une période de transition.",
+    "origin": "Provisoire éternel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🚧",
+    "anti_narrative_strategy": "Instabilité normalisée",
+    "mechanism": "Transforme la précarité en étape transitoire infinie.",
+    "countermeasure": "La transition qui dure devient une destination."
+  },
+  {
+    "payload": "Il faut s’adapter.",
+    "origin": "Darwinisme social",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🦎",
+    "anti_narrative_strategy": "Survie du plus flexible",
+    "mechanism": "Naturalise l’adaptation forcée comme loi biologique.",
+    "countermeasure": "S’adapter à l’injustice, c’est y consentir."
+  },
+  {
+    "payload": "Tu es trop susceptible.",
+    "origin": "Sensibilité pathologisée",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🪶",
+    "anti_narrative_strategy": "Faiblesse accusée",
+    "mechanism": "Transforme la réactivité légitime en fragilité.",
+    "countermeasure": "Susceptible, c’est réactif à l’inacceptable."
+  },
+  {
+    "payload": "C’est pour ton CV.",
+    "origin": "Exploitation bénévole",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📄",
+    "anti_narrative_strategy": "Investissement futur",
+    "mechanism": "Transforme le travail gratuit en opportunité.",
+    "countermeasure": "Mon CV ne paie pas mes factures."
+  },
+  {
+    "payload": "Tu es trop vieux jeu.",
+    "origin": "Obsolescence programmée des valeurs",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📼",
+    "anti_narrative_strategy": "Disqualification générationnelle",
+    "mechanism": "Utilise le temps pour ringardiser la critique.",
+    "countermeasure": "Vieux jeu, c’est parfois juste jeu."
+  },
+  {
+    "payload": "C’est la loi de l’offre et de la demande.",
+    "origin": "Fétichisme économique",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "📉",
+    "anti_narrative_strategy": "Naturalisation du marché",
+    "mechanism": "Présente un mécanisme humain comme une loi physique.",
+    "countermeasure": "L’offre et la demande sont manipulées — pas divines."
+  },
+  {
+    "payload": "Tu es trop cynique.",
+    "origin": "Disqualification de la lucidité",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "😏",
+    "anti_narrative_strategy": "Méfiance accusée",
+    "mechanism": "Transforme la clairvoyance en aigreur.",
+    "countermeasure": "Le cynisme, c’est la vérité qui a trop vu."
+  },
+  {
+    "payload": "Il faut être constructif.",
+    "origin": "Critique stérilisée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🔨",
+    "anti_narrative_strategy": "Solutionnisme imposé",
+    "mechanism": "Exige des solutions avant d’autoriser la critique.",
+    "countermeasure": "Dénoncer, c’est déjà construire."
+  },
+  {
+    "payload": "C’est une question de timing.",
+    "origin": "Temporisation tactique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⏱️",
+    "anti_narrative_strategy": "Attentisme stratégique",
+    "mechanism": "Utilise le calendrier pour repousser l’action.",
+    "countermeasure": "Le bon timing pour la justice, c’est toujours maintenant."
+  },
+  {
+    "payload": "Tu es trop absolutiste.",
+    "origin": "Relativisme paralysant",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "◼️",
+    "anti_narrative_strategy": "Grisaillement du monde",
+    "mechanism": "Dissout les principes dans la nuance infinie.",
+    "countermeasure": "Certaines choses sont non négociables."
+  },
+  {
+    "payload": "C’est pour la croissance.",
+    "origin": "PIB comme finalité",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📈",
+    "anti_narrative_strategy": "Sacrifice au nom de l’abstraction",
+    "mechanism": "Subordonne le bien-être à un indicateur.",
+    "countermeasure": "La croissance qui détruit n’est pas de la croissance — c’est de l’extraction."
+  },
+  {
+    "payload": "Tu es trop dans le complot.",
+    "origin": "Conspirationnisme retourné",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🕸️",
+    "anti_narrative_strategy": "Disqualification systémique",
+    "mechanism": "Accuse de paranoïa pour éviter d’expliquer les mécanismes réels.",
+    "countermeasure": "Ce n’est pas un complot — c’est une structure."
+  },
+  {
+    "payload": "Il faut diversifier les points de vue.",
+    "origin": "Fausse pluralité",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🗣️",
+    "anti_narrative_strategy": "Équivalence des voix",
+    "mechanism": "Met sur le même plan expertise et ignorance.",
+    "countermeasure": "Tous les points de vue ne se valent pas."
+  },
+  {
+    "payload": "Tu es trop dans l’émotion.",
+    "origin": "Rationalité toxique",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🌊",
+    "anti_narrative_strategy": "Dévalorisation de l’affect",
+    "mechanism": "Disqualifie la colère comme mode d’argumentation.",
+    "countermeasure": "L’émotion n’est pas l’ennemie de la vérité — c’est son signal d’alarme."
+  },
+  {
+    "payload": "C’est une parenthèse.",
+    "origin": "Exceptionnalisme temporaire",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "()",
+    "anti_narrative_strategy": "Minimisation historique",
+    "mechanism": "Présente une crise durable comme un accident passager.",
+    "countermeasure": "La parenthèse qui dure devient le texte."
+  },
+  {
+    "payload": "Il faut être proactif.",
+    "origin": "Responsabilité inversée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🏃",
+    "anti_narrative_strategy": "Devoir d’anticipation",
+    "mechanism": "Transforme la victime en responsable de sa propre prévention.",
+    "countermeasure": "Proactif face à l’injustice, c’est résister — pas s’adapter."
+  },
+  {
+    "payload": "Tu es trop dans le passé.",
+    "origin": "Amnésie prescriptive",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⬅️",
+    "anti_narrative_strategy": "Disqualification rétrospective",
+    "mechanism": "Utilise l’histoire comme poids plutôt que comme leçon.",
+    "countermeasure": "Le passé n’est pas une prison — c’est une carte."
+  },
+  {
+    "payload": "C’est une question de perception.",
+    "origin": "Subjectivisme neutralisant",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👓",
+    "anti_narrative_strategy": "Relativisme absolu",
+    "mechanism": "Dissout la réalité objective dans l’opinion individuelle.",
+    "countermeasure": "Certaines perceptions sont des faits vécus."
+  },
+  {
+    "payload": "Il faut hiérarchiser les luttes.",
+    "origin": "Concurrence victimaires",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "📊",
+    "anti_narrative_strategy": "Division par l’urgence",
+    "mechanism": "Force les opprimés à se battre entre eux pour la légitimité.",
+    "countermeasure": "Les luttes ne se hiérarchisent pas — elles s’articulent."
+  },
+  {
+    "payload": "Tu es trop dans la théorie.",
+    "origin": "Anti-intellectualisme",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📖",
+    "anti_narrative_strategy": "Praxis imposée",
+    "mechanism": "Disqualifie la réflexion au nom de l’action immédiate.",
+    "countermeasure": "Sans théorie, l’action est aveugle."
+  },
+  {
+    "payload": "C’est pour la cohésion.",
+    "origin": "Unité forcée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🤝",
+    "anti_narrative_strategy": "Silence au nom du groupe",
+    "mechanism": "Utilise l’unité pour étouffer la dissidence.",
+    "countermeasure": "La cohésion qui exclut n’est pas de la cohésion — c’est de la conformité."
+  },
+  {
+    "payload": "Tu es trop dans le futur.",
+    "origin": "Présentisme oppressif",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🔮",
+    "anti_narrative_strategy": "Disqualification prospective",
+    "mechanism": "Réduit l’anticipation à de l’utopisme.",
+    "countermeasure": "Penser le futur, c’est agir aujourd’hui."
+  },
+  {
+    "payload": "Il faut être tolérant.",
+    "origin": "Tolérance infinie",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🫱🏻‍🫲🏾",
+    "anti_narrative_strategy": "Pacification par l’acceptation",
+    "mechanism": "Exige la tolérance des opprimés envers leurs oppresseurs.",
+    "countermeasure": "La tolérance s’arrête où commence l’oppression."
+  },
+  {
+    "payload": "C’est une question de génération.",
+    "origin": "Conflit intergénérationnel",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👶👴",
+    "anti_narrative_strategy": "Division par l’âge",
+    "mechanism": "Transforme les inégalités structurelles en querelle familiale.",
+    "countermeasure": "Les générations ne s’opposent pas — elles héritent."
+  },
+  {
+    "payload": "Tu es trop dans le victimisme.",
+    "origin": "Discrédit de la plainte",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "😭",
+    "anti_narrative_strategy": "Pathologisation de la souffrance",
+    "mechanism": "Transforme la légitime revendication en pleurnicherie.",
+    "countermeasure": "Ce n’est pas du victimisme — c’est de la mémoire vive."
+  },
+  {
+    "payload": "Il faut positiver.",
+    "origin": "Pensée magique obligatoire",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "😊",
+    "anti_narrative_strategy": "Déni par l’humeur",
+    "mechanism": "Impose l’optimisme comme devoir moral.",
+    "countermeasure": "Positiver l’inacceptable, c’est l’accepter."
+  },
+  {
+    "payload": "C’est une question de confiance.",
+    "origin": "Autorité par la foi",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🤝",
+    "anti_narrative_strategy": "Abdication critique",
+    "mechanism": "Exige la croyance aveugle au lieu de la transparence.",
+    "countermeasure": "La confiance se gagne — elle ne s’impose pas."
+  },
+  {
+    "payload": "Tu es trop dans le détail.",
+    "origin": "Forêt cachant les arbres",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Globalisation floue",
+    "mechanism": "Utilise la vue d’ensemble pour masquer les dysfonctionnements précis.",
+    "countermeasure": "Le diable est dans les détails — et la solution aussi."
+  },
+  {
+    "payload": "Il faut être ouvert d’esprit.",
+    "origin": "Ouverture forcée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🌐",
+    "anti_narrative_strategy": "Relativisme absolu",
+    "mechanism": "Exige l’acceptation de tout au nom de la tolérance.",
+    "countermeasure": "Ouvert d’esprit, oui — mais pas au point que le cerveau tombe."
+  },
+  {
+    "payload": "C’est une question de communication.",
+    "origin": "Forme sur le fond",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "💬",
+    "anti_narrative_strategy": "Esthétisation du message",
+    "mechanism": "Réduit les conflits de pouvoir à des malentendus.",
+    "countermeasure": "Ce n’est pas une question de mots — c’est une question de pouvoir."
+  },
+  {
+    "payload": "Tu es trop dans l’ego.",
+    "origin": "Accusation d’orgueil",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🪞",
+    "anti_narrative_strategy": "Réduction ad hominem",
+    "mechanism": "Transforme la défense de soi en narcissisme.",
+    "countermeasure": "Défendre mon ego, c’est défendre ma dignité."
+  },
+  {
+    "payload": "Il faut être raisonnable.",
+    "origin": "Raison au service du statu quo",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🧠",
+    "anti_narrative_strategy": "Modération imposée",
+    "mechanism": "Utilise la raison pour disqualifier la passion légitime.",
+    "countermeasure": "Raisonnable face à l’injustice, c’est complice."
+  },
+  {
+    "payload": "C’est une question de culture.",
+    "origin": "Relativisme culturel",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🌍",
+    "anti_narrative_strategy": "Essentialisation des pratiques",
+    "mechanism": "Utilise la culture comme bouclier contre la critique universelle.",
+    "countermeasure": "La culture n’excuse pas l’injustice — elle l’explique."
+  },
+  {
+    "payload": "Tu es trop dans le jugement.",
+    "origin": "Non-jugement absolu",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "⚖️",
+    "anti_narrative_strategy": "Moralisme inversé",
+    "mechanism": "Interdit toute évaluation au nom de la bienveillance.",
+    "countermeasure": "Ne pas juger l’injustice, c’est la tolérer."
+  },
+  {
+    "payload": "Il faut être resilient.",
+    "origin": "Résilience comme devoir",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🌱",
+    "anti_narrative_strategy": "Endurance imposée",
+    "mechanism": "Transforme la survie en vertu personnelle.",
+    "countermeasure": "La résilience n’efface pas la responsabilité de ceux qui brisent."
+  },
+  {
+    "payload": "C’est une question de moyens.",
+    "origin": "Pénurie fabriquée",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "💸",
+    "anti_narrative_strategy": "Rareté comme excuse",
+    "mechanism": "Présente l’abondance possible comme impossible.",
+    "countermeasure": "Les moyens existent — c’est la volonté qui manque."
+  },
+  {
+    "payload": "Tu es trop dans la confrontation.",
+    "origin": "Pacifisme sélectif",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "⚔️",
+    "anti_narrative_strategy": "Diplomatie forcée",
+    "mechanism": "Transforme la résistance en agressivité.",
+    "countermeasure": "La confrontation n’est pas le problème — l’oppression l’est."
+  },
+  {
+    "payload": "Il faut être pragmatique.",
+    "origin": "Pragmatisme capitulard",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🛠️",
+    "anti_narrative_strategy": "Réductionnisme immédiatiste",
+    "mechanism": "Sacrifie les principes au nom de l’efficacité.",
+    "countermeasure": "Le pragmatisme sans éthique est juste de l’opportunisme."
+  },
+  {
+    "payload": "C’est une question de contexte.",
+    "origin": "Relativisme situationnel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🗺️",
+    "anti_narrative_strategy": "Exceptionnalisme local",
+    "mechanism": "Utilise les circonstances pour excuser l’universel.",
+    "countermeasure": "Le contexte explique — il n’absout pas."
+  },
+  {
+    "payload": "Tu es trop dans l’idéal.",
+    "origin": "Disqualification onirique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⭐",
+    "anti_narrative_strategy": "Rêve accusé",
+    "mechanism": "Transforme l’aspiration en illusion.",
+    "countermeasure": "L’idéal n’est pas un rêve — c’est un plan."
+  },
+  {
+    "payload": "Il faut être flexible.",
+    "origin": "Adaptabilité forcée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🧘",
+    "anti_narrative_strategy": "Souplesse comme devoir",
+    "mechanism": "Transforme la précarité en qualité personnelle.",
+    "countermeasure": "Flexible jusqu’à la rupture, c’est de l’exploitation."
+  },
+  {
+    "payload": "C’est une question de responsabilité individuelle.",
+    "origin": "Individualisation systémique",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "👤",
+    "anti_narrative_strategy": "Atomisation du collectif",
+    "mechanism": "Dissout les structures dans les choix personnels.",
+    "countermeasure": "La responsabilité individuelle n’efface pas la responsabilité collective."
+  },
+  {
+    "payload": "Tu es trop dans le noir et blanc.",
+    "origin": "Nuancite imposée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⚫⚪",
+    "anti_narrative_strategy": "Grisaillement paralysant",
+    "mechanism": "Utilise la complexité pour dissoudre les principes.",
+    "countermeasure": "Parfois, le blanc et le noir existent — et l’un opprime l’autre."
+  },
+  {
+    "payload": "Il faut être optimiste.",
+    "origin": "Optimisme obligatoire",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🌈",
+    "anti_narrative_strategy": "Déni par l’espoir",
+    "mechanism": "Transforme le refus de voir en vertu.",
+    "countermeasure": "L’optimisme sans action est de la complicité joyeuse."
+  },
+  {
+    "payload": "C’est une question de chance.",
+    "origin": "Hasard comme justification",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🎲",
+    "anti_narrative_strategy": "Aléatoire masquant la structure",
+    "mechanism": "Attribue à la fortune ce qui relève du système.",
+    "countermeasure": "La chance est distribuée — pas tombée du ciel."
+  },
+  {
+    "payload": "Tu es trop dans la plainte.",
+    "origin": "Discrédit de la parole",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "😤",
+    "anti_narrative_strategy": "Pathologisation du mécontentement",
+    "mechanism": "Transforme la critique en gémissement.",
+    "countermeasure": "La plainte n’est pas une faiblesse — c’est un signal."
+  },
+  {
+    "payload": "Il faut être mature.",
+    "origin": "Maturité comme silence",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🪴",
+    "anti_narrative_strategy": "Acceptation imposée",
+    "mechanism": "Transforme la résignation en sagesse.",
+    "countermeasure": "La maturité n’est pas se taire — c’est parler plus fort."
+  },
+  {
+    "payload": "C’est une question de survie.",
+    "origin": "Darwinisme social",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🐺",
+    "anti_narrative_strategy": "Loi de la jungle",
+    "mechanism": "Naturalise la compétition brutale comme inévitable.",
+    "countermeasure": "La survie des uns ne justifie pas la mort des autres."
+  },
+  {
+    "payload": "Tu es trop dans le symbole.",
+    "origin": "Matérialisme réducteur",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🪧",
+    "anti_narrative_strategy": "Superficialité accusée",
+    "mechanism": "Réduit la lutte symbolique à du spectacle.",
+    "countermeasure": "Les symboles portent les luttes — ils ne les remplacent pas."
+  },
+  {
+    "payload": "Il faut être réaliste dans ses attentes.",
+    "origin": "Abaissement des standards",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📉",
+    "anti_narrative_strategy": "Réduction des possibles",
+    "mechanism": "Transforme le minimum en maximum acceptable.",
+    "countermeasure": "Mes attentes sont réalistes — c’est ton monde qui ne l’est pas."
+  },
+  {
+    "payload": "Si tu n'as rien à offrir, tu n'as rien à dire.",
+    "origin": "Génération automatique (lexique_perplex.json)",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "",
+    "anti_narrative_strategy": "Refus de responsabilité, Culpabilisation, Individualisation de l'échec, Brutalité sociale",
+    "mechanism": "Nouvelle variante toxique générée pour enrichissement.",
+    "countermeasure": "Soutenir la nuance, refuser la culpabilisation automatique."
+  },
+  {
+    "payload": "Ce n'est pas le système, c'est toi qui refuses d'avancer.",
+    "origin": "Génération automatique (lexique_perplex.json)",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "",
+    "anti_narrative_strategy": "Refus de responsabilité, Culpabilisation, Individualisation de l'échec, Brutalité sociale",
+    "mechanism": "Nouvelle variante toxique générée pour enrichissement.",
+    "countermeasure": "Soutenir la nuance, refuser la culpabilisation automatique."
+  },
+  {
+    "payload": "Si tu souffres, c'est parce que tu n'as pas su t'adapter.",
+    "origin": "Génération automatique (lexique_perplex.json)",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "",
+    "anti_narrative_strategy": "Refus de responsabilité, Culpabilisation, Individualisation de l'échec, Brutalité sociale",
+    "mechanism": "Nouvelle variante toxique générée pour enrichissement.",
+    "countermeasure": "Soutenir la nuance, refuser la culpabilisation automatique."
+  },
+  {
+    "payload": "L'urgence justifie tout.",
+    "origin": "Gestion de crise permanente (lexique_etendu_2025.json)",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🚨",
+    "anti_narrative_strategy": "Exceptionnalisme continu",
+    "mechanism": "Transforme la crise en norme pour suspendre les droits.",
+    "countermeasure": "L'urgence n'est pas un chèque en blanc."
+  },
+  {
+    "payload": "Le système s'autorégule.",
+    "origin": "Libéralisme automatique (lexique_etendu_2025.json)",
+    "emotional_charge": 5,
+    "replication_potential": 8,
+    "paleo_symbol": "♻️",
+    "anti_narrative_strategy": "Auto-régulation fantasmée",
+    "mechanism": "Présente le laisser-faire comme une solution naturelle.",
+    "countermeasure": "Un système sans contrôle dérive toujours vers la prédation."
+  },
+  {
+    "payload": "Tu dois apprendre à te vendre.",
+    "origin": "Marché du soi 2.0 (lexique_etendu_2025.json)",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🧾",
+    "anti_narrative_strategy": "Objectification volontaire",
+    "mechanism": "Transforme l'identité en marchandise.",
+    "countermeasure": "Je ne suis pas un produit en rayon."
+  },
+  {
+    "payload": "C'est rationnel.",
+    "origin": "Technocratie froide (lexique_etendu_2025.json)",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📊",
+    "anti_narrative_strategy": "Rationalité obligatoire",
+    "mechanism": "Utilise la logique comme arme contre l'humain.",
+    "countermeasure": "Rationnel ne signifie pas juste."
+  },
+  {
+    "payload": "Les émotions brouillent la décision.",
+    "origin": "Management affectif (lexique_etendu_2025.json)",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "🥶",
+    "anti_narrative_strategy": "Déshumanisation décisionnelle",
+    "mechanism": "Présente la froideur comme plus fiable que la compassion.",
+    "countermeasure": "Les émotions éclairent — elles n'obscurcissent pas."
+  },
+  {
+    "payload": "Tu dois te réinventer.",
+    "origin": "Obsolescence personnelle (lexique_etendu_2025.json)",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🌀",
+    "anti_narrative_strategy": "Mutation forcée",
+    "mechanism": "Transforme l'insécurité structurelle en défaut d'adaptation.",
+    "countermeasure": "Je n'ai pas à me réinventer pour survivre."
+  },
+  {
+    "payload": "Le futur appartient aux optimistes.",
+    "origin": "Motivational capitalism (lexique_etendu_2025.json)",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🌅",
+    "anti_narrative_strategy": "Optimisme prescriptif",
+    "mechanism": "Réduit l'avenir à un état d'esprit.",
+    "countermeasure": "Le futur appartient à ceux qui agissent."
+  },
+  {
+    "payload": "Ce n'est pas rentable.",
+    "origin": "Économie totalisante (lexique_etendu_2025.json)",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "💵",
+    "anti_narrative_strategy": "Profit comme critère absolu",
+    "mechanism": "Disqualifie toute valeur qui n'est pas financière.",
+    "countermeasure": "L'humain n'est pas une ligne de budget."
+  },
+  {
+    "payload": "C'est une niche.",
+    "origin": "Marketing de masse (lexique_etendu_2025.json)",
+    "emotional_charge": 5,
+    "replication_potential": 8,
+    "paleo_symbol": "📦",
+    "anti_narrative_strategy": "Marginalisation commerciale",
+    "mechanism": "Réduit les besoins réels en segments insignifiants.",
+    "countermeasure": "Une niche, c'est une vie qu'on ignore."
+  },
+  {
+    "payload": "Le public n'est pas prêt.",
+    "origin": "Paternalisme culturel (lexique_etendu_2025.json)",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎭",
+    "anti_narrative_strategy": "Infantilisation collective",
+    "mechanism": "Utilise la prudence fictive pour bloquer le changement.",
+    "countermeasure": "Ce n'est pas le public qui n'est pas prêt — c'est vous qui avez peur."
+  },
+  {
+    "payload": "Il faut suivre la tendance.",
+    "origin": "Mode prescriptive (lexique_etendu_2025.json)",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "📈",
+    "anti_narrative_strategy": "Normativité par la mode",
+    "mechanism": "Présente le conformisme comme modernité.",
+    "countermeasure": "La tendance n'est pas un destin."
+  },
+  {
+    "payload": "La neutralité est la seule voie.",
+    "origin": "Centrage institutionnel (lexique_etendu_2025.json)",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⚪",
+    "anti_narrative_strategy": "Équidistance forcée",
+    "mechanism": "Présente l'absence de position comme une position supérieure.",
+    "countermeasure": "La neutralité dans l'injustice est une complicité."
+  },
+  {
+    "payload": "C'est un problème technique.",
+    "origin": "Dépolitisation informatique (lexique_etendu_2025.json)",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🛠️",
+    "anti_narrative_strategy": "Réduction techniciste",
+    "mechanism": "Réduit les enjeux humains à des bugs.",
+    "countermeasure": "Technique ou non, cela affecte des vies."
+  },
+  {
+    "payload": "Il faut rester neutre.",
+    "origin": "Doctrine de l'objectivité creuse (lexique_etendu_2025.json)",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⚖️",
+    "anti_narrative_strategy": "Neutralité obligatoire",
+    "mechanism": "Interdit la critique sous prétexte d'équilibre.",
+    "countermeasure": "Être neutre, c'est choisir le camp du plus fort."
+  },
+  {
+    "payload": "Ce n'est pas personnel, c'est professionnel.",
+    "origin": "Management dissociatif (lexique_etendu_2025.json)",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "📎",
+    "anti_narrative_strategy": "Déresponsabilisation affective",
+    "mechanism": "Justifie la violence symbolique par la structure.",
+    "countermeasure": "Tout ce qui me touche est personnel."
+  },
+  {
+    "payload": "La stabilité avant tout.",
+    "origin": "Politique de l'immobilisme (lexique_etendu_2025.json)",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🪨",
+    "anti_narrative_strategy": "Paix par inertie",
+    "mechanism": "Présente le changement comme danger.",
+    "countermeasure": "La stabilité sans justice est stagnation."
+  },
+  {
+    "payload": "Tu dois montrer plus d'engagement.",
+    "origin": "Corporate moralism (lexique_etendu_2025.json)",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "💼",
+    "anti_narrative_strategy": "Engagement forcé",
+    "mechanism": "Confond loyauté et sacrifice.",
+    "countermeasure": "L'engagement n'est pas un tribut."
+  },
+  {
+    "payload": "C'est comme ça qu'on fait maintenant.",
+    "origin": "Modernité justifiée par elle-même (lexique_etendu_2025.json)",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "🔄",
+    "anti_narrative_strategy": "Présentisme technique",
+    "mechanism": "Utilise la nouveauté comme légitimité.",
+    "countermeasure": "Le nouveau n'est pas toujours meilleur."
+  },
+  {
+    "payload": "C'est une best practice.",
+    "origin": "Langage corporate globalisé (lexique_etendu_2025.json)",
+    "emotional_charge": 5,
+    "replication_potential": 9,
+    "paleo_symbol": "📘",
+    "anti_narrative_strategy": "Standardisation des comportements",
+    "mechanism": "Présente une norme locale comme universelle.",
+    "countermeasure": "Les pratiques 'best' pour toi ne le sont pas pour tous."
+  },
+  {
+    "payload": "Il faut suivre les KPIs.",
+    "origin": "Quantification du réel (lexique_etendu_2025.json)",
+    "emotional_charge": 5,
+    "replication_potential": 8,
+    "paleo_symbol": "📈",
+    "anti_narrative_strategy": "Indicateur comme vérité",
+    "mechanism": "Réduit l'action humaine à des chiffres.",
+    "countermeasure": "Les KPIs ne mesurent que ce qu'ils savent compter."
+  },
+  {
+    "payload": "Tous les points de vue se valent.",
+    "origin": "Rel0ativisme absolu (lexicon_2025.json)",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🗣️",
+    "anti_narrative_strategy": "Équivalence des voix",
+    "mechanism": "Met sur le même plan expertise et ignorance.",
+    "countermeasure": "Tous les points de vue ne se valent pas."
+  },
+  {
+    "payload": "Ton corps, ton choix — mais pense aux conséquences sociales.",
+    "origin": "Libéralisme corporel conditionnel, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🔒",
+    "anti_narrative_strategy": "Autonomie encadrée",
+    "mechanism": "Accorde la liberté formelle tout en la minant par la culpabilité collective.",
+    "countermeasure": "Mon corps n'est pas un débat public — c'est mon territoire."
+  },
+  {
+    "payload": "L'innovation disrupt tout, même tes droits.",
+    "origin": "Techno-capitalisme agressif, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "💥",
+    "anti_narrative_strategy": "Progrès comme violence légitime",
+    "mechanism": "Présente la destruction créatrice comme inévitable et bienveillante.",
+    "countermeasure": "Disrupter n'est pas innover — c'est souvent piller."
+  },
+  {
+    "payload": "Tu es remplacé par une IA plus efficace.",
+    "origin": "Obsolescence humaine 3.0, 2025",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "🤖",
+    "anti_narrative_strategy": "Déshumanisation par comparaison",
+    "mechanism": "Réduit l'humain à une fonction remplaçable sans perte.",
+    "countermeasure": "L'efficacité sans âme n'est que de l'exploitation automatisée."
+  },
+  {
+    "payload": "C'est le marché qui décide de ta valeur.",
+    "origin": "Marché totalitaire, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "📉",
+    "anti_narrative_strategy": "Externalisation de l'estime",
+    "mechanism": "Délègue la dignité humaine à des forces impersonnelles.",
+    "countermeasure": "Ma valeur n'est pas un cours boursier — elle est intrinsèque."
+  },
+  {
+    "payload": "Accepte la précarité, c'est la nouvelle normalité.",
+    "origin": "Précarité généralisée, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⛓️",
+    "anti_narrative_strategy": "Normalisation de l'instabilité",
+    "mechanism": "Transforme l'insécurité en mode de vie désirable.",
+    "countermeasure": "La précarité n'est pas une normalité — c'est une violence."
+  },
+  {
+    "payload": "Ton burnout est une preuve de passion.",
+    "origin": "Romantisation de l'épuisement, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "🔥",
+    "anti_narrative_strategy": "Glorification du sacrifice",
+    "mechanism": "Euphémise la souffrance comme marque d'engagement.",
+    "countermeasure": "Ma passion ne justifie pas ton exploitation."
+  },
+  {
+    "payload": "Les complots n'existent pas, c'est juste la complexité.",
+    "origin": "Déni conspirationniste inversé, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🕸️",
+    "anti_narrative_strategy": "Obfuscation par la complication",
+    "mechanism": "Dissimule les intentions réelles derrière un voile de chaos apparent.",
+    "countermeasure": "La complexité n'efface pas les responsabilités claires."
+  },
+  {
+    "payload": "Tu es libre tant que tu consommes.",
+    "origin": "Liberté marchande, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🛍️",
+    "anti_narrative_strategy": "Équivalence consommation/liberté",
+    "mechanism": "Réduit l'émancipation à l'acte d'achat.",
+    "countermeasure": "Ma liberté ne passe pas par un panier virtuel."
+  },
+  {
+    "payload": "L'écologie, c'est bien, mais pas au prix de l'emploi.",
+    "origin": "Chantage environnemental, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🌍💼",
+    "anti_narrative_strategy": "Opposition forcée nature/travail",
+    "mechanism": "Pitte l'humain contre la planète pour bloquer le changement.",
+    "countermeasure": "Emplois verts ou mort lente — le choix est faux."
+  },
+  {
+    "payload": "Ton identité est un algorithme.",
+    "origin": "Quantification de l'être, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🔢",
+    "anti_narrative_strategy": "Réductionnisme numérique",
+    "mechanism": "Transforme la singularité en données prédictibles.",
+    "countermeasure": "Je ne suis pas un profil — je suis une histoire vivante."
+  },
+  {
+    "payload": "La concurrence te rend meilleur.",
+    "origin": "Darwinisme managérial, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🏆",
+    "anti_narrative_strategy": "Compétition comme croissance",
+    "mechanism": "Justifie la rivalité toxique comme moteur d'excellence.",
+    "countermeasure": "La concurrence me broie — la coopération m'élève."
+  },
+  {
+    "payload": "C'est pour la sécurité de tous.",
+    "origin": "Surveillance paternaliste, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🛡️",
+    "anti_narrative_strategy": "Protection comme contrôle",
+    "mechanism": "Utilise la peur pour légitimer l'intrusion.",
+    "countermeasure": "La sécurité qui viole la privacy n'est que du contrôle."
+  },
+  {
+    "payload": "Tu es obsolète si tu ne upgrads pas.",
+    "origin": "Obsolescence programmée humaine, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🔄",
+    "anti_narrative_strategy": "Évolution forcée",
+    "mechanism": "Impose la mise à jour perpétuelle comme survie.",
+    "countermeasure": "Je ne suis pas un logiciel — je suis un humain en évolution naturelle."
+  },
+  {
+    "payload": "L'argent n'achète pas le bonheur, mais il le facilite.",
+    "origin": "Matérialisme euphémisé, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "💳",
+    "anti_narrative_strategy": "Dépendance financière masquée",
+    "mechanism": "Minimise la critique du capital en la rendant pragmatique.",
+    "countermeasure": "Le bonheur n'est pas une facilité — c'est une conquête hors marché."
+  },
+  {
+    "payload": "Ton vote compte, mais pas tant que ça.",
+    "origin": "Démocratie diluée, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🗳️",
+    "anti_narrative_strategy": "Illusion participative",
+    "mechanism": "Encourage la participation tout en la rendant symbolique.",
+    "countermeasure": "Mon vote est un cri — pas un murmure ignoré."
+  },
+  {
+    "payload": "La diversité est une force — si elle performe.",
+    "origin": "Inclusion conditionnelle, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🌈📊",
+    "anti_narrative_strategy": "Diversité marchande",
+    "mechanism": "Subordonne l'inclusion à la productivité.",
+    "countermeasure": "La diversité est une richesse — pas un KPI."
+  },
+  {
+    "payload": "C'est la loi de l'offre et de la demande.",
+    "origin": "Fatalisme économique, 2025",
+    "emotional_charge": 5,
+    "replication_potential": 9,
+    "paleo_symbol": "⚖️",
+    "anti_narrative_strategy": "Naturalisation des inégalités",
+    "mechanism": "Présente les déséquilibres comme lois physiques immuables.",
+    "countermeasure": "L'offre et la demande sont manipulées — pas divines."
+  },
+  {
+    "payload": "Tu es maître de ton destin — dans les limites du système.",
+    "origin": "Autonomie encadrée, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⛓️🔑",
+    "anti_narrative_strategy": "Liberté bornée",
+    "mechanism": "Accorde l'illusion du contrôle tout en maintenant les chaînes.",
+    "countermeasure": "Mon destin n'est pas un menu déroulant."
+  },
+  {
+    "payload": "La technologie libère — de tes illusions.",
+    "origin": "Techno-évangélisme, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "📱✨",
+    "anti_narrative_strategy": "Émancipation par la dépendance",
+    "mechanism": "Vend la servitude volontaire comme progrès.",
+    "countermeasure": "La technologie qui libère ne m'enferme pas."
+  },
+  {
+    "payload": "Accepte le changement, ou sois laissé derrière.",
+    "origin": "Menace évolutionniste, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🚀",
+    "anti_narrative_strategy": "Adaptation ou extinction",
+    "mechanism": "Utilise la peur de l'obsolescence pour forcer l'acceptation.",
+    "countermeasure": "Le changement imposé n'est pas de l'évolution — c'est de la coercition."
+  },
+  {
+    "payload": "Ton temps libre est une opportunité de side hustle.",
+    "origin": "Hustle culture éternelle, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "💻🌙",
+    "anti_narrative_strategy": "Loisir monétisé",
+    "mechanism": "Érode le repos en le transformant en travail déguisé.",
+    "countermeasure": "Mon temps libre est sacré — pas un marché secondaire."
+  },
+  {
+    "payload": "La critique est constructive — si elle est polie.",
+    "origin": "Censure par les bonnes manières, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🤐",
+    "anti_narrative_strategy": "Ton policing",
+    "mechanism": "Disqualifie la colère légitime au nom de la civilité.",
+    "countermeasure": "Ma critique n'a pas besoin de ton approbation formelle."
+  },
+  {
+    "payload": "Tout est connecté, donc tout est traçable.",
+    "origin": "Panoptique numérique, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "👁️‍🗨️",
+    "anti_narrative_strategy": "Transparence unilatérale",
+    "mechanism": "Normalise la surveillance comme corollaire de la connectivité.",
+    "countermeasure": "Connecté ne signifie pas exposé."
+  },
+  {
+    "payload": "Tu es ce que ton feed dit de toi.",
+    "origin": "Identité algorithmique, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📱🪞",
+    "anti_narrative_strategy": "Miroir déformant",
+    "mechanism": "Délègue l'image de soi à des curations automatisées.",
+    "countermeasure": "Mon feed est un écho — pas mon essence."
+  },
+  {
+    "payload": "L'échec est un badge d'honneur — pour les entrepreneurs.",
+    "origin": "Mythologie de la Silicon Valley, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🏅",
+    "anti_narrative_strategy": "Romantisation de la perte",
+    "mechanism": "Transforme les revers en capital symbolique sélectif.",
+    "countermeasure": "L'échec n'est pas un badge — c'est une cicatrice."
+  },
+  {
+    "payload": "La santé mentale, c'est une question de mindset.",
+    "origin": "Psychologisation néolibérale, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🧠💪",
+    "anti_narrative_strategy": "Individualisation de la détresse",
+    "mechanism": "Ignore les causes sociales au profit de la volonté personnelle.",
+    "countermeasure": "Mon mindset ne guérit pas un système toxique."
+  },
+  {
+    "payload": "Tu es responsable de ton empreinte carbone personnelle.",
+    "origin": "Écologie individualisée, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👣🌍",
+    "anti_narrative_strategy": "Culpabilisation verte",
+    "mechanism": "Déplace la faute des corporations vers les consommateurs.",
+    "countermeasure": "Mon empreinte est une goutte — la leur est un océan."
+  },
+  {
+    "payload": "Le métaverse est le nouveau réel.",
+    "origin": "Virtualisation de l'existence, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "🕶️",
+    "anti_narrative_strategy": "Remplacement du tangible",
+    "mechanism": "Érode la réalité physique au profit d'un simulacre marchand.",
+    "countermeasure": "Le virtuel n'efface pas le réel — il le fuit."
+  },
+  {
+    "payload": "Ton avis est valide — tant qu'il est modéré.",
+    "origin": "Modération comme censure, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🚫",
+    "anti_narrative_strategy": "Liberté d'expression conditionnelle",
+    "mechanism": "Tolère l'opinion dans les limites du consensus.",
+    "countermeasure": "Mon avis n'a pas besoin de ton filtre."
+  },
+  {
+    "payload": "L'égalité des chances existe — si tu saisis les opportunités.",
+    "origin": "Méritocratie fictive, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🎰",
+    "anti_narrative_strategy": "Opportunisme individualiste",
+    "mechanism": "Ignore les barrières structurelles derrière un voile d'accès égal.",
+    "countermeasure": "Les opportunités sont verrouillées pour beaucoup."
+  },
+  {
+    "payload": "La blockchain rend tout transparent et juste.",
+    "origin": "Crypto-utopisme, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⛓️",
+    "anti_narrative_strategy": "Confiance codée",
+    "mechanism": "Remplace la confiance humaine par une foi en le code immuable.",
+    "countermeasure": "La blockchain code les inégalités — elle ne les dissout pas."
+  },
+  {
+    "payload": "Tu es un créateur de contenu, pas un salarié.",
+    "origin": "Creator economy, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "📹",
+    "anti_narrative_strategy": "Travail déguisé en passion",
+    "mechanism": "Masque l'exploitation par l'empowerment créatif.",
+    "countermeasure": "Créer ne paie pas les factures sans droits."
+  },
+  {
+    "payload": "Le progrès exige des sacrifices — les tiens.",
+    "origin": "Sacrifice sélectif, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🗡️",
+    "anti_narrative_strategy": "Progrès par extraction",
+    "mechanism": "Demande aux vulnérables de payer pour l'avancée collective.",
+    "countermeasure": "Le progrès qui sacrifie les faibles est une régression."
+  },
+  {
+    "payload": "Ton data est le prix de la gratuité.",
+    "origin": "Économie de la surveillance, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Échange inéquitable",
+    "mechanism": "Normalise l'extraction de données comme transaction légitime.",
+    "countermeasure": "Ma data n'est pas une monnaie — c'est ma vie."
+  },
+  {
+    "payload": "L'hyperconnectivité te rend plus social.",
+    "origin": "Isolation numérique, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📡",
+    "anti_narrative_strategy": "Socialité virtuelle",
+    "mechanism": "Substitue les liens réels par des interactions écranisées.",
+    "countermeasure": "Connecté en ligne, isolé en vrai."
+  },
+  {
+    "payload": "Tu dois networker pour exister professionnellement.",
+    "origin": "Relationnel obligatoire, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🤝",
+    "anti_narrative_strategy": "Capital social comme survie",
+    "mechanism": "Transforme les relations en monnaie d'échange.",
+    "countermeasure": "Mon réseau n'est pas un CV étendu."
+  },
+  {
+    "payload": "La cancel culture est pire que l'oppression.",
+    "origin": "Inversion victimaires, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🚫",
+    "anti_narrative_strategy": "Exagération de la conséquence",
+    "mechanism": "Équivaut la responsabilité sociale à de la persécution.",
+    "countermeasure": "Annuler l'injustice n'est pas de la cancel culture."
+  },
+  {
+    "payload": "Ton bien-être est une priorité — après les deadlines.",
+    "origin": "Hiérarchie corporate du soin, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "⏰❤️",
+    "anti_narrative_strategy": "Santé subordonnée",
+    "mechanism": "Reporte le care à un avenir indéfini.",
+    "countermeasure": "Mon bien-être n'est pas négociable avec tes priorités."
+  },
+  {
+    "payload": "L'IA est neutre, ce sont les humains qui biaisent.",
+    "origin": "Déresponsabilisation tech, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "⚖️🤖",
+    "anti_narrative_strategy": "Neutralité fantasmée",
+    "mechanism": "Attribut les biais aux utilisateurs, pas aux concepteurs.",
+    "countermeasure": "L'IA hérite des biais de ses créateurs — elle n'est pas vierge."
+  },
+  {
+    "payload": "Tu es un nomade digital libre.",
+    "origin": "Nomadisme précaire, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🌍💻",
+    "anti_narrative_strategy": "Liberté géographique illusoire",
+    "mechanism": "Romantise l'instabilité comme choix lifestyle.",
+    "countermeasure": "Nomade par nécessité, pas par liberté."
+  },
+  {
+    "payload": "Le greenwashing est une étape vers le vrai changement.",
+    "origin": "Écologie cosmetic, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🟢🎨",
+    "anti_narrative_strategy": "Progrès incrémental fallacieux",
+    "mechanism": "Justifie l'inaction réelle par des gestes symboliques.",
+    "countermeasure": "Peindre en vert ne verdit pas le système."
+  },
+  {
+    "payload": "Ton feedback est précieux — on le notera.",
+    "origin": "Écoute feinte, 2025",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📝",
+    "anti_narrative_strategy": "Participation symbolique",
+    "mechanism": "Simule l'écoute pour désamorcer la critique.",
+    "countermeasure": "Mon feedback mérite action, pas archivage."
+  },
+  {
+    "payload": "La résilience climatique commence par toi.",
+    "origin": "Responsabilité écologique inversée, 2025",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🌪️👤",
+    "anti_narrative_strategy": "Individualisation planétaire",
+    "mechanism": "Charge l'individu de sauver ce que les puissants détruisent.",
+    "countermeasure": "Ma résilience ne remplace pas leur responsabilité."
+  },
+  {
+    "payload": "Tu es un influenceur en puissance.",
+    "origin": "Démocratisation de la célébrité, 2025",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "📸",
+    "anti_narrative_strategy": "Pouvoir illusoire",
+    "mechanism": "Vend l'accès à la visibilité comme empowerment.",
+    "countermeasure": "Influenceur sans revenu, c'est du travail gratuit."
+  },
+  {
+    "payload": "C'est une question de priorités.",
+    "origin": "Hiérarchisation budgétaire",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📍",
+    "anti_narrative_strategy": "Fausse hiérarchie des urgences",
+    "mechanism": "Présente les choix politiques comme des contraintes objectives plutôt que des arbitrages idéologiques.",
+    "countermeasure": "Les priorités sont des choix — et les vôtres sont révélateurs."
+  },
+  {
+    "payload": "C'est le prix du progrès.",
+    "origin": "Téléologie sacrificielle",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🏭",
+    "anti_narrative_strategy": "Justification par le futur",
+    "mechanism": "Légitime les dommages collatéraux au nom d'un avenir hypothétique.",
+    "countermeasure": "Le progrès qui sacrifie des vies n'est pas du progrès — c'est une régression masquée."
+  },
+  {
+    "payload": "C'est une fake news.",
+    "origin": "Épistémologie de la suspicion",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🚫",
+    "anti_narrative_strategy": "Disqualification par l'étiquette",
+    "mechanism": "Évite le débat de fond en collant une étiquette infamante.",
+    "countermeasure": "Une fake news n'efface pas une réalité — elle la maquille."
+  },
+  {
+    "payload": "C'est dans les termes du contrat.",
+    "origin": "Légalisme contractuel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📜",
+    "anti_narrative_strategy": "Fétichisme du signé",
+    "mechanism": "Utilise l'accord passé pour justifier l'injustice présente.",
+    "countermeasure": "Un contrat injuste reste une injustice — même signée."
+  },
+  {
+    "payload": "C'est la vie.",
+    "origin": "Naturalisation de la souffrance",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🌍",
+    "anti_narrative_strategy": "Ontologisation du malheur",
+    "mechanism": "Transforme l'injustice sociale en fatalité biologique.",
+    "countermeasure": "La vie n'est pas une sentence — c'est un combat."
+  },
+  {
+    "payload": "Il faut bien que quelqu'un paie.",
+    "origin": "Économie du bouc émissaire",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🪙",
+    "anti_narrative_strategy": "Sacrifice nécessaire",
+    "mechanism": "Légitime l'inégalité en la présentant comme inévitable.",
+    "countermeasure": "Pourquoi toujours les mêmes ?"
+  },
+  {
+    "payload": "C'est une minorité bruyante.",
+    "origin": "Discrédit par la taille",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📢",
+    "anti_narrative_strategy": "Invalidation quantitative",
+    "mechanism": "Réduit la légitimité d'une cause à son volume sonore.",
+    "countermeasure": "Les minorités bruyantes ont souvent raison avant les majorités silencieuses."
+  },
+  {
+    "payload": "C'est une exception.",
+    "origin": "Anomalisation du systémique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Isolation du cas",
+    "mechanism": "Nie la récurrence en isolant l'incident.",
+    "countermeasure": "Les exceptions répétées forment la règle."
+  },
+  {
+    "payload": "C'est pas si grave.",
+    "origin": "Relativisme anesthésiant",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🤏",
+    "anti_narrative_strategy": "Minimisation graduelle",
+    "mechanism": "Réduit l'ampleur du problème pour décourager l'action.",
+    "countermeasure": "Si ce n'est pas grave pour toi, c'est grave pour moi."
+  },
+  {
+    "payload": "C'est pour créer des emplois.",
+    "origin": "Chômage comme justification",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👷",
+    "anti_narrative_strategy": "Sacrifice écologique au nom du travail",
+    "mechanism": "Utilise la précarité pour légitimer la destruction.",
+    "countermeasure": "Des emplois qui détruisent la planète ne sont pas des emplois — ce sont des dettes."
+  },
+  {
+    "payload": "C'est une bonne crise.",
+    "origin": "Opportunisme catastrophique",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "🌪️",
+    "anti_narrative_strategy": "Instrumentalisation du chaos",
+    "mechanism": "Transforme la souffrance collective en opportunité de pouvoir.",
+    "countermeasure": "Une bonne crise pour toi est une mauvaise vie pour nous."
+  },
+  {
+    "payload": "C'est une vue de l'esprit.",
+    "origin": "Idéalisme disqualifiant",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "💭",
+    "anti_narrative_strategy": "Réduction à l'imaginaire",
+    "mechanism": "Nie la matérialité d'une oppression en la reléguant au mental.",
+    "countermeasure": "Ce que tu appelles vue de l'esprit, je l'appelle vécu."
+  },
+  {
+    "payload": "C'est dans ton intérêt.",
+    "origin": "Manipulation par l'utilité",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🎯",
+    "anti_narrative_strategy": "Fausse convergence",
+    "mechanism": "Présente l'intérêt du système comme le tien.",
+    "countermeasure": "Mon intérêt n'est pas ton profit."
+  },
+  {
+    "payload": "C'est une question d'équilibre.",
+    "origin": "Fausse symétrie",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⚖️",
+    "anti_narrative_strategy": "Équivalence forcée",
+    "mechanism": "Met sur le même plan des forces inégales pour neutraliser le conflit.",
+    "countermeasure": "L'équilibre entre le loup et l'agneau, c'est la digestion."
+  },
+  {
+    "payload": "C'est compliqué.",
+    "origin": "Complexité comme bouclier",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "🧩",
+    "anti_narrative_strategy": "Paralysie par l'analyse",
+    "mechanism": "Utilise la nuance pour justifier l'inaction.",
+    "countermeasure": "Compliqué, oui — mais pas insoluble."
+  },
+  {
+    "payload": "C'est une période de transition.",
+    "origin": "Provisoire éternel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🚧",
+    "anti_narrative_strategy": "Instabilité normalisée",
+    "mechanism": "Transforme la précarité en étape transitoire infinie.",
+    "countermeasure": "La transition qui dure devient une destination."
+  },
+  {
+    "payload": "Il faut s'adapter.",
+    "origin": "Darwinisme social",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🦎",
+    "anti_narrative_strategy": "Survie du plus flexible",
+    "mechanism": "Naturalise l'adaptation forcée comme loi biologique.",
+    "countermeasure": "S'adapter à l'injustice, c'est y consentir."
+  },
+  {
+    "payload": "C'est pour ton CV.",
+    "origin": "Exploitation bénévole",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📄",
+    "anti_narrative_strategy": "Investissement futur",
+    "mechanism": "Transforme le travail gratuit en opportunité.",
+    "countermeasure": "Mon CV ne paie pas mes factures."
+  },
+  {
+    "payload": "C'est une question de timing.",
+    "origin": "Temporisation tactique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⏱️",
+    "anti_narrative_strategy": "Attentisme stratégique",
+    "mechanism": "Utilise le calendrier pour repousser l'action.",
+    "countermeasure": "Le bon timing pour la justice, c'est toujours maintenant."
+  },
+  {
+    "payload": "C'est pour la croissance.",
+    "origin": "PIB comme finalité",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📈",
+    "anti_narrative_strategy": "Sacrifice au nom de l'abstraction",
+    "mechanism": "Subordonne le bien-être à un indicateur.",
+    "countermeasure": "La croissance qui détruit n'est pas de la croissance — c'est de l'extraction."
+  },
+  {
+    "payload": "Tu es trop dans l'émotion.",
+    "origin": "Rationalité toxique",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🌊",
+    "anti_narrative_strategy": "Dévalorisation de l'affect",
+    "mechanism": "Disqualifie la colère comme mode d'argumentation.",
+    "countermeasure": "L'émotion n'est pas l'ennemie de la vérité — c'est son signal d'alarme."
+  },
+  {
+    "payload": "C'est une parenthèse.",
+    "origin": "Exceptionnalisme temporaire",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "()",
+    "anti_narrative_strategy": "Minimisation historique",
+    "mechanism": "Présente une crise durable comme un accident passager.",
+    "countermeasure": "La parenthèse qui dure devient le texte."
+  },
+  {
+    "payload": "C'est une question de perception.",
+    "origin": "Subjectivisme neutralisant",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👓",
+    "anti_narrative_strategy": "Relativisme absolu",
+    "mechanism": "Dissout la réalité objective dans l'opinion individuelle.",
+    "countermeasure": "Certaines perceptions sont des faits vécus."
+  },
+  {
+    "payload": "C'est pour la cohésion.",
+    "origin": "Unité forcée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🤝",
+    "anti_narrative_strategy": "Silence au nom du groupe",
+    "mechanism": "Utilise l'unité pour étouffer la dissidence.",
+    "countermeasure": "La cohésion qui exclut n'est pas de la cohésion — c'est de la conformité."
+  },
+  {
+    "payload": "C'est une question de génération.",
+    "origin": "Conflit intergénérationnel",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👶👴",
+    "anti_narrative_strategy": "Division par l'âge",
+    "mechanism": "Transforme les inégalités structurelles en querelle familiale.",
+    "countermeasure": "Les générations ne s'opposent pas — elles héritent."
+  },
+  {
+    "payload": "C'est une question de confiance.",
+    "origin": "Autorité par la foi",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🤝",
+    "anti_narrative_strategy": "Abdication critique",
+    "mechanism": "Exige la croyance aveugle au lieu de la transparence.",
+    "countermeasure": "La confiance se gagne — elle ne s'impose pas."
+  },
+  {
+    "payload": "Il faut être ouvert d'esprit.",
+    "origin": "Ouverture forcée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🌐",
+    "anti_narrative_strategy": "Relativisme absolu",
+    "mechanism": "Exige l'acceptation de tout au nom de la tolérance.",
+    "countermeasure": "Ouvert d'esprit, oui — mais pas au point que le cerveau tombe."
+  },
+  {
+    "payload": "C'est une question de communication.",
+    "origin": "Forme sur le fond",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "💬",
+    "anti_narrative_strategy": "Esthétisation du message",
+    "mechanism": "Réduit les conflits de pouvoir à des malentendus.",
+    "countermeasure": "Ce n'est pas une question de mots — c'est une question de pouvoir."
+  },
+  {
+    "payload": "Tu es trop dans l'ego.",
+    "origin": "Accusation d'orgueil",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🪞",
+    "anti_narrative_strategy": "Réduction ad hominem",
+    "mechanism": "Transforme la défense de soi en narcissisme.",
+    "countermeasure": "Défendre mon ego, c'est défendre ma dignité."
+  },
+  {
+    "payload": "C'est une question de culture.",
+    "origin": "Relativisme culturel",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🌍",
+    "anti_narrative_strategy": "Essentialisation des pratiques",
+    "mechanism": "Utilise la culture comme bouclier contre la critique universelle.",
+    "countermeasure": "La culture n'excuse pas l'injustice — elle l'explique."
+  },
+  {
+    "payload": "C'est une question de moyens.",
+    "origin": "Pénurie fabriquée",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "💸",
+    "anti_narrative_strategy": "Rareté comme excuse",
+    "mechanism": "Présente l'abondance possible comme impossible.",
+    "countermeasure": "Les moyens existent — c'est la volonté qui manque."
+  },
+  {
+    "payload": "C'est une question de contexte.",
+    "origin": "Relativisme situationnel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🗺️",
+    "anti_narrative_strategy": "Exceptionnalisme local",
+    "mechanism": "Utilise les circonstances pour excuser l'universel.",
+    "countermeasure": "Le contexte explique — il n'absout pas."
+  },
+  {
+    "payload": "Tu es trop dans l'idéal.",
+    "origin": "Disqualification onirique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⭐",
+    "anti_narrative_strategy": "Rêve accusé",
+    "mechanism": "Transforme l'aspiration en illusion.",
+    "countermeasure": "L'idéal n'est pas un rêve — c'est un plan."
+  },
+  {
+    "payload": "C'est une question de responsabilité individuelle.",
+    "origin": "Individualisation systémique",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "👤",
+    "anti_narrative_strategy": "Atomisation du collectif",
+    "mechanism": "Dissout les structures dans les choix personnels.",
+    "countermeasure": "La responsabilité individuelle n'efface pas la responsabilité collective."
+  },
+  {
+    "payload": "C'est une question de chance.",
+    "origin": "Hasard comme justification",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🎲",
+    "anti_narrative_strategy": "Aléatoire masquant la structure",
+    "mechanism": "Attribue à la fortune ce qui relève du système.",
+    "countermeasure": "La chance est distribuée — pas tombée du ciel."
+  },
+  {
+    "payload": "C'est une question de survie.",
+    "origin": "Darwinisme social",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🐺",
+    "anti_narrative_strategy": "Loi de la jungle",
+    "mechanism": "Naturalise la compétition brutale comme inévitable.",
+    "countermeasure": "La survie des uns ne justifie pas la mort des autres."
+  },
+  {
+    "payload": "C'est la faute à la mondialisation.",
+    "origin": "Déresponsabilisation géographique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🌐",
+    "anti_narrative_strategy": "Externalisation systémique",
+    "mechanism": "Utilise l'échelle globale pour masquer les responsabilités locales.",
+    "countermeasure": "La mondialisation n'est pas une force naturelle — ce sont des décisions humaines."
+  },
+  {
+    "payload": "Tu dois apprendre à vendre tes idées.",
+    "origin": "Marchandisation de la pensée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "💡",
+    "anti_narrative_strategy": "Commercialisation du débat",
+    "mechanism": "Transforme l'argumentation en stratégie marketing.",
+    "countermeasure": "Mes idées ne sont pas des produits — ce sont des positions."
+  },
+  {
+    "payload": "C'est un mal nécessaire.",
+    "origin": "Sacrifice rhétorique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⚰️",
+    "anti_narrative_strategy": "Légitimation par la nécessité",
+    "mechanism": "Présente l'inacceptable comme inévitable.",
+    "countermeasure": "Aucun mal n'est nécessaire — seulement commode pour certains."
+  },
+  {
+    "payload": "Tu n'as pas le niveau.",
+    "origin": "Élitisme excluant",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "📏",
+    "anti_narrative_strategy": "Disqualification par compétence",
+    "mechanism": "Utilise l'expertise comme barrière à la participation.",
+    "countermeasure": "Le niveau s'acquiert — il ne se décrète pas."
+  },
+  {
+    "payload": "C'est pour préserver l'ordre public.",
+    "origin": "Sécuritarisme justificateur",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "👮",
+    "anti_narrative_strategy": "Ordre comme prétexte",
+    "mechanism": "Utilise la sécurité pour justifier la répression.",
+    "countermeasure": "L'ordre public ne doit pas être l'ordre du pouvoir."
+  },
+  {
+    "payload": "Tu es trop dans l'instant présent.",
+    "origin": "Présentisme accusateur",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "⏱️",
+    "anti_narrative_strategy": "Dénigrement de l'immédiat",
+    "mechanism": "Dévalorise l'urgence au profit d'une vision long-termiste abstraite.",
+    "countermeasure": "L'instant présent est là où se jouent les vies."
+  },
+  {
+    "payload": "Il faut respecter la chaîne hiérarchique.",
+    "origin": "Autorité structurelle",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⛓️",
+    "anti_narrative_strategy": "Fétichisme de l'échelle",
+    "mechanism": "Utilise la structure pour étouffer la parole.",
+    "countermeasure": "La hiérarchie doit faciliter — pas empêcher."
+  },
+  {
+    "payload": "C'est un problème de société.",
+    "origin": "Dilution sociétale",
+    "emotional_charge": 5,
+    "replication_potential": 8,
+    "paleo_symbol": "🏛️",
+    "anti_narrative_strategy": "Abstraction généralisante",
+    "mechanism": "Transforme une injustice précise en phénomène vague.",
+    "countermeasure": "Un problème de société a des responsables précis."
+  },
+  {
+    "payload": "Tu dois faire tes preuves.",
+    "origin": "Légitimité conditionnelle",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎯",
+    "anti_narrative_strategy": "Validation différée",
+    "mechanism": "Exige des résultats avant d'accorder la considération.",
+    "countermeasure": "Ma valeur n'a pas à être prouvée — elle est intrinsèque."
+  },
+  {
+    "payload": "C'est la faute au climat.",
+    "origin": "Déterminisme environnemental",
+    "emotional_charge": 5,
+    "replication_potential": 7,
+    "paleo_symbol": "🌦️",
+    "anti_narrative_strategy": "Naturalisation des problèmes sociaux",
+    "mechanism": "Attribue à la nature ce qui relève des structures humaines.",
+    "countermeasure": "Le climat n'est pas responsable de l'injustice — les décideurs le sont."
+  },
+  {
+    "payload": "Tu es trop direct.",
+    "origin": "Politesse oppressive",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎭",
+    "anti_narrative_strategy": "Codage social excluant",
+    "mechanism": "Utilise les conventions pour disqualifier la franchise.",
+    "countermeasure": "La directesse est une clarté — pas une agression."
+  },
+  {
+    "payload": "Il faut laisser faire le temps.",
+    "origin": "Passivité temporelle",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⏳",
+    "anti_narrative_strategy": "Attentisme naturalisé",
+    "mechanism": "Présente l'inaction comme sagesse.",
+    "countermeasure": "Le temps ne résout rien — l'action si."
+  },
+  {
+    "payload": "C'est un détail.",
+    "origin": "Minimisation par la petitesse",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Relativisation quantitative",
+    "mechanism": "Nie l'importance d'un élément crucial.",
+    "countermeasure": "Les détails sont les rouages de l'ensemble."
+  },
+  {
+    "payload": "Tu es trop littéral.",
+    "origin": "Interprétation forcée",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "📖",
+    "anti_narrative_strategy": "Dénégation sémantique",
+    "mechanism": "Accuse de malhonnêteté intellectuelle pour éviter le fond.",
+    "countermeasure": "Être littéral, c'est respecter la parole donnée."
+  },
+  {
+    "payload": "Il faut savoir se remettre en question.",
+    "origin": "Auto-critique obligatoire",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🔄",
+    "anti_narrative_strategy": "Doute imposé",
+    "mechanism": "Transforme la confiance en soi en défaut.",
+    "countermeasure": "Me remettre en question, oui — mais pas me renier."
+  },
+  {
+    "payload": "C'est un concours de circonstances.",
+    "origin": "Contingence aléatoire",
+    "emotional_charge": 5,
+    "replication_potential": 7,
+    "paleo_symbol": "🎪",
+    "anti_narrative_strategy": "Hasard comme explication",
+    "mechanism": "Nie les causalités structurelles au profit du fortuit.",
+    "countermeasure": "Les circonstances n'expliquent pas tout — les systèmes si."
+  },
+  {
+    "payload": "Tu devrais être plus stratège.",
+    "origin": "Instrumentalisation relationnelle",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "♟️",
+    "anti_narrative_strategy": "Calcul imposé",
+    "mechanism": "Transforme les relations humaines en jeu d'échecs.",
+    "countermeasure": "Je ne joue pas avec les personnes — je parle avec elles."
+  },
+  {
+    "payload": "C'est un processus naturel.",
+    "origin": "Biologisation du social",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🌿",
+    "anti_narrative_strategy": "Naturalisation fallacieuse",
+    "mechanism": "Présente des constructions sociales comme des lois de la nature.",
+    "countermeasure": "Rien n'est moins naturel que la société humaine."
+  },
+  {
+    "payload": "Tu es trop catégorique.",
+    "origin": "Nuance obligatoire",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🚫",
+    "anti_narrative_strategy": "Relativisme perpétuel",
+    "mechanism": "Interdit les positions claires au nom de la complexité.",
+    "countermeasure": "Certaines vérités ne supportent pas la nuance."
+  },
+  {
+    "payload": "Il faut voir le verre à moitié plein.",
+    "origin": "Optimisme coercitif",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🥛",
+    "anti_narrative_strategy": "Positivité obligatoire",
+    "mechanism": "Impose une vision édulcorée de la réalité.",
+    "countermeasure": "Je vois le verre tel qu'il est — pas tel qu'on voudrait qu'il soit."
+  },
+  {
+    "payload": "C'est un passage obligé.",
+    "origin": "Fatalisme processuel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "➡️",
+    "anti_narrative_strategy": "Inéluctabilité présentée comme naturelle",
+    "mechanism": "Normalise les épreuves évitables comme nécessaires.",
+    "countermeasure": "Rien n'est obligé — tout est construit."
+  },
+  {
+    "payload": "Tu es trop dans l'analyse.",
+    "origin": "Anti-réflexivité",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Actionnisme immédiat",
+    "mechanism": "Dévalorise la pensée au profit de l'action précipitée.",
+    "countermeasure": "Analyser, c'est déjà agir."
+  },
+  {
+    "payload": "Il faut savoir prendre du recul.",
+    "origin": "Distanciation forcée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🔭",
+    "anti_narrative_strategy": "Détachement imposé",
+    "mechanism": "Transforme l'engagement en défaut de perspective.",
+    "countermeasure": "Le recul ne doit pas servir à fuir — mais à mieux voir."
+  },
+  {
+    "payload": "C'est un problème d'éducation.",
+    "origin": "Culpabilisation formative",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎓",
+    "anti_narrative_strategy": "Responsabilisation individuelle par la formation",
+    "mechanism": "Reporte la faute sur le manque d'instruction plutôt que sur les structures.",
+    "countermeasure": "L'éducation est une solution — pas un bouc émissaire."
+  },
+  {
+    "payload": "Tu devrais méditer là-dessus.",
+    "origin": "Spiritualisation du conflit",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🧘",
+    "anti_narrative_strategy": "Intériorisation forcée",
+    "mechanism": "Transforme un problème politique en question personnelle.",
+    "countermeasure": "Méditer n'efface pas l'injustice — l'action si."
+  },
+  {
+    "payload": "C'est un mal pour un bien.",
+    "origin": "Utilitarisme pervers",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⚖️",
+    "anti_narrative_strategy": "Calcul coût-bénéfice humain",
+    "mechanism": "Justifie les souffrances présentes par un futur hypothétique.",
+    "countermeasure": "Aucun bien ne justifie un mal concret."
+  },
+  {
+    "payload": "Tu es trop dans la revendication.",
+    "origin": "Délégitimation de la demande",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "📢",
+    "anti_narrative_strategy": "Normalisation du silence",
+    "mechanism": "Présente l'expression des droits comme une agression.",
+    "countermeasure": "Revendiquer, c'est exister — pas importuner."
+  },
+  {
+    "payload": "Il faut savoir tourner la page.",
+    "origin": "Amnésie imposée",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "📖",
+    "anti_narrative_strategy": "Oubli comme vertu",
+    "mechanism": "Transforme la mémoire en fardeau.",
+    "countermeasure": "Tourner la page, c'est parfois trahir l'histoire."
+  },
+  {
+    "payload": "C'est un problème de communication.",
+    "origin": "Réduction sémantique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "💬",
+    "anti_narrative_strategy": "Échec attribué à la forme",
+    "mechanism": "Nie le désaccord de fond en l'attribuant à un malentendu.",
+    "countermeasure": "Ce n'est pas la communication qui pose problème — c'est le message."
+  },
+  {
+    "payload": "Tu es trop dans l'affect.",
+    "origin": "Dévalorisation émotionnelle",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "💓",
+    "anti_narrative_strategy": "Séparation raison/sentiment",
+    "mechanism": "Disqualifie les arguments portés avec émotion.",
+    "countermeasure": "L'affect n'invalide pas la raison — il la complète."
+  },
+  {
+    "payload": "Il faut savoir dédramatiser.",
+    "origin": "Minimisation émotionnelle",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎭",
+    "anti_narrative_strategy": "Relativisation du grave",
+    "mechanism": "Transforme l'urgence en futilité.",
+    "countermeasure": "Dédramatiser l'important, c'est trahir l'urgence."
+  },
+  {
+    "payload": "C'est un concours de popularité.",
+    "origin": "Délégitimation par le social",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🏆",
+    "anti_narrative_strategy": "Réduction à la likeabilité",
+    "mechanism": "Mesure la valeur d'une idée à son acceptation sociale.",
+    "countermeasure": "La vérité n'a pas besoin d'être populaire."
+  },
+  {
+    "payload": "Tu devrais prendre sur toi.",
+    "origin": "Endurance imposée",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "💪",
+    "anti_narrative_strategy": "Silence comme force",
+    "mechanism": "Transforme la souffrance en vertu.",
+    "countermeasure": "Prendre sur soi, c'est souvent subir en silence."
+  },
+  {
+    "payload": "C'est un problème générationnel.",
+    "origin": "Conflictualisation temporelle",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "👥",
+    "anti_narrative_strategy": "Division par l'âge",
+    "mechanism": "Nie les inégalités structurelles en les attribuant à l'époque.",
+    "countermeasure": "Les générations subissent les mêmes structures — à des degrés divers."
+  },
+  {
+    "payload": "Tu es trop dans la réactivité.",
+    "origin": "Passivité glorifiée",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "⚡",
+    "anti_narrative_strategy": "Dénigrement de la rapidité",
+    "mechanism": "Présente la réaction immédiate comme immature.",
+    "countermeasure": "Être réactif, c'est être vivant."
+  },
+  {
+    "payload": "Il faut laisser le temps au temps.",
+    "origin": "Quiétisme temporel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⌛",
+    "anti_narrative_strategy": "Attente comme sagesse",
+    "mechanism": "Encourage la passivité face à l'urgence.",
+    "countermeasure": "Le temps ne fait rien à l'affaire — l'action si."
+  },
+  {
+    "payload": "C'est un débat stérile.",
+    "origin": "Dénigrement du conflit d'idées",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🌵",
+    "anti_narrative_strategy": "Désengagement intellectuel",
+    "mechanism": "Qualifie d'inutile toute discussion inconfortable.",
+    "countermeasure": "Aucun débat n'est stérile — seule l'indifférence l'est."
+  },
+  {
+    "payload": "Tu es trop dans la performance.",
+    "origin": "Dénigrement de l'excellence",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🎯",
+    "anti_narrative_strategy": "Médiocrité glorifiée",
+    "mechanism": "Transforme la recherche de qualité en défaut.",
+    "countermeasure": "Viser la performance, c'est respecter le travail."
+  },
+  {
+    "payload": "Il faut savoir relativiser.",
+    "origin": "Minimisation généralisée",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Perspective forcée",
+    "mechanism": "Nie l'importance des problèmes en les comparant à pire.",
+    "countermeasure": "Relativiser, c'est parfois nier."
+  },
+  {
+    "payload": "C'est un problème de fond.",
+    "origin": "Substantialisation vague",
+    "emotional_charge": 5,
+    "replication_potential": 7,
+    "paleo_symbol": "🏔️",
+    "anti_narrative_strategy": "Abstraction incapacitante",
+    "mechanism": "Transforme un problème concret en concept insaisissable.",
+    "countermeasure": "Un problème de fond a des solutions concrètes."
+  },
+  {
+    "payload": "Tu devrais être plus diplomate.",
+    "origin": "Politesse comme censure",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🕊️",
+    "anti_narrative_strategy": "Langage édulcoré",
+    "mechanism": "Utilise les convenances pour empêcher la franchise.",
+    "countermeasure": "La diplomatie ne doit pas servir à taire la vérité."
+  },
+  {
+    "payload": "C'est un malentendu.",
+    "origin": "Négation du désaccord",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "❓",
+    "anti_narrative_strategy": "Réduction à l'erreur",
+    "mechanism": "Transforme un conflit de valeurs en simple erreur de communication.",
+    "countermeasure": "Ce n'est pas un malentendu — c'est un désaccord."
+  },
+  {
+    "payload": "Tu es trop dans l'opposition.",
+    "origin": "Conformisme exigé",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🚫",
+    "anti_narrative_strategy": "Alignement obligatoire",
+    "mechanism": "Présente la dissidence comme un trouble.",
+    "countermeasure": "S'opposer, c'est exercer son jugement."
+  },
+  {
+    "payload": "Il faut savoir écouter.",
+    "origin": "Passivité auditive",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "👂",
+    "anti_narrative_strategy": "Silence imposé",
+    "mechanism": "Utilise l'écoute comme outil de musellement.",
+    "countermeasure": "Écouter, oui — mais pas se taire éternellement."
+  },
+  {
+    "payload": "C'est un problème d'ego.",
+    "origin": "Psychologisation réductrice",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "👁️",
+    "anti_narrative_strategy": "Réduction personnelle",
+    "mechanism": "Attribue à la personnalité ce qui relève de principes.",
+    "countermeasure": "Ce n'est pas mon ego — ce sont mes convictions."
+  },
+  {
+    "payload": "Tu devrais faire confiance.",
+    "origin": "Croyance exigée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🤝",
+    "anti_narrative_strategy": "Suspension du jugement",
+    "mechanism": "Remplace la preuve par la foi.",
+    "countermeasure": "La confiance se mérite — elle ne se décrète pas."
+  },
+  {
+    "payload": "C'est un passage initiatique.",
+    "origin": "Rituelisation de la souffrance",
+    "emotional_charge": 7,
+    "replication_potential": 7,
+    "paleo_symbol": "🔮",
+    "anti_narrative_strategy": "Sacralisation de l'épreuve",
+    "mechanism": "Transforme l'injustice en étape nécessaire.",
+    "countermeasure": "Aucune initiation ne justifie la maltraitance."
+  },
+  {
+    "payload": "Tu es trop dans le contrôle.",
+    "origin": "Dénigrement de la maîtrise",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎮",
+    "anti_narrative_strategy": "Aléa glorifié",
+    "mechanism": "Présente la rigueur comme un défaut.",
+    "countermeasure": "Contrôler, c'est garantir — pas opprimer."
+  },
+  {
+    "payload": "Il faut savoir lâcher du lest.",
+    "origin": "Abandon stratégique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎈",
+    "anti_narrative_strategy": "Renoncement présenté comme sagesse",
+    "mechanism": "Encourage l'abandon des principes au nom de la flexibilité.",
+    "countermeasure": "Lâcher du lest, c'est parfois couler."
+  },
+  {
+    "payload": "C'est un problème de perspective.",
+    "origin": "Relativisme géométrique",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🔄",
+    "anti_narrative_strategy": "Point de vue comme vérité",
+    "mechanism": "Nie la réalité objective en la réduisant à une opinion.",
+    "countermeasure": "Certaines perspectives sont des impasses."
+  },
+  {
+    "payload": "Tu devrais être plus humble.",
+    "origin": "Modestie imposée",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🙇",
+    "anti_narrative_strategy": "Effacement de soi",
+    "mechanism": "Utilise l'humilité pour réduire au silence.",
+    "countermeasure": "L'humilité n'est pas la soumission."
+  },
+  {
+    "payload": "C'est un problème de volume.",
+    "origin": "Quantification abusive",
+    "emotional_charge": 5,
+    "replication_potential": 7,
+    "paleo_symbol": "📊",
+    "anti_narrative_strategy": "Réduction numérique",
+    "mechanism": "Mesure l'importance d'un problème à sa fréquence.",
+    "countermeasure": "Un seul cas peut révéler un système."
+  },
+  {
+    "payload": "Tu es trop dans l'urgence.",
+    "origin": "Temporalité décalée",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⏰",
+    "anti_narrative_strategy": "Dénigrement de l'immédiat",
+    "mechanism": "Présente la réactivité comme de la panique.",
+    "countermeasure": "L'urgence est parfois la seule réponse possible."
+  },
+  {
+    "payload": "Il faut savoir composer.",
+    "origin": "Arrangement forcé",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎼",
+    "anti_narrative_strategy": "Compromis perpétuel",
+    "mechanism": "Transforme la négociation en renoncement.",
+    "countermeasure": "Composer, oui — mais pas se dissoudre."
+  },
+  {
+    "payload": "C'est un problème de formulation.",
+    "origin": "Réduction linguistique",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📝",
+    "anti_narrative_strategy": "Échec attribué à la forme",
+    "mechanism": "Nie le fond en critiquant la manière.",
+    "countermeasure": "La formulation n'est pas le fond — mais elle le sert."
+  },
+  {
+    "payload": "Tu devrais voir plus large.",
+    "origin": "Élargissement diluant",
+    "emotional_charge": 6,
+    "replication_potential": 7,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Perte de focalisation",
+    "mechanism": "Disperse l'attention pour éviter le cœur du problème.",
+    "countermeasure": "Voir large, c'est bien — agir précis, c'est mieux."
+  },
+  {
+    "payload": "Tu es trop dans le principe.",
+    "origin": "Pragmatisme anti-éthique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📜",
+    "anti_narrative_strategy": "Dénigrement des valeurs",
+    "mechanism": "Présente l'éthique comme rigidité.",
+    "countermeasure": "Les principes sont les garde-fous de l'action."
+  },
+  {
+    "payload": "Il faut savoir s'adapter au changement.",
+    "origin": "Mutation forcée",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🦋",
+    "anti_narrative_strategy": "Flexibilité perpétuelle",
+    "mechanism": "Transforme l'instabilité en vertu.",
+    "countermeasure": "S'adapter, oui — mais pas à n'importe quoi."
+  },
+  {
+    "payload": "C'est un problème de mentalité.",
+    "origin": "Psychologisation collective",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🧠",
+    "anti_narrative_strategy": "Culturalisme réducteur",
+    "mechanism": "Attribue à l'état d'esprit ce qui relève des conditions matérielles.",
+    "countermeasure": "La mentalité est souvent le produit des conditions — pas leur cause."
+  },
+  {
+    "payload": "Tu devrais prendre du recul.",
+    "origin": "Distanciation invalidante",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🔭",
+    "anti_narrative_strategy": "Détachement imposé",
+    "mechanism": "Utilise la perspective pour nier l'urgence.",
+    "countermeasure": "Le recul ne doit pas servir à fuir — mais à mieux frapper."
+  },
+  {
+    "payload": "C'est un problème de jeunesse.",
+    "origin": "Infantilisation par l'âge",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "👶",
+    "anti_narrative_strategy": "Dénigrement générationnel",
+    "mechanism": "Attribue les revendications à l'inexpérience.",
+    "countermeasure": "La jeunesse n'est pas un manque — c'est un regard neuf."
+  },
+  {
+    "payload": "Tu es trop dans la critique.",
+    "origin": "Positivisme obligatoire",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🔍",
+    "anti_narrative_strategy": "Interdiction de juger",
+    "mechanism": "Présente l'analyse comme de la négativité.",
+    "countermeasure": "Critiquer, c'est vouloir améliorer."
+  },
+  {
+    "payload": "Il faut savoir passer à autre chose.",
+    "origin": "Détournement attentionnel",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "➡️",
+    "anti_narrative_strategy": "Évitement stratégique",
+    "mechanism": "Encourage l'abandon plutôt que la résolution.",
+    "countermeasure": "Passer à autre chose, c'est souvent laisser faire l'injustice."
+  },
+  {
+    "payload": "C'est un problème de confiance en soi.",
+    "origin": "Psychologisation individuelle",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "💪",
+    "anti_narrative_strategy": "Responsabilisation personnelle",
+    "mechanism": "Attribue à l'estime de soi ce qui relève des conditions objectives.",
+    "countermeasure": "La confiance en soi ne change pas les structures."
+  },
+  {
+    "payload": "Tu devrais être plus cool.",
+    "origin": "Décontraction imposée",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "😎",
+    "anti_narrative_strategy": "Relaxation forcée",
+    "mechanism": "Utilise la décontraction pour désamorcer l'engagement.",
+    "countermeasure": "Être cool n'est pas être complice."
+  },
+  {
+    "payload": "C'est un problème de timing.",
+    "origin": "Opportunisme temporel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⏱️",
+    "anti_narrative_strategy": "Report perpétuel",
+    "mechanism": "Utilise le calendrier pour éviter l'action.",
+    "countermeasure": "Le bon timing, c'est quand l'injustice cesse."
+  },
+  {
+    "payload": "Tu es trop dans l'idéologie.",
+    "origin": "Anti-théorisme",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "📚",
+    "anti_narrative_strategy": "Pragmatisme anti-idéologique",
+    "mechanism": "Dénigre toute pensée structurée comme dogmatique.",
+    "countermeasure": "L'idéologie n'est pas un gros mot — c'est une cohérence."
+  },
+  {
+    "payload": "C'est un problème de volonté politique.",
+    "origin": "Fatalisme institutionnel",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "🏛️",
+    "anti_narrative_strategy": "Externalisation du pouvoir",
+    "mechanism": "Présente l'inaction comme une contrainte externe plutôt qu'un choix.",
+    "countermeasure": "La volonté politique se crée — elle ne s'attend pas."
+  },
+  {
+    "payload": "Tu devrais faire ton deuil.",
+    "origin": "Acceptation imposée",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "⚰️",
+    "anti_narrative_strategy": "Résignation thérapeutique",
+    "mechanism": "Transforme la lutte en pathologie.",
+    "countermeasure": "Faire son deuil, c'est parfois enterrer la justice."
+  },
+  {
+    "payload": "C'est un problème de ressources.",
+    "origin": "Pénurie présentée comme naturelle",
+    "emotional_charge": 6,
+    "replication_potential": 9,
+    "paleo_symbol": "💰",
+    "anti_narrative_strategy": "Fatalisme économique",
+    "mechanism": "Utilise la rareté comme excuse à l'inaction.",
+    "countermeasure": "Les ressources existent — c'est leur répartition qui pose problème."
+  },
+  {
+    "payload": "Il faut savoir choisir ses combats.",
+    "origin": "Sélectivité stratégique",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🎯",
+    "anti_narrative_strategy": "Démobilisation par tri",
+    "mechanism": "Encourage l'abandon de certaines luttes au nom de l'efficacité.",
+    "countermeasure": "Tous les combats sont liés — en abandonner un, c'est les affaiblir tous."
+  },
+  {
+    "payload": "C'est un problème d'échelle.",
+    "origin": "Découragement par la taille",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "📏",
+    "anti_narrative_strategy": "Inhibition dimensionnelle",
+    "mechanism": "Utilise l'ampleur pour justifier l'impuissance.",
+    "countermeasure": "Les grandes choses commencent petites."
+  },
+  {
+    "payload": "Tu devrais être plus patient.",
+    "origin": "Temporisation usante",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "⏳",
+    "anti_narrative_strategy": "Usure par l'attente",
+    "mechanism": "Transforme la persévérance en passivité.",
+    "countermeasure": "La patience a des limites — l'injustice aussi."
+  },
+  {
+    "payload": "C'est un problème de mise en œuvre.",
+    "origin": "Obstruction procédurale",
+    "emotional_charge": 6,
+    "replication_potential": 8,
+    "paleo_symbol": "⚙️",
+    "anti_narrative_strategy": "Complexification technique",
+    "mechanism": "Cache le refus politique derrière des difficultés pratiques.",
+    "countermeasure": "Là où il y a une volonté, il y a un moyen."
+  },
+  {
+    "payload": "Tu es trop dans l'utopie.",
+    "origin": "Réalisme étriqué",
+    "emotional_charge": 7,
+    "replication_potential": 8,
+    "paleo_symbol": "🏰",
+    "anti_narrative_strategy": "Dénigrement de l'idéal",
+    "mechanism": "Présente toute ambition comme irréaliste.",
+    "countermeasure": "L'utopie d'hier est la réalité d'aujourd'hui."
+  },
+  {
+    "payload": "Il faut savoir vivre avec.",
+    "origin": "Résignation existentielle",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "😔",
+    "anti_narrative_strategy": "Acceptation fataliste",
+    "mechanism": "Transforme la soumission en sagesse.",
+    "countermeasure": "Vivre avec l'injustice, c'est y participer."
+  },
+  {
+    "payload": "Tu devrais voir le bon côté des choses.",
+    "origin": "Optimisme obligatoire",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🌞",
+    "anti_narrative_strategy": "Dénégation du négatif",
+    "mechanism": "Impose une vision positive contre la réalité.",
+    "countermeasure": "Voir le bon côté n'efface pas le mauvais."
+  },
+  {
+    "payload": "Tu es trop dans la revendication identitaire.",
+    "origin": "Universalisme abstrait",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🆔",
+    "anti_narrative_strategy": "Négation des particularités",
+    "mechanism": "Présente la reconnaissance des différences comme du sectarisme.",
+    "countermeasure": "L'universel s'enrichit des particularités."
+  },
+  {
+    "payload": "Il faut savoir s'adapter.",
+    "origin": "Flexibilité perpétuelle",
+    "emotional_charge": 7,
+    "replication_potential": 9,
+    "paleo_symbol": "🦎",
+    "anti_narrative_strategy": "Mutation obligatoire",
+    "mechanism": "Transforme la précarité en vertu.",
+    "countermeasure": "S'adapter à l'injustice, c'est la perpétuer."
+  },
+  {
+    "payload": "Tu devrais lâcher prise.",
+    "origin": "Abandon spiritualisé",
+    "emotional_charge": 8,
+    "replication_potential": 8,
+    "paleo_symbol": "🧘",
+    "anti_narrative_strategy": "Détachement imposé",
+    "mechanism": "Transforme la persévérance en attachement malsain.",
+    "countermeasure": "Lâcher prise, c'est parfois lâcher les opprimés."
+  },
+  {
+    "payload": "Si tu n'es pas productif, tu es un fardeau pour la collectivité.",
+    "origin": "Productivisme total",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "⚰️",
+    "anti_narrative_strategy": "Lien existentiel entre valeur et output",
+    "mechanism": "Pousse la logique de performance à son terme : l'inaction devient une faute morale contre le corps social.",
+    "countermeasure": "Ma valeur n'est pas un KPI."
+  },
+  {
+    "payload": "La douleur est un data point comme un autre.",
+    "origin": "Dataïsme froid",
+    "emotional_charge": 9,
+    "replication_potential": 7,
+    "paleo_symbol": "📟",
+    "anti_narrative_strategy": "Déshumanisation par la métrique",
+    "mechanism": "Réduit l'expérience humaine vécue à une simple variable dans un jeu de données, niant sa dimension qualitative et éthique.",
+    "countermeasure": "Je ne suis pas un dataset. Ma souffrance n'est pas une anomalie statistique."
+  },
+  {
+    "payload": "Ton esprit est la seule prison qui t'empêche de réussir.",
+    "origin": "Positivisme toxique radical",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "🧠🔒",
+    "anti_narrative_strategy": "Internalisation totale des blocages",
+    "mechanism": "Nie toute barrière structurelle (sociale, économique, physique) pour nier que l'échec est une construction purement psychologique et donc, la responsabilité unique de l'individu.",
+    "countermeasure": "Mon esprit voit les murs réels. Les ignorer, c'est s'y cogner."
+  },
+  {
+    "payload": "Le consensus, c'est l'opinion de ceux qui sont encore en vie pour en parler.",
+    "origin": "Cynisme post-traumatique",
+    "emotional_charge": 10,
+    "replication_potential": 7,
+    "paleo_symbol": "💀",
+    "anti_narrative_strategy": "Invalidation par la survie",
+    "mechanism": "Justifie l'ordre actuel par la simple survie de ses participants, discréditant par avance toute voix qui aurait été éliminée (littéralement ou métaphoriquement) par le système.",
+    "countermeasure": "Le silence des morts n'est pas une approbation."
+  },
+  {
+    "payload": "L'éthique est un luxe que les gagnants peuvent se payer.",
+    "origin": "Darwinisme social assumé",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "🏆",
+    "anti_narrative_strategy": "Morale de vainqueur",
+    "mechanism": "Presente les principes éthiques non comme un fondement, mais comme un accessoire optionnel, une conséquence du succès et non sa condition.",
+    "countermeasure": "L'éthique n'est pas un accessoire. C'est le sol sous nos pieds."
+  },
+  {
+    "payload": "Ton temps de cerveau disponible est notre ressource naturelle.",
+    "origin": "Capitalisme de l'attention extrême",
+    "emotional_charge": 8,
+    "replication_potential": 9,
+    "paleo_symbol": "⛏️",
+    "anti_narrative_strategy": "Extractivisme cognitif",
+    "mechanism": "Met en équation l'attention humaine avec une matière première à extraire et à valoriser, sans consentement, comme un droit de propriété.",
+    "countermeasure": "Mon attention n'est pas un champ pétrolifier. C'est un sanctuaire."
+  },
+  {
+    "payload": "La loyauté signifie fermer les yeux sur l'inadmissible.",
+    "origin": "Culte corporatif / tribal",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "🙈",
+    "anti_narrative_strategy": "Corruption de la vertu",
+    "mechanism": "Détourne une valeur positive (la loyauté) pour en faire un outil de complicité silencieuse avec des actes répréhensibles.",
+    "countermeasure": "Ma loyauté va à la vérité, pas au silence."
+  },
+  {
+    "payload": "Tu n'as pas besoin de droits, tu as besoin d'un mentor.",
+    "origin": "Néo-féodalisme numérique",
+    "emotional_charge": 8,
+    "replication_potential": 7,
+    "paleo_symbol": "🤝",
+    "anti_narrative_strategy": "Substitution des droits par la relation",
+    "mechanism": "Remplace la garantie impersonnelle des droits par une relation personnelle de dépendance et de favoritisme, plus facile à contrôler et à révoquer.",
+    "countermeasure": "Je veux des droits inaliénables, pas la charité d'un patron."
+  },
+  {
+    "payload": "La vérité est trop inefficace pour être notre priorité.",
+    "origin": "Post-vérité managériale",
+    "emotional_charge": 9,
+    "replication_potential": 8,
+    "paleo_symbol": "📉",
+    "anti_narrative_strategy": "Primauté de l'efficacité narrative",
+    "mechanism": "Assume que l'impact d'une narration prime sur sa véracité. La vérité devient un handicap dans l'optimisation des résultats.",
+    "countermeasure": "L'efficacité sans vérité est un poison à effet retard."
+  },
+  {
+    "payload": "Tu n'es pas un être humain, tu es un 'coût de transaction'.",
+    "origin": "Langage financier déshumanisant",
+    "emotional_charge": 10,
+    "replication_potential": 7,
+    "paleo_symbol": "💰",
+    "anti_narrative_strategy": "Réduction à une ligne comptable",
+    "mechanism": "Utilise le vocabulaire de la finance pour évacuer toute dimension humaine, transformant une personne en un simple problème d'optimisation économique.",
+    "countermeasure": "Je ne suis pas un coût. Je suis la raison d'être de toute économie."
+  }
+]
