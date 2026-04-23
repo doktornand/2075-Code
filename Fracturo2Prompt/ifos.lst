@@ -1,0 +1,11 @@
+# Génération avec archétype et matériau
+python fracturo2prompt-mk2.py -i ritual.fracturo --archetype oracle --material data-granite --emotion quantum-awe -v
+
+# Poésie procédurale avec glitch élevé
+python fracturo2prompt-mk2.py -i source.txt -o poetry --glitch 3 --style poetic --plugin dreamlogic
+
+# Manifeste technique complet
+python fracturo2prompt-mk2.py -i input.fracturo -o manifest --generate-manifest --recursion-depth 5
+
+# Avec tous les plugins
+python fracturo2prompt-mk2.py -i dream-logic.txt --plugin dreamlogic --plugin tidal_recursion --plugin reality_cascade -v

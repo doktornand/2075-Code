@@ -1,0 +1,46 @@
+{
+  "wanderer": {
+    "elements": [
+      "solitary figure in vast landscape",
+      "journey through layered realities",
+      "carrying ancestral memories", 
+      "footprints in digital sand",
+      "hooded silhouette against fractured sky"
+    ],
+    "motifs": ["travel", "memory", "search", "thresholds"],
+    "indicators": ["wanderer", "traveler", "walker", "nomad", "pilgrim"]
+  },
+  "oracle": {
+    "elements": [
+      "multiple eyes seeing different times",
+      "voice composed of data streams", 
+      "prophecies in glitch language",
+      "body made of light and stone",
+      "floating in void of possibilities"
+    ],
+    "motifs": ["vision", "truth", "mystery", "revelation"],
+    "indicators": ["oracle", "seer", "prophet", "vision", "foresight"]
+  },
+  "machine": {
+    "elements": [
+      "organic circuitry patterns",
+      "breathing data streams",
+      "pulsing light through stone",
+      "mechanical yet alive",
+      "interface between worlds"
+    ],
+    "motifs": ["technology", "interface", "system", "network"],
+    "indicators": ["machine", "engine", "system", "circuit", "data"]
+  },
+  "memory": {
+    "elements": [
+      "ghost of past self",
+      "fading photograph come alive", 
+      "echo of lost moment",
+      "memory crystal growing",
+      "recursive self-reflection"
+    ],
+    "motifs": ["past", "nostalgia", "identity", "time"],
+    "indicators": ["memory", "remember", "past", "nostalgia", "echo"]
+  }
+}

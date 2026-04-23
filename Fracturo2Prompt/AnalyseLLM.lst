@@ -1,0 +1,332 @@
+# Analyse du FracturoScript → Prompt Mnémétique Fractal v1.Ω
+
+## Vue d'ensemble
+
+Ce script est un **transpileur ésotérique** qui convertit du "FracturoScript" (un langage rituel/poétique) en prompts pour génération d'images IA. Il détecte des symboles runiques, lieux sacrés, nombres rituels et patterns mystiques pour construire des descriptions visuelles complexes.
+
+## Architecture
+
+**Système de détection multicouche :**
+1. **Runes** : symboles Unicode → effets visuels/spirituels
+2. **Contextes géographiques** : La Hague, Raz Blanchard → atmosphères spécifiques  
+3. **Nombres rituels** : 3, 7, 9, 18, 21 → modifient la logique fractale
+4. **Patterns sacrés** : `raz•••` → silence primordial
+5. **Niveaux de glitch** : 0-3 → corruption progressive de la réalité
+
+---
+
+## Exemples d'utilisation
+
+### 1. Conversion basique depuis un fichier
+
+```bash
+python fracturo2prompt.py -i mon_texte.fracturo
+```
+**Sortie :** Un prompt composé d'éléments détectés, séparés par des virgules
+
+---
+
+### 2. Lecture depuis stdin avec mode verbeux
+
+```bash
+echo "ᚨ La Hague 7 raz•••" | python fracturo2prompt.py -v
+```
+**Affichera :**
+```
+🪶 Rune trouvée : ᚨ → bouche divine, invocation primordiale
+🌊 Lieu détecté : hague → La Hague cliffs at twilight, quantum-runic server ruins
+🌀 Silence sacré (raz•••) détecté
+```
+**Prompt final :** 
+`7-fold fractal symmetry, tidal rhythm, La Hague cliffs at twilight, bouche divine, primordial silence, Soufi-Normand chanting resonance...`
+
+---
+
+### 3. Export JSON complet
+
+```bash
+python fracturo2prompt.py -i script.txt -o json
+```
+**Sortie JSON :**
+```json
+{
+  "input": "ᚨ raz••• 21...",
+  "prompt": "bouche divine, primordial silence, reality instability...",
+  "elements": [...],
+  "config_used": {
+    "lang": "fr",
+    "glitch_level": 1,
+    "overrides": {}
+  }
+}
+```
+
+---
+
+### 4. Prompt en anglais
+
+```bash
+python fracturo2prompt.py -i mystical.txt -l en
+```
+Toutes les descriptions seront en anglais (`divine mouth` au lieu de `bouche divine`)
+
+---
+
+### 5. Niveau de corruption maximal (glitch 3)
+
+```bash
+python fracturo2prompt.py -i reality.fracturo --glitch 3
+```
+**Ajoute au prompt :**
+- `main rouge apparaît dans l'ombre`
+- `pommier marche vers la mer`
+- `réalité instable Omega`
+
+---
+
+### 6. Surcharge manuelle de paramètres
+
+```bash
+python fracturo2prompt.py -i base.txt --inject lieu=raz --inject intensite=21 -v
+```
+Force l'inclusion du contexte "Raz Blanchard" même s'il n'est pas dans le texte
+
+---
+
+### 7. Export double (prompt + JSON)
+
+```bash
+python fracturo2prompt.py -i ceremony.txt -o both --glitch 2
+```
+**Affiche :**
+```
+✨ PROMPT :
+memory fragment, eroded by tide, Raz Blanchard vortex...
+
+📦 JSON (métadonnées) :
+{
+  "elements": [...],
+  "glitch_level": 2,
+  "lang": "fr"
+}
+```
+
+---
+
+### 8. Pipeline avec stdin et redirection
+
+```bash
+cat ritual_text.txt | python fracturo2prompt.py -l en --glitch 2 > prompt.txt
+```
+
+---
+
+### 9. Texte avec tous les éléments détectables
+
+**Fichier `complete.fracturo` :**
+```
+ᚨ ᛉ ᛞ
+La Hague Raz Blanchard
+raz•••
+3 7 9 18 21
+```
+
+```bash
+python fracturo2prompt.py -i complete.fracturo -v -o both
+```
+**Détectera :**
+- 3 runes (Ansuz, Algiz, Dagaz)
+- 2 lieux (La Hague, Raz)
+- Silence sacré
+- 5 nombres rituels
+- Mantras de base
+
+---
+
+### 10. Génération minimaliste (glitch 0)
+
+```bash
+python fracturo2prompt.py -i simple.txt --glitch 0 -l en
+```
+Aucun effet de corruption, seulement les éléments détectés + mantras de base
+
+---
+
+### 11. Intégration avec un générateur d'images
+
+```bash
+# Générer le prompt
+PROMPT=$(python fracturo2prompt.py -i vision.fracturo)
+
+# L'envoyer à Stable Diffusion / Midjourney / DALL-E
+echo "$PROMPT" | your-image-generator --negative "text, logos"
+```
+
+---
+
+### 12. Batch processing de plusieurs rituels
+
+```bash
+for file in rituals/*.fracturo; do
+  python fracturo2prompt.py -i "$file" -o json > "prompts/$(basename $file .fracturo).json"
+done
+```
+
+---
+
+### 13. Test de détection de nombres
+
+```bash
+echo "Le cycle de 7 jours, les 9 cercles, seuil Omega à 21" | python fracturo2prompt.py -v
+```
+**Détecte :**
+- `7` → 7-fold fractal symmetry
+- `9` → 9-layer dream logic
+- `21` → reality instability, threshold Omega
+
+---
+
+### 14. Configuration personnalisée
+
+```bash
+python fracturo2prompt.py -i text.txt -c /chemin/vers/ma/config --glitch 2
+```
+Utilise un dossier de config alternatif avec vos propres `runes.json`, `contexts.json`, etc.
+
+---
+
+### 15. Prompt pour art génératif fractal
+
+**Fichier `fractal_dream.txt` :**
+```
+ᛞ 9 raz•••
+Raz Blanchard
+```
+
+```bash
+python fracturo2prompt.py -i fractal_dream.txt --glitch 3 -l en
+```
+**Résultat possible :**
+```
+9-layer dream logic, non-linear recursion, Raz Blanchard vortex, tidal recursion, 
+fractal dawn, temporal rift, primordial silence, main rouge apparaît dans l'ombre, 
+pommier marche vers la mer, réalité instable Omega, paleolithic red handprint...
+```
+
+---
+
+## Cas d'usage créatifs
+
+### 16. Cérémonie visuelle quotidienne
+```bash
+# Script journalier
+date +"%Y-%m-%d" > daily_ritual.txt
+echo "ᚨ raz••• $(shuf -i 3-21 -n 1)" >> daily_ritual.txt
+python fracturo2prompt.py -i daily_ritual.txt --glitch 1 > today_prompt.txt
+```
+
+---
+
+### 17. Générateur de cartes oraculaires
+```bash
+# 78 cartes avec runes aléatoires
+for i in {1..78}; do
+  RUNE=$(shuf -n 1 -e ᚨ ᛉ ᛞ)
+  LIEU=$(shuf -n 1 -e "La Hague" "Raz Blanchard")
+  echo "$RUNE $LIEU raz•••" | python fracturo2prompt.py -o json > card_$i.json
+done
+```
+
+---
+
+### 18. Mode interactif pour exploration
+```bash
+while true; do
+  read -p "Entrez votre vision > " vision
+  echo "$vision" | python fracturo2prompt.py -v --glitch 2
+done
+```
+
+---
+
+### 19. Validation de syntaxe FracturoScript
+```bash
+python fracturo2prompt.py -i suspect.txt -v 2>&1 | grep "trouvée\|détecté"
+```
+Vérifie quels éléments sont reconnus
+
+---
+
+### 20. Chaîne complète : FracturoScript → Prompt → Image
+
+```bash
+# 1. Convertir
+python fracturo2prompt.py -i ceremony.fracturo > prompt.txt
+
+# 2. Générer image (exemple avec hypothétique CLI)
+cat prompt.txt | stable-diffusion --steps 50 --cfg 7.5 -o output.png
+
+# 3. Appliquer effets glitch avec l'autre script
+python memeforge.py -i output.png -a glitch -g 3 --ar -o final_vision
+```
+
+---
+
+## Correspondances clés
+
+| **Élément détecté** | **Effet sur le prompt** |
+|---------------------|------------------------|
+| `ᚨ` (Ansuz) | `bouche divine, invocation primordiale` |
+| `ᛉ` (Algiz) | `antenne psychique, protection par les bois` |
+| `ᛞ` (Dagaz) | `aube fractale, ouverture temporelle` |
+| `La Hague` | `cliffs at twilight, quantum-runic server ruins` |
+| `Raz Blanchard` | `vortex, tidal recursion, souls carried by current` |
+| `raz•••` | `primordial silence, void-filled negative space` |
+| Nombre `7` | `7-fold fractal symmetry, tidal rhythm` |
+| Nombre `21` | `reality instability, threshold Omega reached` |
+| `--glitch 3` | `main rouge dans l'ombre, pommier marche vers la mer` |
+
+---
+
+## Intégration avec memeforge.py
+
+```bash
+# 1. Générer prompt depuis FracturoScript
+NARRATIVE=$(python fracturo2prompt.py -i vision.fracturo)
+
+# 2. Créer mème avec ce prompt
+python memeforge.py \
+  -i base_image.jpg \
+  -t "$NARRATIVE" \
+  -a resistance \
+  -g 2 \
+  --ar \
+  --metadata \
+  -o fractal_meme
+```
+
+---
+
+## Structure des fichiers de config attendus
+
+```
+config/
+├── runes.json       # Symboles runiques → effets
+├── contexts.json    # Lieux → descriptions atmosphériques
+├── glitches.json    # Niveaux 0-3 → effets de corruption
+├── mantras.json     # Éléments de base + silence sacré
+└── defaults.json    # Langue par défaut, glitch level, etc.
+```
+
+---
+
+## Notes importantes
+
+- **Détection sensible à la casse** : `La Hague` ≠ `la hague` (utilise `.lower()` en interne)
+- **Runes Unicode** : nécessite encodage UTF-8 correct
+- **Pattern raz•••** : regex flexible (`\s*•{3,}` accepte espaces et 3+ bullets)
+- **Mode verbeux** : utile pour déboguer et comprendre la détection
+- **Injection** : permet de forcer des éléments même absents du texte source
+- **Sortie JSON** : idéale pour pipelines automatisés ou APIs
+
+Ce système crée un **langage rituel → prompt pipeline** pour générer des images IA avec une cohérence ésotérique/narrative fractale.

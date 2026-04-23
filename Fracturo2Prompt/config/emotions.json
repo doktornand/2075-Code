@@ -1,0 +1,32 @@
+{
+  "mnemonic-melancholy": {
+    "visual_cues": ["fading photographs", "ghost data", "eroded monuments", "dusty light"],
+    "lighting": "twilight with data streaks",
+    "color_palette": ["#2C3E50", "#34495E", "#7F8C8D", "#BDC3C7"],
+    "indicators": ["melancholy", "nostalgia", "longing", "memory", "past"]
+  },
+  "quantum-awe": {
+    "visual_cues": ["multiple suns", "floating islands", "time waterfalls", "reality cracks"],
+    "lighting": "prismatic reality splits", 
+    "color_palette": ["#E74C3C", "#F39C12", "#8E44AD", "#3498DB"],
+    "indicators": ["awe", "wonder", "amazement", "marvel", "sublime"]
+  },
+  "tidal-dread": {
+    "visual_cues": ["rising dark waters", "submerged structures", "drowning light", "pressure waves"],
+    "lighting": "subaquatic gloom with panic-beams",
+    "color_palette": ["#2C2C54", "#474787", "#AAABB8", "#ECECEC"],
+    "indicators": ["dread", "fear", "anxiety", "foreboding", "unease"]
+  },
+  "recursive-euphoria": {
+    "visual_cues": ["infinite reflections", "expanding patterns", "color explosions", "weightless flight"],
+    "lighting": "blinding revelation light",
+    "color_palette": ["#FF9FF3", "#F368E0", "#FF6B6B", "#48DBFB"],
+    "indicators": ["euphoria", "ecstasy", "bliss", "joy", "rapture"]
+  },
+  "void-serenity": {
+    "visual_cues": ["empty spaces", "floating particles", "slow movement", "minimal forms"],
+    "lighting": "soft omnidirectional glow",
+    "color_palette": ["#ECF0F1", "#BDC3C7", "#95A5A6", "#7F8C8D"],
+    "indicators": ["serenity", "peace", "calm", "stillness", "tranquility"]
+  }
+}

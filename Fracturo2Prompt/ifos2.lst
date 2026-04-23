@@ -1,0 +1,12 @@
+# Test basique avec verbose
+./launch.sh -v
+
+# Génération poétique avec archétype Oracle
+./launch.sh --archetype oracle --material data-granite --emotion quantum-awe -o poetry --glitch 2
+
+# Manifeste technique complet  
+./launch.sh -o manifest --plugin dreamlogic --plugin tidal_recursion -v
+
+# Test avec un fichier FracturoScript
+echo "Ansuz Algiz Dagaz raz••• Caen-Profonde mémoire éternelle" > test.fracturo
+./launch.sh -i test.fracturo --archetype wanderer -o json -v

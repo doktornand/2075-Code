@@ -1,0 +1,37 @@
+{
+  "hague": {
+    "description": {
+      "fr": "La Hague cliffs at twilight, quantum-runic server ruins, blue pulsing granite",
+      "en": "La Hague cliffs at twilight, quantum-runic server ruins, blue pulsing granite"
+    },
+    "theme": ["cliffs", "servers", "quantum", "twilight"]
+  },
+  "raz": {
+    "description": {
+      "fr": "Raz Blanchard vortex, tidal recursion, souls carried by current",
+      "en": "Raz Blanchard vortex, tidal recursion, souls carried by current"
+    },
+    "theme": ["vortex", "tidal", "current", "souls"]
+  },
+  "caen": {
+    "description": {
+      "fr": "Caen-Profonde underground networks, memory markets, data-basilica",
+      "en": "Caen-Profonde underground networks, memory markets, data-basilica"
+    },
+    "theme": ["underground", "memory", "data", "urban"]
+  },
+  "omaha": {
+    "description": {
+      "fr": "Omaha Beach temporal scar, ghost soldiers in data-storm, eternal landing",
+      "en": "Omaha Beach temporal scar, ghost soldiers in data-storm, eternal landing"
+    },
+    "theme": ["beach", "temporal", "ghosts", "history"]
+  },
+  "mont": {
+    "description": {
+      "fr": "Mont-Saint-Michel floating in quantum foam, tidal mathematics monastery",
+      "en": "Mont-Saint-Michel floating in quantum foam, tidal mathematics monastery"
+    },
+    "theme": ["floating", "quantum", "tidal", "monastery"]
+  }
+}

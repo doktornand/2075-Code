@@ -1,0 +1,66 @@
+{
+  "communication": {
+    "Ansuz": {
+      "effect": {
+        "fr": "bouche divine, invocation primordiale, parole créatrice",
+        "en": "divine mouth, primal invocation, creative speech"
+      },
+      "power": 3
+    },
+    "Kenaz": {
+      "effect": {
+        "fr": "torche dans les ténèbres, connaissance révélée, illumination",
+        "en": "torch in darkness, revealed knowledge, illumination"
+      },
+      "power": 2
+    }
+  },
+  "protection": {
+    "Algiz": {
+      "effect": {
+        "fr": "antenne psychique, protection par les bois, bouclier énergétique",
+        "en": "psychic antenna, forest shield, energy protection"
+      },
+      "power": 4
+    },
+    "Thurisaz": {
+      "effect": {
+        "fr": "porte entre les mondes, protection active, énergie de rupture",
+        "en": "gate between worlds, active protection, breaking energy"
+      },
+      "power": 3
+    }
+  },
+  "transformation": {
+    "Dagaz": {
+      "effect": {
+        "fr": "aube fractale, ouverture temporelle, transformation radicale",
+        "en": "fractal dawn, temporal rift, radical transformation"
+      },
+      "power": 5
+    },
+    "Jera": {
+      "effect": {
+        "fr": "cycle des récoltes, récompense méritée, croissance naturelle",
+        "en": "harvest cycle, earned reward, natural growth"
+      },
+      "power": 2
+    }
+  },
+  "memory": {
+    "Perthro": {
+      "effect": {
+        "fr": "puits de mémoire, destin caché, secrets ancestraux",
+        "en": "memory well, hidden destiny, ancestral secrets"
+      },
+      "power": 4
+    },
+    "Laguz": {
+      "effect": {
+        "fr": "eau mnémonique, flux de conscience, intuition profonde",
+        "en": "mnemonic water, consciousness flow, deep intuition"
+      },
+      "power": 3
+    }
+  }
+}

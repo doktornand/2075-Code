@@ -1,0 +1,54 @@
+{
+  "paleolithic": {
+    "description": {
+      "fr": "ères glaciaires, art rupestre, mégalithes primordiaux",
+      "en": "ice ages, cave art, primordial megaliths"
+    },
+    "aesthetic": [
+      "primordial stone circles",
+      "cave paintings come alive", 
+      "mammoth ivory artifacts",
+      "shamanic vision quest"
+    ],
+    "indicators": ["paleolithic", "ice age", "megalith", "primordial", "ancient"]
+  },
+  "medieval": {
+    "description": {
+      "fr": "Normandie médiévale, enluminures, architecture romane",
+      "en": "medieval Normandy, illuminations, romanesque architecture"
+    },
+    "aesthetic": [
+      "roman architecture with data streams",
+      "illuminated digital manuscripts",
+      "stone arches with fiber optics",
+      "monastic data transcription"
+    ],
+    "indicators": ["medieval", "roman", "manuscript", "monastic", "gothic"]
+  },
+  "cyber": {
+    "description": {
+      "fr": "Caen-Profonde, réseaux neuronaux, réalité augmentée",
+      "en": "Caen-Profonde, neural networks, augmented reality"
+    },
+    "aesthetic": [
+      "holographic data forests",
+      "neural interface patterns",
+      "augmented reality overlays", 
+      "quantum computing visuals"
+    ],
+    "indicators": ["cyber", "digital", "neural", "quantum", "data"]
+  },
+  "post-omega": {
+    "description": {
+      "fr": "ère post-Oméga, réalités fractales, temps non-linéaire",
+      "en": "post-Omega era, fractal realities, non-linear time"
+    },
+    "aesthetic": [
+      "fractal time crystals",
+      "reality layer separation",
+      "multidimensional navigation",
+      "post-causal events"
+    ],
+    "indicators": ["omega", "post-omega", "fractal time", "multidimensional", "post-causal"]
+  }
+}

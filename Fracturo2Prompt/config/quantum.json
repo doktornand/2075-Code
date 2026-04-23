@@ -1,0 +1,31 @@
+{
+  "states": {
+    "superposition": {
+      "description": "multiple states existing simultaneously",
+      "indicators": ["superposition", "multiple states", "simultaneous", "quantum state"]
+    },
+    "entanglement": {
+      "description": "connected across space and time", 
+      "indicators": ["entanglement", "connected", "linked", "quantum link"]
+    },
+    "coherence": {
+      "description": "ordered quantum state",
+      "indicators": ["coherence", "ordered", "synchronized", "quantum order"]
+    },
+    "decoherence": {
+      "description": "quantum state collapse",
+      "indicators": ["decoherence", "collapse", "measurement", "observation"]
+    },
+    "tunneling": {
+      "description": "crossing impossible barriers",
+      "indicators": ["tunneling", "barrier", "crossing", "quantum jump"]
+    }
+  },
+  "effects": {
+    "observer_effect": "reality changes when observed",
+    "many_worlds": "multiple timelines branching", 
+    "quantum_immortality": "consciousness persists across deaths",
+    "retrocausality": "future affects the past",
+    "quantum_suicide": "paradoxical existence states"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "data-granite": {
+    "texture": "pulsating data in stone matrix",
+    "quality": "both eternal and ephemeral", 
+    "properties": ["stores memories", "glitches under moonlight", "conducts dreams"],
+    "color": "granite gray with data-blue veins"
+  },
+  "tidal-glass": {
+    "texture": "liquid solidity, wave-captured",
+    "quality": "fragile eternity",
+    "properties": ["contains ocean sounds", "breaks into poems", "shows past tides"],
+    "color": "aquamarine with foam-white fractures"
+  },
+  "memory-silk": {
+    "texture": "woven light and recollection",
+    "quality": "delicate yet persistent",
+    "properties": ["shows forgotten moments", "changes with mood", "repairs itself"],
+    "color": "pearl with shifting pastel hues"
+  },
+  "quantum-smoke": {
+    "texture": "solid probability clouds",
+    "quality": "definite uncertainty", 
+    "properties": ["multiple states at once", "collapses when observed", "entangles with viewer"],
+    "color": "prismatic gray with decision-points"
+  },
+  "rune-bone": {
+    "texture": "ancient ivory with engraved symbols",
+    "quality": "primordial wisdom",
+    "properties": ["whispers when touched", "glows in ritual space", "stores ancestral knowledge"],
+    "color": "ivory with gold-inlaid runes"
+  }
+}

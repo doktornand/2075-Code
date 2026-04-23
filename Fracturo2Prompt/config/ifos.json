@@ -1,0 +1,11 @@
+# Depuis un fichier
+python fracturo2prompt.py -i examples/pomme_marche.fracturo
+
+# En mode interactif (coller le script)
+python fracturo2prompt.py
+
+# Export complet + métadonnées
+python fracturo2prompt.py -i mon_code.fracturo -o both --glitch 3 --lang en
+
+# Surcharge manuelle (bidouille créative)
+python fracturo2prompt.py -i script.fracturo --inject lieu=raz --inject intensite=21 --glitch 2

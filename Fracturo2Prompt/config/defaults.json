@@ -1,0 +1,12 @@
+{
+  "lang": "fr",
+  "glitch": 1,
+  "archetype": "wanderer",
+  "material": "data-granite",
+  "emotion": "mnemonic-melancholy",
+  "temporal_era": "cyber",
+  "recursion_depth": 3,
+  "reality_threshold": 5,
+  "style": "standard",
+  "output_format": "prompt"
+}

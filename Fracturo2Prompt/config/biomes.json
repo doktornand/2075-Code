@@ -1,0 +1,50 @@
+{
+  "digital-forest": {
+    "description": {
+      "fr": "forêt où les arbres sont des structures de données",
+      "en": "forest where trees are data structures"
+    },
+    "elements": [
+      "binary tree formations",
+      "data stream rivers",
+      "algorithmic wildlife",
+      "neural canopy"
+    ]
+  },
+  "tidal-cathedral": {
+    "description": {
+      "fr": "cathédrale sous-marine aux marées éternelles",
+      "en": "submarine cathedral with eternal tides"
+    },
+    "elements": [
+      "water column pillars",
+      "kelp stained glass",
+      "coral arches",
+      "echo choir"
+    ]
+  },
+  "memory-desert": {
+    "description": {
+      "fr": "désert de sable mnémonique où le temps s'efface",
+      "en": "desert of mnemonic sand where time erases"
+    },
+    "elements": [
+      "dunes of forgotten moments",
+      "oasis of recollection",
+      "wind-carved memories",
+      "mirages of past selves"
+    ]
+  },
+  "quantum-city": {
+    "description": {
+      "fr": "ville où les bâtiments existent dans plusieurs états",
+      "en": "city where buildings exist in multiple states"
+    },
+    "elements": [
+      "superposition skyscrapers",
+      "entanglement bridges",
+      "probability plazas",
+      "collapse alleyways"
+    ]
+  }
+}
