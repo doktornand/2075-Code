@@ -1,0 +1,375 @@
+{
+  "glitch_effects": {
+    "data_bending": {
+      "patterns": [
+        {
+          "name": "xor_shift",
+          "function": "lambda x: x ^ 0x15",
+          "intensity": 1.2,
+          "description": "Décalage XOR basique - corruption légère des données"
+        },
+        {
+          "name": "modular_shift", 
+          "function": "lambda x: (x + 47) % 256",
+          "intensity": 1.5,
+          "description": "Décalage modulaire - effet de vague numérique"
+        },
+        {
+          "name": "bit_rotation",
+          "function": "lambda x: x ^ (x >> 3)",
+          "intensity": 2.0,
+          "description": "Rotation binaire - corruption structurelle"
+        },
+        {
+          "name": "prime_multiply",
+          "function": "lambda x: (x * 13) % 256",
+          "intensity": 2.3,
+          "description": "Multiplication par nombre premier - effet chaotique"
+        },
+        {
+          "name": "fractal_noise",
+          "function": "lambda x: (x ^ 0x37) + ((x & 0x7F) << 1)",
+          "intensity": 2.8,
+          "description": "Bruit fractal - patterns auto-similaires"
+        }
+      ]
+    },
+    
+    "channel_operations": {
+      "rgb_shifts": {
+        "subtle": {
+          "red_shift": {"x": [1, 3], "y": [0, 2]},
+          "green_shift": {"x": [-2, -1], "y": [1, 3]}, 
+          "blue_shift": {"x": [0, 2], "y": [-1, 1]},
+          "description": "Décalages subtils - séparation chromatique légère"
+        },
+        "medium": {
+          "red_shift": {"x": [3, 8], "y": [2, 5]},
+          "green_shift": {"x": [-5, -2], "y": [3, 7]},
+          "blue_shift": {"x": [2, 6], "y": [-3, 2]},
+          "description": "Décalages moyens - effet VHS prononcé"
+        },
+        "extreme": {
+          "red_shift": {"x": [8, 20], "y": [5, 12]},
+          "green_shift": {"x": [-15, -5], "y": [8, 18]},
+          "blue_shift": {"x": [5, 15], "y": [-8, 5]},
+          "description": "Décalages extrêmes - séparation chromatique radicale"
+        }
+      },
+      
+      "channel_operations": [
+        {
+          "name": "channel_swap",
+          "operation": "swap_rb",
+          "probability": 0.1,
+          "description": "Échange des canaux rouge et bleu"
+        },
+        {
+          "name": "channel_invert", 
+          "operation": "invert_g",
+          "probability": 0.15,
+          "description": "Inversion du canal vert"
+        },
+        {
+          "name": "channel_isolate",
+          "operation": "isolate_r",
+          "probability": 0.08,
+          "description": "Isolation du canal rouge"
+        }
+      ]
+    },
+    
+    "scanline_effects": {
+      "frequencies": {
+        "low": {"lines": [2, 4], "intensity": 0.3},
+        "medium": {"lines": [3, 6], "intensity": 0.6},
+        "high": {"lines": [5, 10], "intensity": 0.9},
+        "chaotic": {"lines": [1, 15], "intensity": 1.2}
+      },
+      
+      "types": [
+        {
+          "name": "static_scanline",
+          "effect": "horizontal_lines",
+          "color_variation": 0.4,
+          "description": "Lignes horizontales statiques - effet CRT"
+        },
+        {
+          "name": "wavy_scanline", 
+          "effect": "sinusoidal_lines",
+          "amplitude": 2.5,
+          "frequency": 0.1,
+          "description": "Lignes ondulées - effet d'interférence"
+        },
+        {
+          "name": "broken_scanline",
+          "effect": "intermittent_lines", 
+          "break_probability": 0.3,
+          "description": "Lignes brisées - signal défaillant"
+        }
+      ]
+    },
+    
+    "pixel_operations": {
+      "block_effects": [
+        {
+          "name": "pixel_sort",
+          "block_size": [4, 8],
+          "sort_direction": "horizontal",
+          "intensity": 1.8,
+          "description": "Tri de pixels par blocs - effet datamoshing"
+        },
+        {
+          "name": "pixel_shuffle",
+          "block_size": [2, 6],
+          "shuffle_intensity": 2.2,
+          "description": "Mélange aléatoire de blocs de pixels"
+        },
+        {
+          "name": "pixel_shift",
+          "block_size": [3, 10],
+          "shift_range": [5, 25],
+          "description": "Décalage de blocs - effet de compression corrompue"
+        }
+      ],
+      
+      "noise_types": [
+        {
+          "name": "salt_pepper",
+          "density": 0.02,
+          "ratio": 0.5,
+          "description": "Bruit sel et poivre - artefacts de transmission"
+        },
+        {
+          "name": "gaussian_noise",
+          "mean": 0,
+          "std": 25,
+          "description": "Bruit gaussien - dégradation naturelle"
+        },
+        {
+          "name": "impulse_noise", 
+          "probability": 0.05,
+          "magnitude": 100,
+          "description": "Bruit impulsionnel - interférences ponctuelles"
+        }
+      ]
+    },
+    
+    "geometric_distortions": {
+      "wave_effects": [
+        {
+          "name": "sine_wave",
+          "amplitude": [2, 8],
+          "frequency": [0.02, 0.08],
+          "direction": "horizontal",
+          "description": "Déformation sinusoïdale - effet de chaleur"
+        },
+        {
+          "name": "ripple_effect",
+          "center_x": 0.5,
+          "center_y": 0.5, 
+          "wavelength": [20, 60],
+          "amplitude": [1, 4],
+          "description": "Effet de rides - perturbation du champ"
+        }
+      ],
+      
+      "perspective_effects": [
+        {
+          "name": "tilt_shift",
+          "angle": [-5, 5],
+          "scale": [0.9, 1.1],
+          "description": "Inclinaison légère - désalignement"
+        },
+        {
+          "name": "barrel_distortion", 
+          "coefficient": [0.1, 0.3],
+          "description": "Distortion en barillet - effet d'objectif"
+        }
+      ]
+    },
+    
+    "color_operations": {
+      "palette_shifts": [
+        {
+          "name": "hue_rotation",
+          "range": [10, 60],
+          "preserve_luminance": true,
+          "description": "Rotation de teinte - décalage spectral"
+        },
+        {
+          "name": "saturation_boost",
+          "factor": [1.2, 2.0],
+          "description": "Augmentation saturation - intensification chromatique"
+        },
+        {
+          "name": "contrast_stretch",
+          "low_percentile": 5,
+          "high_percentile": 95, 
+          "description": "Étirement du contraste - dynamique extrême"
+        }
+      ],
+      
+      "color_grades": [
+        {
+          "name": "cyberpunk",
+          "curves": {"r": [1.2, 0.8, 1.0], "g": [0.9, 1.1, 0.8], "b": [0.7, 0.9, 1.3]},
+          "description": "Grade cyberpunk - tons bleus et magenta"
+        },
+        {
+          "name": "vintage_crt",
+          "curves": {"r": [0.9, 1.0, 1.1], "g": [0.8, 1.0, 1.0], "b": [0.7, 0.9, 1.0]},
+          "gamma": 1.8,
+          "description": "Grade CRT vintage - tons chauds et gamma élevé"
+        },
+        {
+          "name": "glitch_core",
+          "curves": {"r": [1.5, 0.5, 1.2], "g": [0.5, 1.5, 0.5], "b": [1.2, 0.5, 1.5]},
+          "description": "Grade glitch core - saturation extrême et contraste"
+        }
+      ]
+    },
+    
+    "composite_effects": {
+      "blend_modes": [
+        {
+          "name": "additive_blend",
+          "opacity": [0.1, 0.4],
+          "description": "Fusion additive - effet de surbrillance"
+        },
+        {
+          "name": "difference_blend",
+          "opacity": [0.2, 0.6],
+          "description": "Fusion différence - inversion partielle"
+        },
+        {
+          "name": "overlay_blend", 
+          "opacity": [0.3, 0.7],
+          "description": "Fusion overlay - contraste augmenté"
+        }
+      ],
+      
+      "layer_effects": [
+        {
+          "name": "double_exposure",
+          "blend_mode": "screen",
+          "opacity": 0.5,
+          "offset": [10, 30],
+          "description": "Double exposition - superposition d'images"
+        },
+        {
+          "name": "feedback_loop",
+          "iterations": [2, 5],
+          "decay": 0.7,
+          "description": "Boucle de feedback - effet récursif"
+        }
+      ]
+    },
+    
+    "frequency_based": {
+      "dct_operations": [
+        {
+          "name": "high_pass",
+          "cutoff": 0.7,
+          "description": "Filtre passe-haut - accentuation des détails"
+        },
+        {
+          "name": "low_pass",
+          "cutoff": 0.3, 
+          "description": "Filtre passe-bas - flou fréquentiel"
+        },
+        {
+          "name": "band_reject",
+          "low_cut": 0.4,
+          "high_cut": 0.6,
+          "description": "Rejet de bande - suppression de fréquences spécifiques"
+        }
+      ],
+      
+      "wavelet_effects": [
+        {
+          "name": "wavelet_noise",
+          "level": [2, 4],
+          "intensity": [0.1, 0.3],
+          "description": "Bruit par ondelettes - artefacts multi-échelle"
+        }
+      ]
+    },
+    
+    "metadata_corruption": {
+      "exif_operations": [
+        {
+          "name": "timestamp_shift",
+          "range_days": [-365, 365],
+          "description": "Décalage temporel - corruption de chronologie"
+        },
+        {
+          "name": "geo_shift",
+          "range_km": [1, 100],
+          "description": "Décalage géographique - localisation altérée"
+        },
+        {
+          "name": "parameter_randomize",
+          "fields": ["ISO", "ExposureTime", "FNumber"],
+          "range_percent": [50, 200],
+          "description": "Randomisation paramètres - métadonnées incohérentes"
+        }
+      ]
+    },
+    
+    "rune_integrated_effects": {
+      "ᚨ": {
+        "name": "ansuz_glitch",
+        "effects": ["channel_shift", "hue_rotation"],
+        "intensity_multiplier": 1.3,
+        "description": "Effet Ansuz - corruption des canaux de communication"
+      },
+      "ᛒ": {
+        "name": "berkano_glitch", 
+        "effects": ["pixel_sort", "wavelet_noise"],
+        "intensity_multiplier": 1.1,
+        "description": "Effet Berkano - patterns de croissance corrompue"
+      },
+      "ᚠ": {
+        "name": "fehu_glitch",
+        "effects": ["additive_blend", "saturation_boost"],
+        "intensity_multiplier": 1.4,
+        "description": "Effet Fehu - saturation extrême et accumulation"
+      }
+    }
+  },
+  
+  "presets": {
+    "subtle_corruption": {
+      "data_bending": "xor_shift",
+      "channel_shift": "subtle", 
+      "scanline_frequency": "low",
+      "noise_type": "gaussian_noise",
+      "description": "Corruption subtile - artefacts légers"
+    },
+    "vhs_artifact": {
+      "channel_shift": "medium",
+      "scanline_frequency": "medium", 
+      "scanline_type": "wavy_scanline",
+      "color_grade": "vintage_crt",
+      "noise_type": "salt_pepper",
+      "description": "Artefacts VHS - effet magnétique classique"
+    },
+    "digital_breakdown": {
+      "data_bending": "fractal_noise",
+      "channel_shift": "extreme",
+      "pixel_operation": "pixel_sort", 
+      "blend_mode": "difference_blend",
+      "color_grade": "glitch_core",
+      "description": "Décomposition numérique - corruption avancée"
+    },
+    "reality_fracture": {
+      "data_bending": "prime_multiply",
+      "channel_shift": "extreme",
+      "geometric_distortion": "ripple_effect",
+      "composite_effect": "feedback_loop",
+      "frequency_effect": "band_reject",
+      "description": "Fracture de réalité - effets multi-couches"
+    }
+  }
+}

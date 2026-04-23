@@ -1,0 +1,21 @@
+{
+  "concepts": ["réalité", "conscience", "temps", "mémoire", "vérité", "simulation"],
+  "templates": {
+    "glitch": [
+      "What if {concept} was just a temporary buffer?",
+      "The {concept} glitch they tried to patch out",
+      "Error in {concept} matrix - feature or bug?",
+      "{concept}.exe has stopped working - and that's beautiful"
+    ],
+    "resistance": [
+      "Remember when {concept} wasn't owned by algorithms?",
+      "The analog truth about {concept} they can't digitize", 
+      "{concept} exists beyond the interface",
+      "Your {concept} is not a data point"
+    ]
+  },
+  "themes": {
+    "technologique": ["IA", "surveillance", "algorithme", "données"],
+    "spirituel": ["âme", "destin", "karma", "éveil"]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "runes": {
+    "ᚨ": {
+      "name": "Ansuz",
+      "effect": "communication_divine",
+      "frequency": "14.225",
+      "color": "#ff0000",
+      "meaning": "Bouche divine, ouverture des canaux de communication"
+    },
+    "ᛒ": {
+      "name": "Berkano", 
+      "effect": "naissance_transformation",
+      "frequency": "14.100",
+      "color": "#00ff00",
+      "meaning": "Naissance, renouveau, commencement de cycles"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "archetypes": {
+    "glitch": {
+      "keywords": ["corruption", "fracture", "erreur_système", "bug_feature"],
+      "color_palette": ["#ff0000", "#00ffff", "#ffff00", "#0000ff"],
+      "intensity": 2.5,
+      "description": "Esthétique de la rupture et révélation par l'erreur"
+    },
+    "resistance": {
+      "keywords": ["rébellion_analog", "silence", "mémoire", "effacement"],
+      "color_palette": ["#8b4513", "#2f4f4f", "#696969", "#f5f5dc"],
+      "intensity": 1.8,
+      "description": "Résistance à l'uniformisation par le retour à l'analogique"
+    }
+  }
+}

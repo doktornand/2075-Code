@@ -1,0 +1,315 @@
+{
+  "image_sources": {
+    "apis": [
+      {
+        "name": "picsum",
+        "url_template": "https://picsum.photos/{width}/{height}",
+        "parameters": {
+          "width": 800,
+          "height": 600
+        },
+        "description": "Images aléatoires de haute qualité",
+        "rate_limit": 10,
+        "requires_auth": false
+      },
+      {
+        "name": "unsplash",
+        "url_template": "https://source.unsplash.com/random/{width}x{height}",
+        "parameters": {
+          "width": 800,
+          "height": 600
+        },
+        "description": "Photos artistiques aléatoires",
+        "rate_limit": 5,
+        "requires_auth": false
+      },
+      {
+        "name": "placeholder",
+        "url_template": "https://via.placeholder.com/{width}x{height}/{background}/{foreground}",
+        "parameters": {
+          "width": 800,
+          "height": 600,
+          "background": "000000",
+          "foreground": "ffffff"
+        },
+        "description": "Placeholders avec texte personnalisable",
+        "rate_limit": 100,
+        "requires_auth": false
+      }
+    ],
+    
+    "thematic_collections": {
+      "cyberpunk": [
+        "https://images.unsplash.com/photo-1548092372-0d1bd40894a3",
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+        "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b"
+      ],
+      "glitch_art": [
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96",
+        "https://images.unsplash.com/photo-1550684376-efcbd6e3f031",
+        "https://images.unsplash.com/photo-1547036967-23d11aacaee0"
+      ],
+      "urban_decay": [
+        "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91",
+        "https://images.unsplash.com/photo-1560518883-ce09059eeffa",
+        "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab"
+      ],
+      "nature_fractale": [
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96",
+        "https://images.unsplash.com/photo-1613535449480-bb56b88d1886",
+        "https://images.unsplash.com/photo-1550684376-efcbd6e3f031"
+      ],
+      "abstrait_technologique": [
+        "https://images.unsplash.com/photo-1635070041078-e363dbe005cb",
+        "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+        "https://images.unsplash.com/photo-1563089145-599997674d42"
+      ]
+    },
+    
+    "local_sources": {
+      "patterns": [
+        "./sources/patterns/*.jpg",
+        "./sources/patterns/*.png",
+        "./sources/backgrounds/*.webp"
+      ],
+      "textures": [
+        "./sources/textures/concrete_*.jpg",
+        "./sources/textures/metal_*.png",
+        "./sources/textures/digital_*.jpg"
+      ],
+      "portraits": [
+        "./sources/portraits/cyber_*.jpg",
+        "./sources/portraits/abstract_*.png"
+      ]
+    }
+  },
+  
+  "news_feeds": {
+    "international": [
+      {
+        "name": "bbc_world",
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "language": "en",
+        "reliability": 0.9,
+        "update_frequency": 30
+      },
+      {
+        "name": "reuters_world",
+        "url": "https://www.reutersagency.com/feed/?best-topics=world-news&post_type=best",
+        "language": "en",
+        "reliability": 0.85,
+        "update_frequency": 15
+      },
+      {
+        "name": "france24",
+        "url": "https://www.france24.com/fr/rss",
+        "language": "fr",
+        "reliability": 0.8,
+        "update_frequency": 20
+      }
+    ],
+    
+    "technology": [
+      {
+        "name": "techcrunch",
+        "url": "https://techcrunch.com/feed/",
+        "language": "en",
+        "reliability": 0.75,
+        "update_frequency": 10
+      },
+      {
+        "name": "wired_tech",
+        "url": "https://www.wired.com/feed/rss",
+        "language": "en", 
+        "reliability": 0.8,
+        "update_frequency": 25
+      },
+      {
+        "name": "numerama",
+        "url": "https://www.numerama.com/feed/",
+        "language": "fr",
+        "reliability": 0.7,
+        "update_frequency": 30
+      }
+    ],
+    
+    "alternative": [
+      {
+        "name": "vice_tech",
+        "url": "https://www.vice.com/en/rss?topics=technology",
+        "language": "en",
+        "reliability": 0.6,
+        "update_frequency": 40
+      },
+      {
+        "name": "the_verge_cyber",
+        "url": "https://www.theverge.com/cyber/rss/index.xml",
+        "language": "en",
+        "reliability": 0.75,
+        "update_frequency": 15
+      }
+    ]
+  },
+  
+  "ar_content_sources": {
+    "mystery_urls": [
+      "https://archive.org/details/audio",
+      "https://www.gutenberg.org/ebooks/search/?query=mystery",
+      "https://openlibrary.org/search.json?q=esoteric",
+      "data:text/plain;base64,{}",
+      "geo:{},{};u={}"
+    ],
+    
+    "hidden_services": [
+      "http://localhost:8080/ar/{}",
+      "https://hidden-service.onion/portal/{}",
+      "ipfs://{}"
+    ],
+    
+    "coordinate_templates": [
+      "geo:{lat},{lon};u=10",
+      "geo:{lat},{lon},{alt}",
+      "https://www.openstreetmap.org/?mlat={lat}&mlon={lon}&zoom=15"
+    ]
+  },
+  
+  "data_sources": {
+    "symbol_databases": [
+      {
+        "name": "unicode_symbols",
+        "url": "https://unicode.org/Public/UNIDATA/UnicodeData.txt",
+        "type": "text",
+        "description": "Base de données complète des symboles Unicode"
+      },
+      {
+        "name": "emoji_data",
+        "url": "https://unicode.org/Public/emoji/latest/emoji-test.txt",
+        "type": "text",
+        "description": "Définitions et codes emoji"
+      }
+    ],
+    
+    "color_palettes": [
+      {
+        "name": "cyberpunk_colors",
+        "colors": ["#ff0055", "#00ffff", "#ffcc00", "#6600ff", "#00ff88"],
+        "description": "Palette néon cyberpunk"
+      },
+      {
+        "name": "glitch_colors", 
+        "colors": ["#ff0000", "#0000ff", "#00ff00", "#ffff00", "#ff00ff"],
+        "description": "Couleurs primaires saturées pour effets glitch"
+      },
+      {
+        "name": "vintage_colors",
+        "colors": ["#8b4513", "#2f4f4f", "#696969", "#daa520", "#800000"],
+        "description": "Palette sépia et tons vintage"
+      }
+    ],
+    
+    "font_sources": [
+      {
+        "name": "google_fonts",
+        "api_key": "YOUR_GOOGLE_FONTS_API_KEY",
+        "endpoint": "https://www.googleapis.com/webfonts/v1/webfonts",
+        "popular_fonts": ["Roboto", "Open Sans", "Lato", "Montserrat"]
+      },
+      {
+        "name": "local_fonts",
+        "paths": [
+          "/usr/share/fonts/truetype/",
+          "/usr/local/share/fonts/",
+          "~/.fonts/",
+          "./fonts/"
+        ],
+        "fallback_fonts": ["Arial", "Helvetica", "Times New Roman"]
+      }
+    ]
+  },
+  
+  "api_configurations": {
+    "image_processing": {
+      "max_file_size": 10485760,
+      "allowed_formats": ["jpg", "jpeg", "png", "webp", "gif"],
+      "timeout": 30,
+      "retry_attempts": 3
+    },
+    
+    "rate_limits": {
+      "images_per_minute": 60,
+      "news_requests_per_hour": 100,
+      "api_calls_per_day": 1000
+    },
+    
+    "cache_settings": {
+      "image_cache_ttl": 3600,
+      "news_cache_ttl": 900,
+      "max_cache_size": 1073741824
+    }
+  },
+  
+  "webhook_endpoints": {
+    "success_notifications": [
+      "https://discord.com/api/webhooks/your-channel-id/your-token",
+      "https://hooks.slack.com/services/your/webhook/path"
+    ],
+    
+    "error_reporting": [
+      "https://api.rollbar.com/api/1/item/",
+      "https://sentry.io/api/your-project/store/"
+    ],
+    
+    "analytics": [
+      "https://www.google-analytics.com/collect",
+      "https://api.mixpanel.com/track"
+    ]
+  },
+  
+  "backup_sources": {
+    "fallback_images": [
+      "https://picsum.photos/800/600?random=1",
+      "https://source.unsplash.com/random/800x600",
+      "https://via.placeholder.com/800x600/000000/ffffff"
+    ],
+    
+    "offline_templates": [
+      "./templates/cyberpunk_base.png",
+      "./templates/glitch_background.jpg",
+      "./templates/abstract_pattern.webp"
+    ],
+    
+    "emergency_content": {
+      "narratives": [
+        "The system is dreaming - are you awake?",
+        "Reality is a buffer waiting to overflow",
+        "What if this glitch was intentional?",
+        "The error is the message"
+      ],
+      "runes": ["ᚨ", "ᛒ", "ᚠ", "ᛉ"],
+      "colors": ["#ff0000", "#00ffff", "#ffff00"]
+    }
+  },
+  
+  "monitoring": {
+    "health_checks": [
+      {
+        "name": "image_apis_health",
+        "url": "https://picsum.photos/10/10",
+        "expected_status": 200,
+        "check_interval": 300
+      },
+      {
+        "name": "news_feeds_health", 
+        "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+        "expected_status": 200,
+        "check_interval": 600
+      }
+    ],
+    
+    "performance_metrics": {
+      "image_load_time_threshold": 5.0,
+      "processing_time_threshold": 10.0,
+      "memory_usage_threshold": 512
+    }
+  }
+}
