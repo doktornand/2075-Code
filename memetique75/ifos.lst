@@ -1,0 +1,11 @@
+# Visualiser les dernières 100 générations
+python3 visualize_meme_evolution_v2_fixed.py Gen1000Pop40.txt --min-gen 900 --max-gen 1000
+
+# Exporter en PNG
+python3 visualize_meme_evolution_v2_fixed.py Gen1000Pop40.txt --min-gen 900 --max-gen 1000 --output evolution_900-1000.png
+
+# Exporter en SVG (vectoriel, idéal pour intégrer dans des docs)
+python3 visualize_meme_evolution_v2_fixed.py Gen1000Pop40.txt --output full_tree.svg
+
+# Visualiser tout
+python3 visualize_meme_evolution_v2_fixed.py Gen1000Pop40.txt

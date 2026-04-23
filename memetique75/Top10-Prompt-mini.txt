@@ -1,0 +1,16 @@
+"Inspired by the Codex Marelith and the paleo-mnemos lexicon of Caen-Profonde, 2075."
+
+A single, overwhelming visual manifestation of the 10 most powerful memetic entities from a 1000-generation memetic evolution. Central theme: 'Fractured Memory Echoes in the Void'.
+
+Composition:
+- A central radiant sigil formed by overlapping symbols: 📜 ⚖️ 🔥 • ▲ ∞ 🗝️ 👁️ 🌊 ❄️
+- Background: deep cosmic black with faint Schumann resonance wave patterns (7.83Hz visualized as subtle sine waves)
+- Foreground: fragmented face in glitch-art style, representing a meme archetype:
+  • 📜 Muté-Écho de Rêve → semi-transparent parchment face whispering in Arabic and binary
+- Topology: hypertext fractal — every fragment connects to others via luminous threads (like a neural web or rhizome)
+- Color palette: #000000 (void), #ff4500 (semantic fire), #00bfff (mnemonic blue), #8b0000 (blood memory), #00ff88 (glitch hope)
+- Style fusion: Cyber-Soufi calligraphy × Glitch Art × Église Numérique × Fractal Sufism × Dark Synthwave
+- Emotional charge: vertige_ontologique + fana + ishq
+- Paradox embedded: "Celui qui voit le chaos voit la forme ; celui qui voit la forme ne voit rien."
+- Overlay: faint glowing text in bottom right: "Ce message s'efface dans 3... 2... 1..."
+- Technical: 8K, cinematic lighting, volumetric fog, depth of field, Unreal Engine 6 realism + symbolic abstraction
