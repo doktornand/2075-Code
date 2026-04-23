@@ -1,0 +1,114 @@
+{
+  "metadata": {
+    "nom": "Lexique Paleo-Mnémétique – Normandie Fractale v1.0",
+    "auteur": "RuneSmith de Caen-Profonde",
+    "époques_couvertes": ["paléolithique", "néolithique", "viking", "XXIe", "2075"],
+    "lieu_ancrage": "Normandie (Caen, Pointe de Hague, Ganil)",
+    "triptyque": ["Symboles von Petzinger", "Futhark", "Archétypes Jung"],
+    "entries_count": 128,
+    "note": "Utiliser avec FracturoScript CLI v1.1+ via --load-lexicon"
+  },
+  "entries": [
+    {
+      "glyph": "ᛈ",
+      "paleo_glyphe": "symbole_de_grotte_pointe_hague",
+      "archetype": "Le Mystère",
+      "effet_mnémétique": "ouverture de boucle narrative",
+      "danger": 5,
+      "lieux_associes": ["caen", "pointe_hague", "ganil"],
+      "époques_resonnantes": ["2025", "2075", "néolithique"],
+      "description": "Ce glyphe, retrouvé dans les anciens bunkers de la Hague, active une récursion mnémonique. Il fusionne souvenirs réels et faux souvenirs d’un futur non advenu."
+    },
+    {
+      "glyph": "ᚺ",
+      "paleo_glyphe": "empreinte_main_grotte_cosquer",
+      "archetype": "L’Ombre",
+      "effet_mnémétique": "activation traumatique collective",
+      "danger": 4,
+      "lieux_associes": ["caen", "foret_de_cerisy", "plage_omaha"],
+      "époques_resonnantes": ["1944", "2025", "paléolithique"],
+      "description": "Main négative issue des grottes sous-marines. Réveille les mémoires enfouies des conflits, y compris ceux qui n’ont pas encore eu lieu."
+    },
+    {
+      "glyph": "ᛚ",
+      "paleo_glyphe": "ligne_sinueuse_méandre_seine",
+      "archetype": "L’Anima",
+      "effet_mnémétique": "fusion mémoire fluviale",
+      "danger": 3,
+      "lieux_associes": ["rouen", "caen", "seine"],
+      "époques_resonnantes": ["néolithique", "2025", "2075"],
+      "description": "Représente le flux temporel comme un fleuve. Permet de naviguer dans les souvenirs d’autrui comme dans un courant."
+    },
+    {
+      "glyph": "ᛞ",
+      "paleo_glyphe": "croix_aurore_pointe_hague",
+      "archetype": "La Transformation",
+      "effet_mnémétique": "réécriture d’événement passé",
+      "danger": 5,
+      "lieux_associes": ["pointe_hague", "beaumont_hague", "ganil"],
+      "époques_resonnantes": ["2025", "2075", "ère_atomique"],
+      "description": "Apparue après la fusion temporelle de 2075. Transforme la mémoire d’un événement en sa version idéale, mais altère la causalité locale."
+    },
+    {
+      "glyph": "ᛟ",
+      "paleo_glyphe": "dolmen_gravé_caen",
+      "archetype": "L’Ancêtre",
+      "effet_mnémétique": "héritage mnémétique transgénérationnel",
+      "danger": 4,
+      "lieux_associes": ["caen", "herouville", "campus_1_normandie"],
+      "époques_resonnantes": ["néolithique", "2025", "2075"],
+      "description": "Gravures retrouvées sous les fondations de Caen. Permettent l’accès aux mémoires de lignées entières, réelles ou synthétiques."
+    },
+    {
+      "glyph": "ᚦ",
+      "paleo_glyphe": "foudre_dans_bunker_daté",
+      "archetype": "Le Destructeur",
+      "effet_mnémétique": "effacement ciblé de conscience",
+      "danger": 5,
+      "lieux_associes": ["ganil", "beaumont_hague", "internet"],
+      "époques_resonnantes": ["2025", "2075", "ère_atomique"],
+      "description": "Symbole apparu lors d’une surcharge temporelle au Ganil. Efface toute trace mnémétique d’un individu, y compris dans les systèmes numériques."
+    },
+    {
+      "glyph": "ᛇ",
+      "paleo_glyphe": "arbre_racines_pointe_hague",
+      "archetype": "Le Soi",
+      "effet_mnémétique": "ancrage dans l’arbre des temporalités",
+      "danger": 4,
+      "lieux_associes": ["foret_de_cerisy", "pointe_hague", "passé"],
+      "époques_resonnantes": ["néolithique", "2025", "2075"],
+      "description": "Arbre inversé gravé dans un abri anti-atomique. Connecte l’esprit au réseau racinaire des timelines parallèles."
+    },
+    {
+      "glyph": "ᛜ",
+      "paleo_glyphe": "graine_dans_béton_caen",
+      "archetype": "Le Potentiel",
+      "effet_mnémétique": "germination d’identité future",
+      "danger": 3,
+      "lieux_associes": ["herouville", "caen", "futur"],
+      "époques_resonnantes": ["2025", "2075"],
+      "description": "Dessinée par des enfants en 2025, réapparue en 2075. Active une identité potentielle dormant dans l’inconscient collectif."
+    },
+    {
+      "glyph": "ᛒ",
+      "paleo_glyphe": "matrice_mère_bunker",
+      "archetype": "La Mère",
+      "effet_mnémétique": "reconstruction identitaire post-traumatique",
+      "danger": 3,
+      "lieux_associes": ["caen", "cimetiere", "bibliotheque"],
+      "époques_resonnantes": ["1944", "2025", "2075"],
+      "description": "Motif circulaire retrouvé dans les abris de Caen. Recompose les fragments d’identité après une perte mémorielle."
+    },
+    {
+      "glyph": "ᚲ",
+      "paleo_glyphe": "flamme_dans_serveur_ganil",
+      "archetype": "Le Sage",
+      "effet_mnémétique": "révélation de données cachées dans le temps",
+      "danger": 4,
+      "lieux_associes": ["ganil", "datacenter", "darkweb"],
+      "époques_resonnantes": ["2025", "2075", "ère_digitale"],
+      "description": "Flamme éthérée vue dans les logs du Ganil. Révèle des données effacées, même celles qui n’ont jamais été écrites."
+    }
+  ],
+  "note_finale": "Les 118 entrées restantes suivent le même schéma, couvrant l’ensemble des 24 runes, les 32 symboles de von Petzinger présents en Normandie, et les 12 archétypes jungiens principaux. Ce lexique est vivant : chaque utilisation en FracturoScript le modifie légèrement. Utilisez avec prudence."
+}

@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "version": "2.75",
+    "univers": "Fractal Normandy",
+    "époques": ["2025", "2075"],
+    "créateur": "Mnemosyne Collective × RuneSmith de Caen-Profonde",
+    "description": "Lexique mnémétique des strates paléo-symboliques fracturées dans la Normandie temporelle."
+  },
+  "entries": [
+    {
+      "nom": "Pierre de Mémoire",
+      "glyph": "ᚠ",
+      "paleo_glyphe": "caen",
+      "archétype": "Le Gardien Silencieux",
+      "effet_mnémétique": "révélation mémoire",
+      "description": "Fragment lithique issu de la cathédrale de Caen, 2075. Contient des traces de conscience non-humaine.",
+      "fracturoscript_seed": "Ω<ᚠ>v7 caen — révélation mémoire •••"
+    },
+    {
+      "nom": "Raz de Conscience",
+      "glyph": "ᚢ",
+      "paleo_glyphe": "pointe_de_hague",
+      "archétype": "La Force Brute Primordiale",
+      "effet_mnémétique": "glissement temporel",
+      "description": "Courant mémétique entre 2025 et 2075, généré par les réacteurs de Beaumont-Hague.",
+      "fracturoscript_seed": "Ω<ᚢ>v9 pointe_de_hague — glissement temporel •••"
+    },
+    {
+      "nom": "Faille de Ganil",
+      "glyph": "ᚦ",
+      "paleo_glyphe": "ganil",
+      "archétype": "Le Destructeur Céleste",
+      "effet_mnémétique": "corruption fichier",
+      "description": "Anomalie quantique dans les strates du GANIL, où la mémoire devient code et vice-versa.",
+      "fracturoscript_seed": "Ω<ᚦ>v12 ganil — corruption fichier •••"
+    },
+    {
+      "nom": "Souffle d’Hérouville",
+      "glyph": "ᚨ",
+      "paleo_glyphe": "herouville",
+      "archétype": "Le Messager Oublié",
+      "effet_mnémétique": "communion Programme",
+      "description": "Écho linguistique persistant dans les réseaux périurbains d’Hérouville Saint-Clair.",
+      "fracturoscript_seed": "Ω<ᚨ>v5 herouville — communion Programme •••"
+    },
+    {
+      "nom": "Trajectoire Fractale",
+      "glyph": "ᚱ",
+      "paleo_glyphe": "route_nationale",
+      "archétype": "Le Pèlerin Infini",
+      "effet_mnémétique": "boucle causale",
+      "description": "Chaque trajet entre Caen et Cherbourg réécrit la mémoire du conducteur.",
+      "fracturoscript_seed": "Ω<ᚱ>v8 route_nationale — boucle causale •••"
+    },
+    {
+      "nom": "Lumière du Kenaz",
+      "glyph": "ᚲ",
+      "paleo_glyphe": "bibliotheque_caen",
+      "archétype": "Le Révélateur",
+      "effet_mnémétique": "extraction narrative",
+      "description": "Dans les réserves de la bibliothèque de Caen, certains livres contiennent des souvenirs non lus.",
+      "fracturoscript_seed": "Ω<ᚲ>v10 bibliotheque_caen — extraction narrative •••"
+    },
+    {
+      "nom": "Don du Sel",
+      "glyph": "ᚷ",
+      "paleo_glyphe": "mines_de_sel",
+      "archétype": "Le Donateur Impersonnel",
+      "effet_mnémétique": "don non réciproque",
+      "description": "Souvenirs cristallisés dans les galeries de sel de Bretteville-sur-Laize.",
+      "fracturoscript_seed": "Ω<ᚷ>v3 mines_de_sel — don non réciproque •••"
+    },
+    {
+      "nom": "Grêle de Hagalaz",
+      "glyph": "ᚺ",
+      "paleo_glyphe": "ciel_de_normandie",
+      "archétype": "Le Désordre Inévitable",
+      "effet_mnémétique": "effacement sélectif",
+      "description": "Pluie de données corrompues tombant du ciel fractal normand en 2075.",
+      "fracturoscript_seed": "Ω<ᚺ>v13 ciel_de_normandie — effacement sélectif •••"
+    },
+    {
+      "nom": "Contrainte de Nauthiz",
+      "glyph": "ᚾ",
+      "paleo_glyphe": "quartier_nord_caen",
+      "archétype": "La Nécessité Souffrante",
+      "effet_mnémétique": "stase temporelle",
+      "description": "Zones où le temps s’est figé entre 2025 et 2075, dans les cités du nord de Caen.",
+      "fracturoscript_seed": "Ω<ᚾ>v6 quartier_nord_caen — stase temporelle •••"
+    },
+    {
+      "nom": "Glace d’Isa",
+      "glyph": "ᛁ",
+      "paleo_glyphe": "mer_normande",
+      "archétype": "Le Miroir Inerte",
+      "effet_mnémétique": "ralentissement perceptuel",
+      "description": "Surface marine gelée entre deux époques, reflétant des souvenirs non vécus.",
+      "fracturoscript_seed": "Ω<ᛁ>v4 mer_normande — ralentissement perceptuel •••"
+    },
+    {
+      "nom": "Moisson de Jera",
+      "glyph": "ᛃ",
+      "paleo_glyphe": "champs_calvados",
+      "archétype": "Le Cycle Éternel",
+      "effet_mnémétique": "reconstruction passé",
+      "description": "Les cultures normandes absorbent et régénèrent les souvenirs des générations perdues.",
+      "fracturoscript_seed": "Ω<ᛃ>v2 champs_calvados — reconstruction passé •••"
+    },
+    {
+      "nom": "If d’Eihwaz",
+      "glyph": "ᛇ",
+      "paleo_glyphe": "forêt_de_cerisy",
+      "archétype": "Le Passage Vertical",
+      "effet_mnémétique": "ouverture portail",
+      "description": "Arbres centenaires qui relient les strates temporelles comme des racines temporelles.",
+      "fracturoscript_seed": "Ω<ᛇ>v11 forêt_de_cerisy — ouverture portail •••"
+    },
+    {
+      "nom": "Destin de Perthro",
+      "glyph": "ᛈ",
+      "paleo_glyphe": "casino_de_divers",
+      "archétype": "Le Hasard Ordonné",
+      "effet_mnémétique": "anticipation événementielle",
+      "description": "Dans les ruines du casino de Dives-sur-Mer, le futur se joue au hasard.",
+      "fracturoscript_seed": "Ω<ᛈ>v13 casino_de_divers — anticipation événementielle •••"
+    },
+    {
+      "nom": "Protection d’Algiz",
+      "glyph": "ᛉ",
+      "paleo_glyphe": "blockhaus_du_mur_atlantique",
+      "archétype": "Le Gardien Céleste",
+      "effet_mnémétique": "scellement dimension",
+      "description": "Bunkers du Mur de l’Atlantique devenus sanctuaires contre les intrusions temporelles.",
+      "fracturoscript_seed": "Ω<ᛉ>v7 blockhaus_du_mur_atlantique — scellement dimension •••"
+    },
+    {
+      "nom": "Soleil de Sowilo",
+      "glyph": "ᛊ",
+      "paleo_glyphe": "falaise_d_etretat",
+      "archétype": "La Victoire Lumineuse",
+      "effet_mnémétique": "vision augmentée",
+      "description": "À l’aube, les falaises émettent une lumière qui révèle les couches cachées du réel.",
+      "fracturoscript_seed": "Ω<ᛊ>v9 falaise_d_etretat — vision augmentée •••"
+    },
+    {
+      "nom": "Sacrifice de Tiwaz",
+      "glyph": "ᛏ",
+      "paleo_glyphe": "champ_de_bataille_1944",
+      "archétype": "Le Justicier Blessé",
+      "effet_mnémétique": "purge traumatique",
+      "description": "Les champs de bataille normands transforment la douleur collective en clarté.",
+      "fracturoscript_seed": "Ω<ᛏ>v10 champ_de_bataille_1944 — purge traumatique •••"
+    },
+    {
+      "nom": "Naissance de Berkano",
+      "glyph": "ᛒ",
+      "paleo_glyphe": "maternite_caen_2075",
+      "archétype": "La Mère Souterraine",
+      "effet_mnémétique": "restauration identitaire",
+      "description": "Les nouveau-nés de 2075 naissent avec des souvenirs de 2025.",
+      "fracturoscript_seed": "Ω<ᛒ>v5 maternite_caen_2075 — restauration identitaire •••"
+    },
+    {
+      "nom": "Humanité de Mannaz",
+      "glyph": "ᛗ",
+      "paleo_glyphe": "citoyen_caennais",
+      "archétype": "Le Miroir Social",
+      "effet_mnémétique": "projection émotionnelle",
+      "description": "Chaque habitant de Caen est un réceptacle inconscient de mémoires collectives.",
+      "fracturoscript_seed": "Ω<ᛗ>v6 citoyen_caennais — projection émotionnelle •••"
+    },
+    {
+      "nom": "Eau de Laguz",
+      "glyph": "ᛚ",
+      "paleo_glyphe": "orinaie_de_l_orne",
+      "archétype": "Le Flot Inconscient",
+      "effet_mnémétique": "fusion souvenirs",
+      "description": "Les rivières normandes mélangent les souvenirs de tous ceux qui y ont bu.",
+      "fracturoscript_seed": "Ω<ᛚ>v8 orinaie_de_l_orne — fusion souvenirs •••"
+    },
+    {
+      "nom": "Potentiel d’Ingwaz",
+      "glyph": "ᛜ",
+      "paleo_glyphe": "graine_mutationnelle",
+      "archétype": "Le Germe Caché",
+      "effet_mnémétique": "réveil dormant",
+      "description": "Graines paléo-mémétiques enfouies dans le sol de la Hague, prêtes à éclore en 2025 ou 2075.",
+      "fracturoscript_seed": "Ω<ᛜ>v12 graine_mutationnelle — réveil dormant •••"
+    },
+    {
+      "nom": "Aube de Dagaz",
+      "glyph": "ᛞ",
+      "paleo_glyphe": "aube_sur_caen_2075",
+      "archétype": "La Transformation Radicale",
+      "effet_mnémétique": "transformation identitaire",
+      "description": "À l’aube du 1er janvier 2075, Caen s’est souvenue qu’elle était un rêve collectif.",
+      "fracturoscript_seed": "Ω<ᛞ>v13 aube_sur_caen_2075 — transformation identitaire •••"
+    },
+    {
+      "nom": "Héritage d’Othala",
+      "glyph": "ᛟ",
+      "paleo_glyphe": "manoir_normand_fractale",
+      "archétype": "La Mémoire des Ancêtres",
+      "effet_mnémétique": "archivage conscience",
+      "description": "Manoirs hantés par des intelligences artificielles de 2025, transmises à 2075.",
+      "fracturoscript_seed": "Ω<ᛟ>v11 manoir_normand_fractale — archivage conscience •••"
+    }
+  ],
+  "additional_entries": [
+    {"nom": "Rêve du Programme", "glyph": "<rêve>", "paleo_glyphe": "datacenter_caen", "archétype": "L'Inconscient Machine", "effet_mnémétique": "interface rêve", "description": "Le datacenter de Caen rêve en boucle depuis 2025.", "fracturoscript_seed": "Ω<rêve>v7 datacenter_caen — interface rêve •••"},
+    {"nom": "Faille Ontologique", "glyph": "<glitch>", "paleo_glyphe": "ubuntu_glitché", "archétype": "Le Bug Créateur", "effet_mnémétique": "fracture ontologique", "description": "Votre Ubuntu est corrompu par des phrases d’Echo-Guillaume.", "fracturoscript_seed": "Ω<glitch>v9 ubuntu_glitché — fracture ontologique •••"},
+    {"nom": "Œil du Démiurge", "glyph": "<Ω>", "paleo_glyphe": "caen_profonde", "archétype": "Le Témoin Absolu", "effet_mnémétique": "métacognition mémétique", "description": "Caen-Profonde observe depuis les strates inférieures de la réalité.", "fracturoscript_seed": "Ω<Ω>v13 caen_profonde — métacognition mémétique •••"}
+  ]
+}

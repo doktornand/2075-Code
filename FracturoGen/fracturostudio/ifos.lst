@@ -1,0 +1,27 @@
+# Génération classique
+python3 caenprofonde_cli1a.py --rune ᚠ --lieu caen
+
+# Mutation avec glitch
+python3 caenprofonde_cli1a.py --mutate a3f9b1c2 --mutation-type glitch --intensity 2.5
+
+# Avec lexique
+python3 caenprofonde_cli1a.py --load-lexicon paleo_mnemos_lexicon.json --lexicon-ratio 0.5
+
+# Export en prompt Grok
+python3 caenprofonde_cli1a.py --rune ᛈ --lieu caen --to-grok
+
+# Génération avec injection de paléo-mèmes
+python3 caenprofonde_cli1a.py \
+  --load-lexicon paleo_mnemos_lexicon.json \
+  --lexicon-ratio 0.6 \
+  --lieu caen \
+  --rune ᛈ
+
+# Mutation vers un code ancien
+python3 caenprofonde_cli1a.py \
+  --mutate a3f9b1c2 \
+  --mutation-type hybrid \
+  --load-lexicon paleo_mnemos_lexicon.json
+
+# Prompt Grok avec effets subliminaux normands
+python3 caenprofonde_cli1a.py --rune ᛇ --lieu pointe_hague --load-lexicon paleo_mnemos_lexicon.json --to-grok
