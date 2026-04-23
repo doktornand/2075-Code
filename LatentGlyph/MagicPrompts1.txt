@@ -1,0 +1,101 @@
+Ω<Ω>v7•[basalte•lunaire•fendu•par•le•premier•cri•humain]{
+  Ce n’est pas une faille, c’est une bouche.
+  Elle n’a jamais parlé, mais elle a tout ingéré : poussière d’astronaute,
+  larmes gelées de radio, fragments de rêves ratés.
+  ◊ glitch: [ordre_mots_←→]
+  § couche: 3
+}
+
+
+Ω<Ω>v∞•[mémoire•du•fer•dans•le•sang•de•l’océan•primitif]{
+  Avant les mots, il y avait ce battement : Fe²⁺ ↔ Fe³⁺.
+  Rythme oxydatif, pulsation tectonique.
+  L’image ne sera pas vue — elle *respirera*.
+  ◊ glitch: [chroma: désaturé + infra-rouge]
+  § couche: 7
+}
+
+
+
+Ω<Ω>vΔ•[faille•entre•deux•époques•non•datées]{
+  Ici, le temps n’a pas de flèche — seulement des cicatrices superposées.
+  La mer d’il y a 400 millions d’années se souvient de ton regard d’aujourd’hui.
+  ◊ glitch: [∅]
+  § couche: ∞
+}
+
+****
+
+### **1. FracturoScript • Invocation d’une Cité-Lithique**
+```fracturo
+Ω<Ω>v3•[basalte•de•Thulé•au•crépuscule•pré-cambrien]
+— glyphes : [ᛉ][ᚦ][🜁][🜄]
+— texture : pierre volcanique × manuscrit carolingien brûlé
+— lumière : lueur d’ambre fossile traversant un prisme runique
+— glitch : 7% de rémanence paléolithique, fusionné au futurisme de Vorticisme
+— rendu : architecture vivante, racines de cristal, absence de ciel
+```
+
+---
+
+### **2. FracturoScript • Vision d’une Forêt Mnémotechnique**
+```fracturo
+Ω<Ω>v3•[forêt•de•chênes•mémoire•gravée•en•latin•macaronique]
+— glyphes : [ᛗ][🜂][∞][🜃]
+— texture : écorce × parchemin × circuit imprimé bioluminescent
+— lumière : reflet lunaire sur encre de seiche médiévale
+— glitch : 12% de fragments mnésiques perdus entre 1066 et 2077
+— rendu : arbres dont les feuilles sont des pages flottantes, certaines en flamme douce
+```
+
+---
+
+### **3. FracturoScript • Portrait d’un Oracle Glitché**
+```fracturo
+Ω<Ω>v3•[visage•d’Oracle•de•Delphes•reconstruit•par•un•LLM•hallucinant]
+— glyphes : [Δ][🜄][Ψ][🜀]
+— texture : marbre fissuré × interface neuronale × voile de brume ionisée
+— lumière : rayons X filtrés par un psautier gothique
+— glitch : 9% de distorsion sémantique liée à l’oubli algorithmique
+— rendu : yeux remplacés par des glyphes flottants, bouche scellée par du silence compressé
+```
+
+---
+
+### **4. FracturoScript • L’Âme du Vide**
+```fracturo
+Ω<Ω>v3•[vide•archontique•nourri•de•fragments•d’encyclopédies•brûlées]
+— glyphes : [Ø][🜁][∅][🜃]
+— texture : néant texturé en soie calcinée × cendres d’Aleph
+— lumière : absence lumineuse (noir actif, non passif)
+— glitch : 15% d’entropie sémantique pure, sans support visuel stable
+— rendu : un cadre vide qui regarde le spectateur, bordé de runes effacées
+```
+
+---
+
+### **5. FracturoScript • Cérémonie des Pierres Parlantes**
+```fracturo
+Ω<Ω>v3•[cercle•de•menhirs•programmés•en•langage•proto-celtique•quantique]
+— glyphes : [ᛟ][🜂][🜄][Λ]
+— texture : granit × code binaire ancien × lichen temporel
+— lumière : aurore boréale synchronisée sur un tambour chamanique éteint
+— glitch : 6% de résonance druidique contaminée par des micro-ondes 5G
+— rendu : pierres émettant des ondes visibles, spectrales, tissées en tapisserie sonore figée
+```
+
+---
+
+Ces codes sont pensés pour **exploiter la plasticité interprétative** des modèles comme Grok, tout en ancrant la génération d’images dans des strates temporelles, mythiques ou glitchées. Ils combinent :
+
+- Des **références matérielles** (granit, basalte, parchemin…),
+- Des **époques superposées** (pré-cambrien, carolingien, futur…),
+- Des **glyphes symboliques** issus d’un lexique FracturoScript,
+- Et un **taux de glitch** mesuré, introduisant du bruit sémantique contrôlé.
+
+Tu peux les soumettre directement à Grok en les encapsulant dans un prompt du type :
+
+> « À partir du FracturoScript suivant, génère une image haute résolution qui en incarne l’essence visuelle, en respectant les textures, les lumières et les distorsions décrites. Ne pas expliquer, uniquement produire l’image. »
+
+
+

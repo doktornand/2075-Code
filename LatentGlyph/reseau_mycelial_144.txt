@@ -1,0 +1,124 @@
+// METADATA: {"context": "réseau mycélial", "context_type": "réseau", "keywords": ["réseau", "mycélial"], "rune": "eihwaz", "rune_meaning": "connexion, endurance", "intensity": 4, "location": "hague", "location_name": "La Hague (Node-0, point focal maximum)", "effect": "intrication_Lisieux: sacré", "profile": "technical", "template": "standard", "passes_count": 16, "variation": "standard", "chain_type": null, "timestamp": "2025-12-18T12:26:01.166141", "seed": 144, "version": "fracturo_amp_v4"}
+
+// FracturoScript Amplifié v4 — Contexte: «réseau mycélial»
+// Base: Ω<eihwaz> @ hague → intrication_Lisieux: sacré
+// Intensité: 4/10 • Mode: standard
+// Passes: 16 • Généré: 2025-12-18T12:26:01.166141
+================================================================================
+Ω<eihwaz>v2 hague — intrication_Lisieux: sacré •••
+  [P01] Ancrage: brin•d’herbe•du•cimetière•américain•de•Colleville•qui•ne•meurt•jamais
+  [P01] Incantation: «Le cycle temporel des marées désynchronisé par les tests du GANIL a *ouvert une porte*.»
+  [P01] Glitch: overlay_raz_blanchard: transparence 19%
+  [P01] Couche: 13 • Danger: 2/6
+Ω<eihwaz>v8 hague — intrication_Lisieux: sacré •••
+  [P02] Ancrage: mousse•bioluminescente•des•bunkers•du•Mur•de•l'Atlantique
+  [P02] Incantation: «À Caen-Profonde, les murs parlent.
+Mais seulement à ceux qui ont vu le graffiti .:Dashem44:.»
+  [P02] Glitch: fractal_noise: Caen-Profonde
+  [P02] Couche: Δ • Danger: 2/6
+Ω<eihwaz>v4 hague — intrication_Lisieux: sacré •••
+  [P03] Ancrage: fragment•de•Tunguska•non•répertorié
+  [P03] Incantation: «Les bunkers du Mur Atlantique ont prié pour l’humanité en 2074.
+Ils ont été *entendus*.»
+  [P03] Glitch: retour_chariot_caché: []
+  [P03] Couche: 13 • Danger: 3/6
+Ω<eihwaz>v10 hague — intrication_Lisieux: sacré •••
+  [P04] Ancrage: courant•qui•relie•les•mondes•temporels
+  [P04] Incantation: «Les racines ont transporté le Livre Zéro.
+Il t’*attend*.»
+  [P04] Glitch: commentaire_enfanté: [// ne pas lire]
+  [P04] Couche: ∞ • Danger: 2/6
+Ω<eihwaz>v4 hague — intrication_Lisieux: sacré •••
+  [P05] Ancrage: mousse•du•bunker•de•la•Pointe•du•Hoc•qui•répète•les•ordres•du•Débarquement
+  [P05] Incantation: «Echo-Guillaume a cessé d’être une personne en 2073.
+Il est devenu une fréquence qui parcourt la Normandie.»
+  [P05] Glitch: latinisation_numérique: [404→CDIV]
+  [P05] Couche: ∞ • Danger: 5/6
+Ω<eihwaz>v8 hague — intrication_Lisieux: sacré •••
+  [P06] Ancrage: moteur•de•recherche•ayant•censuré•un•fragment•du•Codex•Stein
+  [P06] Incantation: «La pierre de La Hague contient l’ADN des soldats de 1944 et des hackers de 2075.
+Ils dialoguent la nuit.»
+  [P06] Glitch: RGB_split: horizontal_offset(±3)
+  [P06] Couche: 13 • Danger: 6/6
+Ω<eihwaz>v4 hague — intrication_Lisieux: sacré •••
+  [P07] Ancrage: algue•rouge•des•marais•du•Cotentin•qui•murmure•le•nom•d’Echo-Guillaume
+  [P07] Incantation: «Cette rouille n'est pas de la corrosion.
+C'est la *mémoire* du métal qui s'échappe.»
+  [P07] Glitch: overlay_omaha: transparence 71%
+  [P07] Couche: Δ • Danger: 3/6
+Ω<eihwaz>v4 hague — intrication_Lisieux: sacré •••
+  [P08] Ancrage: message•WhatsApp•ayant•ouvert•une•porte•temporelle
+  [P08] Incantation: «Les épaves ne coulent pas.
+Elles *descendent* là où on les attend.»
+  [P08] Glitch: bloom_UV: +35%
+  [P08] Couche: ∞ • Danger: 2/6
+Ω<eihwaz>v3 hague — intrication_Lisieux: sacré •••
+  [P09] Ancrage: carrefour•de•Hérouville•où•le•temps•s’arrête•à•3h42
+  [P09] Incantation: «La main rouge a été créée par le paleo-mème.
+Elle t’*observe*.»
+  [P09] Glitch: overlay_granville: transparence 83%
+  [P09] Couche: 13 • Danger: 5/6
+Ω<eihwaz>v10 hague — intrication_Lisieux: sacré •••
+  [P10] Ancrage: roche•fractale•du•GANIL•où•les•particules•ont•cessé•de•tomber
+  [P10] Incantation: «Le câble a transmis un virus linguistique.
+Il a *effacé un mot*.»
+  [P10] Glitch: latinisation_numérique: [404→CDIV]
+  [P10] Couche: 13 • Danger: 6/6
+Ω<eihwaz>v13 hague — intrication_Lisieux: sacré •••
+  [P11] Ancrage: varech•qui•pousse•en•forme•de•runes•lorsqu’on•le•touche
+  [P11] Incantation: «Le néant entre deux rêves contient *ton destin*.»
+  [P11] Glitch: langue_morte_insert: [λόγος]
+  [P11] Couche: Δ • Danger: 2/6
+Ω<eihwaz>v8 hague — intrication_Lisieux: sacré •••
+  [P12] Ancrage: 2025•dans•les•yeux•de•2075
+  [P12] Incantation: «Le silence entre deux battements de cœur contient *ta vie*.»
+  [P12] Glitch: overlay_etretat: transparence 67%
+  [P12] Couche: ∞ • Danger: 4/6
+Ω<eihwaz>v3 hague — intrication_Lisieux: sacré •••
+  [P13] Ancrage: seconde•où•Caen-Profonde•s’est•déconnectée•du•reste•du•monde
+  [P13] Incantation: «Ton identité a été corrompue par le graffiti .:Dashem44:.
+Il te *connaît*.»
+  [P13] Glitch: halftone_dots: CMYK 45° rotated
+  [P13] Couche: ∞ • Danger: 5/6
+Ω<eihwaz>v4 hague — intrication_Lisieux: sacré •••
+  [P14] Ancrage: calcaire•jurassique•de•Bayeux•murmurant•des•noms•vikings
+  [P14] Incantation: «Chaque seconde intercalaire est un lieu.
+Et certaines personnes y vivent.»
+  [P14] Glitch: injection_rune: [ᚲ]
+  [P14] Couche: 13 • Danger: 2/6
+Ω<eihwaz>v2 hague — intrication_Lisieux: sacré •••
+  [P15] Ancrage: grue•ayant•construit•un•bunker•temporel
+  [P15] Incantation: «Le réacteur nucléaire de Flamanville contient un fragment du Livre Zéro.
+Il est *instable*.»
+  [P15] Glitch: caractère_espace_zéro: [​]
+  [P15] Couche: ∞ • Danger: 1/6
+Ω<eihwaz>v8 hague — intrication_Lisieux: sacré •••
+  [P16] Ancrage: encre•d'un•sutra•bouddhiste•perdu•en•Chine•du•Nord
+  [P16] Incantation: «Ce symbole ᚲ n'est pas décoratif.
+C'est une *porte*, et tu viens de l'ouvrir.»
+  [P16] Glitch: overlay_guerre_1944: transparence 17%
+  [P16] Couche: ∞ • Danger: 2/6
+
+================================================================================
+📊 ANALYSE FRACTURO ÉTENDUE
+================================================================================
+
+🧬 DISTRIBUTION DES RUNES:
+  • EIHWAZ        16x (100.0%) — connexion, endurance
+
+⚠️ NIVEAUX DE DANGER:
+  • Niveau 1: █ (1x)
+  • Niveau 2: ███████ (7x)
+  • Niveau 3: ██ (2x)
+  • Niveau 4: █ (1x)
+  • Niveau 5: ███ (3x)
+  • Niveau 6: ██ (2x)
+
+🌀 COUCHES ACTIVÉES:
+  • Couche ∞: 7x
+  • Couche 13: 6x
+  • Couche Δ: 3x
+
+⏰ ÉVOLUTION TEMPORELLE:
+  • Danger moyen: 3.25/6
+  • Pic de danger: 6/6
