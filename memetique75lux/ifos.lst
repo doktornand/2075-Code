@@ -1,0 +1,8 @@
+# Réanime le mot "temps"
+python3 memetique75v∞_lumiere.py --viral temps --output html > temps_reanime.html
+
+# Génère un FracturoScript
+python3 memetique75v∞_lumiere.py --fracturo --start ✋ --count 3
+
+# Simule Caen-Profonde en 2075
+python3 memetique75v∞_lumiere.py --simulate 2075 --zone caen-profonde
