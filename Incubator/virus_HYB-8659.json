@@ -1,0 +1,20 @@
+{
+  "id": "HYB-8659",
+  "theme": "technologie",
+  "payload": "Chaque la paroi est un piège temporel — Chaque la paroi rêve de ta chair",
+  "symbol": "🌊🜇🌊 🔌🌀🧬",
+  "symbol_type": "paleo",
+  "faction": "Prométhée",
+  "parents": [
+    "MEME-9829",
+    "MEME-6799-M797"
+  ],
+  "hybrid": true,
+  "generation_mode": "classic_hybrid",
+  "created_at": "2025-11-26T11:49:33.446367",
+  "stats": {
+    "emotional_charge": 5.0,
+    "replication_potential": 8.17010025895366,
+    "resilience": 7.5
+  }
+}

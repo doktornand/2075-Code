@@ -1,0 +1,33 @@
+{
+  "id": "HYB-1831",
+  "theme": "fracturo",
+  "payload": "la paroi est la faille par où le Réel respire — la paroi est la faille par où le Réel respire",
+  "symbol": "🜊🜅 🌀",
+  "symbol_type": "paleo",
+  "faction": "Les Déliés",
+  "parents": [
+    "MEME-6582-M836",
+    "MEME-6582-M836-M278-M884-M776"
+  ],
+  "hybrid": true,
+  "generation_mode": "classic_hybrid",
+  "created_at": "2025-11-26T11:40:36.175127",
+  "stats": {
+    "emotional_charge": 6.0,
+    "replication_potential": 10,
+    "resilience": 9.0
+  },
+  "cognitive_payload": "La parom respire. Tu es déjà infecté.e.",
+  "refined_cognitive": true,
+  "cognitive_stats": {
+    "original_density": 0.6621315192743764,
+    "refined_density": 0.5714285714285715,
+    "cognitive_hooks": [
+      "THE_FRACTURE"
+    ],
+    "archetype_detected": "THE_FRACTURE",
+    "neuro_sonic_score": 0.51233340020663,
+    "semantic_charge": 0.5714285714285715,
+    "viral_potential": 0.6688952514698975
+  }
+}

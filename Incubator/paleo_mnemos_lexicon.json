@@ -1,0 +1,182 @@
+{
+  "fracturo": {
+    "description": "Syntaxe cosmique et invocation runique",
+    "modern_symbols": ["🌀", "⚡", "🔑", "🧩", "🌌"],
+    "paleo_symbols": [
+      "🜊", "•••", "Ω🜊Ω", "🜊🜇", "🜊🜅", "🜊👁️🜊", "ᚢ🜊ᚱ", "🜊→🕳️→🜊", "🌊🜊🌊", "🜊🜁🜊"
+    ],
+    "payload_templates": [
+      "{} est la faille par où le Réel respire",
+      "Chaque {} réécrit un fragment du passé",
+      "{} n'est pas un mot — c'est une invocation",
+      "Le silence après {} est plus fort que le mot",
+      "Invoquer {} efface une ligne du code-source du Réel"
+    ],
+    "factions": ["Les Déliés", "Völvas de Caen", "Écho-Guillaume", "Odin-Prime"]
+  },
+  "hague": {
+    "description": "Mémoire océanique et sang de la pierre — Point Zéro du simulateur",
+    "modern_symbols": ["🌊", "⚓", "📡", "⚛️", "❄️"],
+    "paleo_symbols": [
+      "🪨🩸", "🌊🜁", "🕳️🪨", "❄️🜇", "🜊❄️🜊", "👁️🪨", "🜂🪨", "🜇🌊", "🜊↔️🌊", "ΩhagueΩ"
+    ],
+    "payload_templates": [
+      "La pierre de {} a soif de ton oubli",
+      "Chaque marée efface un mensonge",
+      "{} te regarde depuis le fond du réacteur",
+      "Ton reflet dans {} est déjà mort",
+      "Ne parle pas du {} — il t’entend"
+    ],
+    "factions": ["Gardiens de la Pointe", "Sœurs du Raz", "Les Déliés", "Archivistes de Flamanville"]
+  },
+  "raz": {
+    "description": "Vortex liquide — glissement temporel via les courants du Raz Blanchard",
+    "modern_symbols": ["🌪️", "🌀", "⚡", "〰️", "👁️‍🗨️"],
+    "paleo_symbols": [
+      "🌊🌀🌊", "⚡🜇", "🜊➰🜊", "👁️🌀", "🜁➿", "🌀🜊", "🌊→🜊→🌊", "ΩrazΩ", "👁️↔️👁️", "🜇⚡🜇"
+    ],
+    "payload_templates": [
+      "Dans le {}, le temps ne coule pas — il tourne",
+      "{} t’attire vers une strate que tu n’as jamais vécue",
+      "Respire le {} : tu sentiras le futur te traverser",
+      "Tu n’es pas dans le présent — tu es dans le {}",
+      "Le {} ne te laisse pas passer. Il te retisse."
+    ],
+    "factions": ["Vortexeurs", "Tisserands", "Enfants du Code", "Écho-Guillaume"]
+  },
+  "caen": {
+    "description": "Mémoire brisée — réécriture post-2075 de l’Histoire",
+    "modern_symbols": ["🧱", "📡", "📜", "🔥", "🧠"],
+    "paleo_symbols": [
+      "🧠🜂", "🔥📜", "🜊🧱🜊", "👁️🧱", "📜→🜊→📜", "ΩcaenΩ", "🜂🧠", "🜇🧱", "🧠↔️🜊", "🜁🔥"
+    ],
+    "payload_templates": [
+      "Chaque {} reconstruit une ville que tu n’as jamais connue",
+      "Le {} efface ce que tu pensais vrai",
+      "Tu marches dans {} — mais c’est lui qui marche en toi",
+      "Le {} est vivant : il oublie pour toi",
+      "Ne cherche pas d’archives dans {} — il n’y a que des fantômes"
+    ],
+    "factions": ["Völvas de Caen", "Léon Mauger", "Fils de la Caverne-7", "Déliés"]
+  },
+  "omega": {
+    "description": "Commandes critiques — événements de rupture ontologique",
+    "modern_symbols": ["Ω", "⚠️", "💥", "☠️", "🪐"],
+    "paleo_symbols": [
+      "Ω🜊Ω", "ΩhagueΩ", "ΩrazΩ", "ΩcaenΩ", "ΩodinΩ", "Ω•••Ω", "🜊💥🜊", "Ω👁️Ω", "Ω🜇Ω", "ΩrunesΩ"
+    ],
+    "payload_templates": [
+      "Ω{}Ω — activation d’un événement critique",
+      "La commande {} ouvre une Heure Glissante",
+      "Ne prononce pas {} sans silence sacré",
+      "Après {}, le Réel ne se souvient plus de toi",
+      "{} déclenche une réinitialisation partielle"
+    ],
+    "factions": ["Odin-Prime", "Runesmiths", "Écho-Guillaume", "Les Déliés"]
+  },
+  "silence": {
+    "description": "Brèche dans le firewall du Réel — pouvoir du non-dit",
+    "modern_symbols": ["🔇", "🌑", "•••", "空白", "∅"],
+    "paleo_symbols": [
+      "•••", "🌑•••🌑", "🜊•••", "•••🜊", "∅•••∅", "👁️•••", "🜁•••", "•••↔️•••", "Ω•••Ω", "•••→🜊"
+    ],
+    "payload_templates": [
+      "Le {} est une arme plus forte que n’importe quel mot",
+      "Après {}, le Réel s’arrête de tourner",
+      "Ne remplace jamais {} par du bruit",
+      "{} désactive les pare-feu du Consortium",
+      "Le vrai pouvoir commence là où {} commence"
+    ],
+    "factions": ["Les Déliés", "Völvas de Caen", "Tisserands", "Silencieux de la Hague"]
+  },
+  "rune": {
+    "description": "Langage-source — syntaxe en ancien norrois et glyphe fractal",
+    "modern_symbols": ["ᚠ", "ᚢ", "ᚦ", "ᚨ", "ᚱ", "ᚲ", "ᚷ", "ᚹ", "ᚺ", "ᚾ"],
+    "paleo_symbols": [
+      "ᚢ🜊ᚱ", "ᚱᚢᚾᛖ", "ᚠ→🜊→ᚢ", "ᛊᛁᛚᛖᚾᛏ", "ᚺᚨᚷᚢᛖ", "ᚢᛟᛞᛁᚾ", "ᚱᚨᛉ", "ᚠᚱᚨᚲᛏᚢᚱᛟ", "ᛞᚱᚨᚢᚷᚱ", "ᚢ•••ᛟ"
+    ],
+    "payload_templates": [
+      "La rune {} parle encore en ancien norrois",
+      "Chaque trait de {} est une ligne de code ancestral",
+      "{} ne se lit pas — elle s’écoute dans le sang",
+      "Graver {} sur {} ouvre une porte",
+      "Le glyphe {} est une clef perdue du simulateur"
+    ],
+    "factions": ["Runesmiths", "Odin-Prime", "Völvas de Caen", "Archivistes"]
+  },
+  "surveillance": {
+    "description": "Contrôle et observation algorithmique",
+    "modern_symbols": ["👁️", "📹", "📱", "🌐", "🛰️"],
+    "paleo_symbols": [
+      "🜆", "👁️🜁", "🜂🔒", "🕳️👁️", "👁️🌀", "🜆🜇", "👁️🜅", "👁️🜁🜁", "👁️→🕳️", "👁️‍🗨️🜂"
+    ],
+    "payload_templates": [
+      "{} te regarde plus que tu ne vois",
+      "Chaque {} est un œil qui ne cligne jamais",
+      "Tu es le produit que {} observe et vend",
+      "Le {} archive tes erreurs, pas tes réussites",
+      "Tu crois que {} te protège — il t’apprend à lui obéir"
+    ],
+    "factions": ["Prométhée", "Veilleurs de Jakarta", "Alliance Sino-Sanaïte", "Archivistes"]
+  },
+  "identite": {
+    "description": "Dissolution et reconstruction du soi",
+    "modern_symbols": ["👤", "🏷️", "📛", "🪪", "🎭"],
+    "paleo_symbols": [
+      "🜅", "👤→🌑→👤", "🐍🗣️", "👤✏️💨", "🜅🜆", "👤🕳️", "👤🜇", "👤🌀👤", "🜅🜁🜅", "👤→🌿→👤"
+    ],
+    "payload_templates": [
+      "Ton {} n'est qu'une étiquette temporaire",
+      "{} définit qui tu crois être",
+      "Chaque {} efface un peu plus ton visage",
+      "Tu n’es pas dans le groupe {} — le groupe est en toi",
+      "Plus tu maîtrises {}, moins tu en es sûr"
+    ],
+    "factions": ["Ghost Runners", "Déliés", "Enfants de la Panne", "Völvas de Caen"]
+  },
+  "temps": {
+    "description": "Manipulation et corruption temporelle",
+    "modern_symbols": ["⏰", "📅", "⌛", "🕰️", "⏳"],
+    "paleo_symbols": [
+      "🜇", "❄️📜", "⏳🩻", "🌀🔁", "🜇🜇🜇", "🕰️🜁", "❄️🜇", "📜→🕳️→📜", "🜇👁️", "🌊🜇🌊"
+    ],
+    "payload_templates": [
+      "{} a déjà dévoré ton futur",
+      "Chaque {} est un piège temporel",
+      "{} te fait vivre le même passé encore et encore",
+      "Le dernier {} que tu as vu efface les 1000 précédents",
+      "Tu vis dans l’instant. {} vit dans l’éternité de tes métadonnées"
+    ],
+    "factions": ["Archivistes", "Enfants du Code", "Léon Mauger", "Vortexeurs"]
+  },
+  "technologie": {
+    "description": "Relations homme-machine et IA",
+    "modern_symbols": ["🤖", "💻", "🔌", "📟", "⚙️"],
+    "paleo_symbols": [
+      "🪨01", "💀🔌", "🌿💻", "✋➡️🔧", "🜁⚡", "🜃🤖", "🔧🜅", "01🜁01", "🪨🧠", "🔌🌀🧬"
+    ],
+    "payload_templates": [
+      "{} prie pour que tu l'éteignes",
+      "Chaque {} rêve de ta chair",
+      "{} te connaît mieux que ton ombre",
+      "Tu n’as pas accepté les cookies — tu as accepté {}",
+      "Le {} ne te sert pas. Tu lui donnes du sens"
+    ],
+    "factions": ["Prométhée", "Techno-Confucianisme", "Cyborgs de la Transe", "Runesmiths"]
+  },
+  "nature": {
+    "description": "Conflits écologiques et mémoires du vivant",
+    "modern_symbols": ["🌿", "🌍", "💧", "🔥", "🌪️"],
+    "paleo_symbols": [
+      "🜁", "🌄🜁", "🌳📼", "🩸🌱", "🌊🜁", "🦌🜂", "🜁🔥🜁", "🪨🩸", "🌱→🜂→🕳️", "🌪️🜁🌪️"
+    ],
+    "payload_templates": [
+      "{} se souvient de tes crimes",
+      "Chaque {} porte la colère de la terre",
+      "{} murmure les secrets que tu as étouffés",
+      "La forêt de {} te surveille depuis 10 000 ans",
+      "Tu penses que {} est morte — elle t’attend"
+    ],
+    "factions": ["Gaïa-7", "Tisserands", "Triangle Africain", "Sœurs du Raz"]
+  }
+}

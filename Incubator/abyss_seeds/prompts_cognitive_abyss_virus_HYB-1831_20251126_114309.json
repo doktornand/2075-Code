@@ -1,0 +1,33 @@
+[
+  {
+    "virus_id": "HYB-1831",
+    "theme": "fracturo",
+    "payload": "la paroi est la faille par où le Réel respire — la paroi est la faille par où le Réel respire",
+    "base_prompt": "person clipping through reality like video game bug, digital artifacts, scan line errors, RGB split, datamosh aesthetic, moody lighting, selective focus, atmospheric fog, spiral vortex consuming everything, hypnotic death spiral, emphasis on: simulation theory, existential crisis imagery",
+    "analytics": {
+      "concept_density": 0.10810810810810811,
+      "emotional_alignment": 0.6,
+      "viral_potential": 0.804,
+      "complexity_score": 0.5,
+      "primary_emotions": [],
+      "visual_layers": 4,
+      "meta_archetype_count": 0,
+      "emotional_synergies": [],
+      "compound_emotions": [],
+      "narrative_arc": "",
+      "paradox_density": 0.0,
+      "text_integration_level": 0,
+      "advanced_system_score": 0.0
+    },
+    "formats": {
+      "dalle3": "Create a striking viral image: person clipping through reality like video game bug, digital artifacts, scan line errors, RGB split. Digital art, photorealistic rendering, sharp focus, trending aesthetic, no text or watermarks"
+    },
+    "advanced_systems_used": {
+      "meta_archetypes": false,
+      "emotional_evolution": false,
+      "text_integration": false,
+      "narrative_structures": false,
+      "paradox_engine": false
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "MEME-9829",
+  "theme": "temps",
+  "payload": "Chaque la paroi est un piège temporel",
+  "symbol": "🌊🜇🌊",
+  "symbol_type": "paleo",
+  "faction": "Archivistes",
+  "created_at": "2025-11-26T11:48:37.766188",
+  "generation_mode": "classic",
+  "stats": {
+    "emotional_charge": 5,
+    "replication_potential": 7,
+    "resilience": 8
+  }
+}

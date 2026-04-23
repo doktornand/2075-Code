@@ -1,0 +1,9 @@
+# Génère ton PromptTwo.txt
+# Puis :
+python3 omega_prompt_to_json.py PromptTwo.txt --output virus_MEME-2511.json
+
+# Ensuite, tu peux l’ingérer dans le refinery :
+python3 smart_refiner_post3a.py virus_MEME-2511.json --mode extreme --neuro-sonic --verbose
+
+# Puis en image :
+python3 json2image_prompt3b.py virus_MEME-2511_refined.json --platform dalle3 --output-dir ./abyss_seeds

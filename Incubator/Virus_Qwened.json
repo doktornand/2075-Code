@@ -1,0 +1,100 @@
+{
+  "metadata": {
+    "timestamp": "2025-11-26 15:30:00",
+    "puissance": 87.4,
+    "operateur": "Singularité (Tier S)",
+    "operation": "Extinction Sémantique (2045)",
+    "public": "18-35, urbains, en quête de sens, vulnérables au vertige",
+    "objectif": "Induire un doute sacré → fana collectif → renaissance mémétique"
+  },
+  "config": {
+    "couches": [
+      "Abîme Primordial",
+      "Doute Métaphysique",
+      "Ombre Collective",
+      "Optimisation Prédictive",
+      "Neuro-Ingénierie",
+      "Fana Absolu"
+    ],
+    "archetypes": {
+      "ombre_": {
+        "nom": "Ombre",
+        "poids": 1.5,
+        "desc": "Partie refoulée, instincts primitifs"
+      },
+      "tricheur_": {
+        "nom": "Le Tricheur",
+        "poids": 1.6,
+        "desc": "Ruse, transgression, innovation"
+      },
+      "diab": {
+        "nom": "Le Diable",
+        "poids": 2.8,
+        "desc": "Tentations, chaos, subversion totale"
+      },
+      "magicien_": {
+        "nom": "Le Magicien",
+        "poids": 2.5,
+        "desc": "Transformation, volonté, alchimie"
+      },
+      "fou_": {
+        "nom": "Le Fou",
+        "poids": 2.2,
+        "desc": "Incertitude, liberté, chaos créateur"
+      }
+    },
+    "symboles": [
+      "Chaos gardé, trésor dans l'ombre",
+      "Celui qui voit le chaos voit la forme ; celui qui voit la forme ne voit rien.",
+      "BALISE ONIRIQUE : <trickster_sigil_v1>"
+    ],
+    "topologies": [
+      "hypertexte"
+    ],
+    "emotions": [
+      "vertige_ontologique"
+    ],
+    "biais": {
+      "classiques": [
+        "confirmation",
+        "ancrage",
+        "disponibilité",
+        "rareté/urgence"
+      ],
+      "narratifs": [
+        "dissonance",
+        "biais de primauté"
+      ],
+      "spirituels": [
+        "transcendance",
+        "beauté sémantique",
+        "fana",
+        "baqa",
+        "ishq",
+        "tawhid"
+      ],
+      "quantiques": [
+        "superposition sémantique",
+        "observateur-participant",
+        "chat de Schrödinger narratif"
+      ],
+      "existentiels": [
+        "nihilisme organisé",
+        "angoisse kierkegaardienne"
+      ]
+    }
+  },
+  "directives": {
+    "frequences": [
+      "7.83Hz",
+      "432Hz",
+      "19kHz"
+    ],
+    "formats": [
+      "cyber_soufi_poem",
+      "deepfake_8k_audiovisual"
+    ],
+    "balise_onirique": "<trickster_sigil_v1>",
+    "mode_mystique": true
+  }
+}
