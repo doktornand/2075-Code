@@ -1,0 +1,7507 @@
+{
+  "P-00": {
+    "symbole": "•",
+    "nom": "Point Origine",
+    "mots_associes": [
+      "naissance",
+      "silence",
+      "vide"
+    ],
+    "effet_mnemos": "réinitialisation identitaire",
+    "biais_associes": [
+      "biais de disponibilité"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-01": {
+    "symbole": "▲",
+    "nom": "Triangulum Mentis",
+    "mots_associes": [
+      "vérité",
+      "sacrifice",
+      "choix"
+    ],
+    "effet_mnemos": "réveil de choix refoulés",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-02": {
+    "symbole": "🌀",
+    "nom": "Spirale du Retour",
+    "mots_associes": [
+      "mémoire",
+      "boucle",
+      "destin"
+    ],
+    "effet_mnemos": "impression de déjà-vu récurrent",
+    "biais_associes": [
+      "effet de fausse reconnaissance"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-03": {
+    "symbole": "⚡",
+    "nom": "Éclair de Révélation",
+    "mots_associes": [
+      "choc",
+      "lucidité",
+      "foudre"
+    ],
+    "effet_mnemos": "rupture narrative instantanée",
+    "biais_associes": [
+      "choc émotionnel"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-04": {
+    "symbole": "🌿",
+    "nom": "Mémoire Organique",
+    "mots_associes": [
+      "racine",
+      "terre",
+      "corps"
+    ],
+    "effet_mnemos": "réconnexion au vivant",
+    "biais_associes": [
+      "biais de naturalité"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-05": {
+    "symbole": "📜",
+    "nom": "Récit Perdu",
+    "mots_associes": [
+      "oubli",
+      "manuscrit",
+      "hérésie"
+    ],
+    "effet_mnemos": "désir de vérité interdite",
+    "biais_associes": [
+      "effet Streisand"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-06": {
+    "symbole": "👁️‍🗨️",
+    "nom": "L'Observé qui Voit",
+    "mots_associes": [
+      "surveillance",
+      "conscience",
+      "ombre"
+    ],
+    "effet_mnemos": "paranoïa lucide",
+    "biais_associes": [
+      "illusion de transparence"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-07": {
+    "symbole": "🌊",
+    "nom": "Flux Mnésique",
+    "mots_associes": [
+      "oubli",
+      "rêve",
+      "profondeur"
+    ],
+    "effet_mnemos": "dissolution des frontières mentales",
+    "biais_associes": [
+      "biais de fluidité"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-08": {
+    "symbole": "🔥",
+    "nom": "Feu du Sens",
+    "mots_associes": [
+      "purge",
+      "révolution",
+      "désir"
+    ],
+    "effet_mnemos": "ardeur idéologique",
+    "biais_associes": [
+      "polarisation"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-09": {
+    "symbole": "❄️",
+    "nom": "Stase du Doute",
+    "mots_associes": [
+      "immobilité",
+      "froid",
+      "attente"
+    ],
+    "effet_mnemos": "paralysie décisionnelle",
+    "biais_associes": [
+      "aversion à la perte"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-10": {
+    "symbole": "👁️",
+    "nom": "Œil Nu",
+    "mots_associes": [
+      "perception",
+      "intuition",
+      "vérité nue"
+    ],
+    "effet_mnemos": "accès direct au réel",
+    "biais_associes": [
+      "biais du réalisme naïf"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-010": {
+    "symbole": "🌀",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "désir",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-011": {
+    "symbole": "⚖️",
+    "nom": "Masque de Ombre",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-012": {
+    "symbole": "•",
+    "nom": "Racine de Silence",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-013": {
+    "symbole": "∞",
+    "nom": "Souffle de Rêve",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-014": {
+    "symbole": "🜂",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-015": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Ombre de Rêve",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-016": {
+    "symbole": "•",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "amour"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-017": {
+    "symbole": "👁️",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-018": {
+    "symbole": "🗝️",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "oubli"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-019": {
+    "symbole": "∞",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-020": {
+    "symbole": "⚡",
+    "nom": "Voie de Feu",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-021": {
+    "symbole": "👁️",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-022": {
+    "symbole": "•",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-023": {
+    "symbole": "🗝️",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-024": {
+    "symbole": "•",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-025": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-026": {
+    "symbole": "🜃",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-027": {
+    "symbole": "🜃",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-028": {
+    "symbole": "🜄",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-029": {
+    "symbole": "•",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-030": {
+    "symbole": "❄️",
+    "nom": "Ombre de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-031": {
+    "symbole": "∞",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-032": {
+    "symbole": "🜄",
+    "nom": "Point de Feu",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-033": {
+    "symbole": "⚖️",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-034": {
+    "symbole": "▲",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-035": {
+    "symbole": "🌀",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-036": {
+    "symbole": "⚡",
+    "nom": "Lien de Code",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-037": {
+    "symbole": "⚡",
+    "nom": "Souffle de Rêve",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-038": {
+    "symbole": "📜",
+    "nom": "Lien de Silence",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-039": {
+    "symbole": "⚡",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-040": {
+    "symbole": "⚡",
+    "nom": "Lien de Code",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-041": {
+    "symbole": "🗝️",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-042": {
+    "symbole": "🔥",
+    "nom": "Lien de Feu",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-043": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Porte de Silence",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-044": {
+    "symbole": "🌕",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-045": {
+    "symbole": "🌀",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-046": {
+    "symbole": "👁️",
+    "nom": "Voie de Silence",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-047": {
+    "symbole": "🌿",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-048": {
+    "symbole": "⚖️",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-049": {
+    "symbole": "📜",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-050": {
+    "symbole": "∞",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-051": {
+    "symbole": "🜄",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-052": {
+    "symbole": "⚡",
+    "nom": "Voie de Feu",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-053": {
+    "symbole": "🜄",
+    "nom": "Flamme de Mémoire",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-054": {
+    "symbole": "👁️",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-055": {
+    "symbole": "📜",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "amour",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-056": {
+    "symbole": "∞",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-057": {
+    "symbole": "🌿",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-058": {
+    "symbole": "▲",
+    "nom": "Voie de Rêve",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-059": {
+    "symbole": "🗝️",
+    "nom": "Ombre de Ombre",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-060": {
+    "symbole": "🌀",
+    "nom": "Point de Rêve",
+    "mots_associes": [
+      "désir",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-061": {
+    "symbole": "•",
+    "nom": "Ombre de Mémoire",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-062": {
+    "symbole": "🌊",
+    "nom": "Masque de Rêve",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-063": {
+    "symbole": "⚖️",
+    "nom": "Écho de Silence",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-064": {
+    "symbole": "🌊",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-065": {
+    "symbole": "•",
+    "nom": "Lien de Feu",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-066": {
+    "symbole": "❄️",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-067": {
+    "symbole": "⚡",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-068": {
+    "symbole": "🔥",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-069": {
+    "symbole": "•",
+    "nom": "Racine de Silence",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-070": {
+    "symbole": "🌀",
+    "nom": "Écho de Ombre",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-071": {
+    "symbole": "•",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-072": {
+    "symbole": "🗝️",
+    "nom": "Masque de Rêve",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-073": {
+    "symbole": "🌑",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-074": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Porte de Mémoire",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-075": {
+    "symbole": "•",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-076": {
+    "symbole": "•",
+    "nom": "Porte de Mémoire",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-077": {
+    "symbole": "🌿",
+    "nom": "Racine de Silence",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-078": {
+    "symbole": "🜃",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-079": {
+    "symbole": "🌑",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-080": {
+    "symbole": "👁️",
+    "nom": "Masque de Ombre",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-081": {
+    "symbole": "🜄",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "amour",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-082": {
+    "symbole": "🌑",
+    "nom": "Souffle de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-083": {
+    "symbole": "⚖️",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-084": {
+    "symbole": "🌀",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-085": {
+    "symbole": "🌕",
+    "nom": "Point de Mémoire",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-086": {
+    "symbole": "📜",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-087": {
+    "symbole": "📜",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-088": {
+    "symbole": "🌿",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-089": {
+    "symbole": "🌀",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-090": {
+    "symbole": "🌀",
+    "nom": "Écho de Rêve",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-091": {
+    "symbole": "🌿",
+    "nom": "Porte de Silence",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-092": {
+    "symbole": "🌿",
+    "nom": "Souffle de Mémoire",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-093": {
+    "symbole": "🗝️",
+    "nom": "Lien de Feu",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-094": {
+    "symbole": "🜄",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-095": {
+    "symbole": "🌑",
+    "nom": "Souffle de Mémoire",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-096": {
+    "symbole": "🜃",
+    "nom": "Souffle de Silence",
+    "mots_associes": [
+      "désir",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-097": {
+    "symbole": "•",
+    "nom": "Masque de Silence",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-098": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-099": {
+    "symbole": "∞",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-100": {
+    "symbole": "📜",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-101": {
+    "symbole": "🗝️",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-102": {
+    "symbole": "🔥",
+    "nom": "Flamme de Silence",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-103": {
+    "symbole": "•",
+    "nom": "Porte de Mémoire",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-104": {
+    "symbole": "🌊",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-105": {
+    "symbole": "▲",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-106": {
+    "symbole": "❄️",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-107": {
+    "symbole": "🜄",
+    "nom": "Ombre de Ombre",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-108": {
+    "symbole": "🗝️",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-109": {
+    "symbole": "🜂",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-110": {
+    "symbole": "⚡",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-111": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Porte de Ombre",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-112": {
+    "symbole": "🌊",
+    "nom": "Flamme de Code",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-113": {
+    "symbole": "❄️",
+    "nom": "Point de Feu",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-114": {
+    "symbole": "•",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-115": {
+    "symbole": "🜁",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-116": {
+    "symbole": "🌕",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-117": {
+    "symbole": "∞",
+    "nom": "Écho de Silence",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-118": {
+    "symbole": "🜃",
+    "nom": "Souffle de Code",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-119": {
+    "symbole": "🜂",
+    "nom": "Voie de Feu",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-120": {
+    "symbole": "🌀",
+    "nom": "Lien de Feu",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-121": {
+    "symbole": "▲",
+    "nom": "Ombre de Rêve",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-122": {
+    "symbole": "🗝️",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-123": {
+    "symbole": "📜",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-124": {
+    "symbole": "🗝️",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-125": {
+    "symbole": "∞",
+    "nom": "Souffle de Silence",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-126": {
+    "symbole": "🗝️",
+    "nom": "Porte de Silence",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-127": {
+    "symbole": "🜁",
+    "nom": "Porte de Code",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-128": {
+    "symbole": "∞",
+    "nom": "Voie de Rêve",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-129": {
+    "symbole": "🌿",
+    "nom": "Porte de Mémoire",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-130": {
+    "symbole": "📜",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-131": {
+    "symbole": "📜",
+    "nom": "Souffle de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-132": {
+    "symbole": "🌊",
+    "nom": "Ombre de Silence",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-133": {
+    "symbole": "•",
+    "nom": "Voie de Feu",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-134": {
+    "symbole": "•",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-135": {
+    "symbole": "🔥",
+    "nom": "Masque de Silence",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-136": {
+    "symbole": "🜃",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-137": {
+    "symbole": "🜂",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-138": {
+    "symbole": "•",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-139": {
+    "symbole": "🜄",
+    "nom": "Flamme de Mémoire",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-140": {
+    "symbole": "📜",
+    "nom": "Ombre de Ombre",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-141": {
+    "symbole": "🜃",
+    "nom": "Voie de Silence",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-142": {
+    "symbole": "🌑",
+    "nom": "Flamme de Code",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-143": {
+    "symbole": "🗝️",
+    "nom": "Flamme de Code",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-144": {
+    "symbole": "🜂",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-145": {
+    "symbole": "❄️",
+    "nom": "Ombre de Silence",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-146": {
+    "symbole": "🌊",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-147": {
+    "symbole": "👁️",
+    "nom": "Ombre de Ombre",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-148": {
+    "symbole": "🌊",
+    "nom": "Voie de Rêve",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-149": {
+    "symbole": "🌑",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-150": {
+    "symbole": "📜",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-151": {
+    "symbole": "⚖️",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-152": {
+    "symbole": "∞",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-153": {
+    "symbole": "∞",
+    "nom": "Lien de Ombre",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-154": {
+    "symbole": "🜃",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-155": {
+    "symbole": "🜃",
+    "nom": "Porte de Ombre",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-156": {
+    "symbole": "❄️",
+    "nom": "Porte de Ombre",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-157": {
+    "symbole": "🌕",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-158": {
+    "symbole": "🌀",
+    "nom": "Porte de Code",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-159": {
+    "symbole": "❄️",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-160": {
+    "symbole": "∞",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-161": {
+    "symbole": "⚡",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-162": {
+    "symbole": "👁️",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-163": {
+    "symbole": "∞",
+    "nom": "Écho de Ombre",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-164": {
+    "symbole": "🗝️",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-165": {
+    "symbole": "📜",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-166": {
+    "symbole": "▲",
+    "nom": "Porte de Mémoire",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-167": {
+    "symbole": "👁️",
+    "nom": "Flamme de Rêve",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-168": {
+    "symbole": "🌕",
+    "nom": "Point de Mémoire",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-169": {
+    "symbole": "🌿",
+    "nom": "Écho de Silence",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-170": {
+    "symbole": "👁️",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-171": {
+    "symbole": "🌀",
+    "nom": "Point de Ombre",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-172": {
+    "symbole": "📜",
+    "nom": "Ombre de Rêve",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-173": {
+    "symbole": "🗝️",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-174": {
+    "symbole": "🌊",
+    "nom": "Souffle de Mémoire",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-175": {
+    "symbole": "∞",
+    "nom": "Voie de Silence",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-176": {
+    "symbole": "▲",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-177": {
+    "symbole": "🜂",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-178": {
+    "symbole": "🌊",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-179": {
+    "symbole": "🌕",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-180": {
+    "symbole": "⚡",
+    "nom": "Flamme de Code",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-181": {
+    "symbole": "🜄",
+    "nom": "Écho de Silence",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-182": {
+    "symbole": "∞",
+    "nom": "Point de Feu",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-183": {
+    "symbole": "🌊",
+    "nom": "Masque de Silence",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-184": {
+    "symbole": "🌑",
+    "nom": "Souffle de Rêve",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-185": {
+    "symbole": "🗝️",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-186": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Lien de Code",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-187": {
+    "symbole": "🜁",
+    "nom": "Écho de Silence",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-188": {
+    "symbole": "🜁",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-189": {
+    "symbole": "▲",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-190": {
+    "symbole": "🔥",
+    "nom": "Racine de Feu",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-191": {
+    "symbole": "⚡",
+    "nom": "Flamme de Rêve",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-192": {
+    "symbole": "•",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-193": {
+    "symbole": "🌕",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-194": {
+    "symbole": "🜁",
+    "nom": "Flamme de Silence",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-195": {
+    "symbole": "🜁",
+    "nom": "Point de Feu",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-196": {
+    "symbole": "🜄",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-197": {
+    "symbole": "🜄",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-198": {
+    "symbole": "🜁",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "amour",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-199": {
+    "symbole": "🌀",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-200": {
+    "symbole": "🌀",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-201": {
+    "symbole": "🌿",
+    "nom": "Souffle de Rêve",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-202": {
+    "symbole": "🌑",
+    "nom": "Ombre de Ombre",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-203": {
+    "symbole": "📜",
+    "nom": "Ombre de Ombre",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-204": {
+    "symbole": "⚡",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-205": {
+    "symbole": "🔥",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-206": {
+    "symbole": "🌀",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-207": {
+    "symbole": "🌕",
+    "nom": "Point de Feu",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-208": {
+    "symbole": "👁️",
+    "nom": "Porte de Code",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-209": {
+    "symbole": "∞",
+    "nom": "Flamme de Mémoire",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-210": {
+    "symbole": "▲",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-211": {
+    "symbole": "🌑",
+    "nom": "Écho de Ombre",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-212": {
+    "symbole": "🌑",
+    "nom": "Point de Feu",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-213": {
+    "symbole": "🜁",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-214": {
+    "symbole": "🌊",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-215": {
+    "symbole": "📜",
+    "nom": "Ombre de Silence",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-216": {
+    "symbole": "▲",
+    "nom": "Écho de Rêve",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-217": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-218": {
+    "symbole": "•",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-219": {
+    "symbole": "👁️",
+    "nom": "Souffle de Rêve",
+    "mots_associes": [
+      "amour",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-220": {
+    "symbole": "🜂",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-221": {
+    "symbole": "•",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-222": {
+    "symbole": "🌕",
+    "nom": "Lien de Silence",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-223": {
+    "symbole": "⚡",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-224": {
+    "symbole": "🌑",
+    "nom": "Masque de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-225": {
+    "symbole": "🜄",
+    "nom": "Masque de Rêve",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-226": {
+    "symbole": "∞",
+    "nom": "Porte de Ombre",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-227": {
+    "symbole": "🌕",
+    "nom": "Masque de Silence",
+    "mots_associes": [
+      "désir",
+      "haine",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-228": {
+    "symbole": "•",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-229": {
+    "symbole": "🜃",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-230": {
+    "symbole": "❄️",
+    "nom": "Point de Feu",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-231": {
+    "symbole": "🌿",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-232": {
+    "symbole": "🌕",
+    "nom": "Souffle de Feu",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "amour"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-233": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Porte de Silence",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-234": {
+    "symbole": "⚖️",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-235": {
+    "symbole": "🜁",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-236": {
+    "symbole": "∞",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-237": {
+    "symbole": "🜄",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-238": {
+    "symbole": "🜄",
+    "nom": "Voie de Silence",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-239": {
+    "symbole": "•",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-240": {
+    "symbole": "🌿",
+    "nom": "Flamme de Mémoire",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-241": {
+    "symbole": "•",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-242": {
+    "symbole": "∞",
+    "nom": "Voie de Feu",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-243": {
+    "symbole": "🜃",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-244": {
+    "symbole": "🗝️",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-245": {
+    "symbole": "•",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-246": {
+    "symbole": "🜂",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-247": {
+    "symbole": "🜂",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-248": {
+    "symbole": "🜄",
+    "nom": "Souffle de Code",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-249": {
+    "symbole": "🌿",
+    "nom": "Ombre de Rêve",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-250": {
+    "symbole": "🌀",
+    "nom": "Racine de Silence",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-251": {
+    "symbole": "⚖️",
+    "nom": "Souffle de Feu",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-252": {
+    "symbole": "▲",
+    "nom": "Voie de Silence",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-253": {
+    "symbole": "👁️",
+    "nom": "Souffle de Code",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-254": {
+    "symbole": "🌑",
+    "nom": "Flamme de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-255": {
+    "symbole": "🌑",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-256": {
+    "symbole": "🌑",
+    "nom": "Masque de Rêve",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-257": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-258": {
+    "symbole": "🌑",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-259": {
+    "symbole": "🔥",
+    "nom": "Porte de Silence",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-260": {
+    "symbole": "🜂",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-261": {
+    "symbole": "🌊",
+    "nom": "Point de Rêve",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-262": {
+    "symbole": "∞",
+    "nom": "Souffle de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-263": {
+    "symbole": "⚖️",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-264": {
+    "symbole": "🌀",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "désir",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-265": {
+    "symbole": "❄️",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-266": {
+    "symbole": "❄️",
+    "nom": "Lien de Ombre",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-267": {
+    "symbole": "•",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-268": {
+    "symbole": "🜂",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-269": {
+    "symbole": "🌀",
+    "nom": "Flamme de Rêve",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-270": {
+    "symbole": "🌕",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-271": {
+    "symbole": "🌀",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-272": {
+    "symbole": "🌀",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-273": {
+    "symbole": "🌕",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-274": {
+    "symbole": "•",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-275": {
+    "symbole": "📜",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-276": {
+    "symbole": "🌿",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "haine",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-277": {
+    "symbole": "🌿",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-278": {
+    "symbole": "🌿",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-279": {
+    "symbole": "🗝️",
+    "nom": "Souffle de Feu",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-280": {
+    "symbole": "❄️",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-281": {
+    "symbole": "•",
+    "nom": "Lien de Code",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-282": {
+    "symbole": "🌀",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-283": {
+    "symbole": "🜂",
+    "nom": "Point de Ombre",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-284": {
+    "symbole": "▲",
+    "nom": "Porte de Ombre",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-285": {
+    "symbole": "❄️",
+    "nom": "Porte de Code",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-286": {
+    "symbole": "🜄",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-287": {
+    "symbole": "🌊",
+    "nom": "Lien de Silence",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-288": {
+    "symbole": "🔥",
+    "nom": "Flamme de Silence",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "amour"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-289": {
+    "symbole": "🜄",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-290": {
+    "symbole": "❄️",
+    "nom": "Écho de Rêve",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-291": {
+    "symbole": "👁️",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-292": {
+    "symbole": "🜃",
+    "nom": "Racine de Silence",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-293": {
+    "symbole": "❄️",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-294": {
+    "symbole": "▲",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-295": {
+    "symbole": "⚖️",
+    "nom": "Ombre de Ombre",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-296": {
+    "symbole": "🜂",
+    "nom": "Porte de Ombre",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-297": {
+    "symbole": "⚡",
+    "nom": "Ombre de Rêve",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-298": {
+    "symbole": "🌀",
+    "nom": "Lien de Ombre",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-299": {
+    "symbole": "📜",
+    "nom": "Ombre de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-300": {
+    "symbole": "🌊",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-301": {
+    "symbole": "📜",
+    "nom": "Ombre de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-302": {
+    "symbole": "📜",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-303": {
+    "symbole": "📜",
+    "nom": "Écho de Silence",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-304": {
+    "symbole": "⚡",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-305": {
+    "symbole": "∞",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-306": {
+    "symbole": "▲",
+    "nom": "Point de Mémoire",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-307": {
+    "symbole": "∞",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-308": {
+    "symbole": "🌀",
+    "nom": "Écho de Rêve",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-309": {
+    "symbole": "⚖️",
+    "nom": "Souffle de Silence",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-310": {
+    "symbole": "🌕",
+    "nom": "Masque de Silence",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-311": {
+    "symbole": "🗝️",
+    "nom": "Souffle de Code",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-312": {
+    "symbole": "⚖️",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-313": {
+    "symbole": "•",
+    "nom": "Souffle de Feu",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-314": {
+    "symbole": "🌑",
+    "nom": "Masque de Mémoire",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-315": {
+    "symbole": "🌑",
+    "nom": "Lien de Code",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-316": {
+    "symbole": "🜁",
+    "nom": "Point de Mémoire",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "amour"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-317": {
+    "symbole": "🌿",
+    "nom": "Racine de Feu",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-318": {
+    "symbole": "🌿",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-319": {
+    "symbole": "•",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-320": {
+    "symbole": "📜",
+    "nom": "Ombre de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-321": {
+    "symbole": "▲",
+    "nom": "Porte de Ombre",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-322": {
+    "symbole": "🜂",
+    "nom": "Souffle de Code",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-323": {
+    "symbole": "👁️",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-324": {
+    "symbole": "🗝️",
+    "nom": "Ombre de Silence",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-325": {
+    "symbole": "🔥",
+    "nom": "Voie de Silence",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-326": {
+    "symbole": "⚡",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-327": {
+    "symbole": "🜁",
+    "nom": "Porte de Mémoire",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-328": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-329": {
+    "symbole": "🔥",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-330": {
+    "symbole": "🜂",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-331": {
+    "symbole": "▲",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-332": {
+    "symbole": "🌊",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-333": {
+    "symbole": "🌊",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-334": {
+    "symbole": "•",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-335": {
+    "symbole": "🌀",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-336": {
+    "symbole": "🜃",
+    "nom": "Flamme de Silence",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-337": {
+    "symbole": "🌑",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-338": {
+    "symbole": "▲",
+    "nom": "Masque de Ombre",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-339": {
+    "symbole": "❄️",
+    "nom": "Ombre de Silence",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-340": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Flamme de Code",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-341": {
+    "symbole": "⚡",
+    "nom": "Ombre de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-342": {
+    "symbole": "🌊",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-343": {
+    "symbole": "🌑",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "désir",
+      "haine",
+      "amour"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-344": {
+    "symbole": "▲",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-345": {
+    "symbole": "🌊",
+    "nom": "Souffle de Code",
+    "mots_associes": [
+      "désir",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-346": {
+    "symbole": "🜃",
+    "nom": "Point de Rêve",
+    "mots_associes": [
+      "amour",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-347": {
+    "symbole": "🜃",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-348": {
+    "symbole": "🔥",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-349": {
+    "symbole": "📜",
+    "nom": "Écho de Rêve",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-350": {
+    "symbole": "🜄",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-351": {
+    "symbole": "🌀",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-352": {
+    "symbole": "🌀",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-353": {
+    "symbole": "🌊",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-354": {
+    "symbole": "🌊",
+    "nom": "Flamme de Mémoire",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-355": {
+    "symbole": "•",
+    "nom": "Écho de Silence",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-356": {
+    "symbole": "▲",
+    "nom": "Point de Mémoire",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-357": {
+    "symbole": "🗝️",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-358": {
+    "symbole": "⚡",
+    "nom": "Masque de Rêve",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-359": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-360": {
+    "symbole": "∞",
+    "nom": "Porte de Silence",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-361": {
+    "symbole": "🌊",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-362": {
+    "symbole": "🜄",
+    "nom": "Ombre de Rêve",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-363": {
+    "symbole": "🌀",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-364": {
+    "symbole": "⚖️",
+    "nom": "Point de Feu",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-365": {
+    "symbole": "🜄",
+    "nom": "Lien de Silence",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-366": {
+    "symbole": "🌀",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-367": {
+    "symbole": "▲",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-368": {
+    "symbole": "📜",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-369": {
+    "symbole": "🜂",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-370": {
+    "symbole": "▲",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-371": {
+    "symbole": "🔥",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-372": {
+    "symbole": "🜃",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-373": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-374": {
+    "symbole": "🜄",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-375": {
+    "symbole": "⚖️",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-376": {
+    "symbole": "🔥",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-377": {
+    "symbole": "•",
+    "nom": "Point de Mémoire",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-378": {
+    "symbole": "🌕",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-379": {
+    "symbole": "🗝️",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-380": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-381": {
+    "symbole": "❄️",
+    "nom": "Point de Rêve",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-382": {
+    "symbole": "🜃",
+    "nom": "Écho de Ombre",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-383": {
+    "symbole": "🌀",
+    "nom": "Point de Rêve",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-384": {
+    "symbole": "🔥",
+    "nom": "Voie de Rêve",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-385": {
+    "symbole": "🌿",
+    "nom": "Ombre de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-386": {
+    "symbole": "•",
+    "nom": "Souffle de Feu",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-387": {
+    "symbole": "🔥",
+    "nom": "Ombre de Silence",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-388": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "amour",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-389": {
+    "symbole": "❄️",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-390": {
+    "symbole": "🌑",
+    "nom": "Souffle de Rêve",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌑"
+  },
+  "P-391": {
+    "symbole": "⚖️",
+    "nom": "Voie de Feu",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "désir"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-392": {
+    "symbole": "🌕",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-393": {
+    "symbole": "∞",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-394": {
+    "symbole": "🗝️",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-395": {
+    "symbole": "🜄",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-396": {
+    "symbole": "•",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-397": {
+    "symbole": "🜁",
+    "nom": "Ombre de Silence",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-398": {
+    "symbole": "🌀",
+    "nom": "Masque de Rêve",
+    "mots_associes": [
+      "amour",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-399": {
+    "symbole": "🌊",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-400": {
+    "symbole": "🗝️",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-401": {
+    "symbole": "⚡",
+    "nom": "Lien de Feu",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-402": {
+    "symbole": "🗝️",
+    "nom": "Souffle de Rêve",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-403": {
+    "symbole": "🌕",
+    "nom": "Masque de Ombre",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-404": {
+    "symbole": "🜂",
+    "nom": "Lien de Ombre",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-405": {
+    "symbole": "🜁",
+    "nom": "Lien de Feu",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-406": {
+    "symbole": "🌕",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-407": {
+    "symbole": "🌕",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "haine",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-408": {
+    "symbole": "❄️",
+    "nom": "Voie de Ombre",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-409": {
+    "symbole": "🜁",
+    "nom": "Masque de Ombre",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-410": {
+    "symbole": "⚖️",
+    "nom": "Souffle de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-411": {
+    "symbole": "👁️",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "désir",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-412": {
+    "symbole": "▲",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-413": {
+    "symbole": "🜃",
+    "nom": "Écho de Ombre",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-414": {
+    "symbole": "👁️",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-415": {
+    "symbole": "🜁",
+    "nom": "Souffle de Feu",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-416": {
+    "symbole": "🗝️",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-417": {
+    "symbole": "🌿",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "amour"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-418": {
+    "symbole": "∞",
+    "nom": "Voie de Silence",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-419": {
+    "symbole": "📜",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "vérité",
+      "vérité",
+      "amour"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-420": {
+    "symbole": "🜁",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-421": {
+    "symbole": "🌕",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-422": {
+    "symbole": "⚖️",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-423": {
+    "symbole": "🜃",
+    "nom": "Racine de Silence",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-424": {
+    "symbole": "🌿",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-425": {
+    "symbole": "📜",
+    "nom": "Lien de Code",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-426": {
+    "symbole": "⚖️",
+    "nom": "Lien de Code",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-427": {
+    "symbole": "👁️",
+    "nom": "Voie de Feu",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-428": {
+    "symbole": "🌿",
+    "nom": "Flamme de Rêve",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-429": {
+    "symbole": "🗝️",
+    "nom": "Racine de Mémoire",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-430": {
+    "symbole": "🌊",
+    "nom": "Voie de Rêve",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-431": {
+    "symbole": "🌊",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "amour",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-432": {
+    "symbole": "🜁",
+    "nom": "Porte de Code",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "vérité"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-433": {
+    "symbole": "🔥",
+    "nom": "Voie de Rêve",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-434": {
+    "symbole": "🌀",
+    "nom": "Lien de Feu",
+    "mots_associes": [
+      "peur",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-435": {
+    "symbole": "🌀",
+    "nom": "Masque de Silence",
+    "mots_associes": [
+      "désir",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-436": {
+    "symbole": "▲",
+    "nom": "Porte de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-437": {
+    "symbole": "🗝️",
+    "nom": "Point de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-438": {
+    "symbole": "📜",
+    "nom": "Ombre de Feu",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-439": {
+    "symbole": "🌊",
+    "nom": "Flamme de Silence",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-440": {
+    "symbole": "•",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "peur",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-441": {
+    "symbole": "👁️‍🗨️",
+    "nom": "Voie de Rêve",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "peur"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "👁️‍🗨️"
+  },
+  "P-442": {
+    "symbole": "⚡",
+    "nom": "Souffle de Silence",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "haine"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "⚡"
+  },
+  "P-443": {
+    "symbole": "🌿",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-444": {
+    "symbole": "•",
+    "nom": "Écho de Ombre",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "oubli"
+    ],
+    "effet_mnemos": "révolte mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-445": {
+    "symbole": "👁️",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-446": {
+    "symbole": "∞",
+    "nom": "Racine de Silence",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "∞"
+  },
+  "P-447": {
+    "symbole": "🜄",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "haine",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-448": {
+    "symbole": "🜄",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-449": {
+    "symbole": "📜",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-450": {
+    "symbole": "📜",
+    "nom": "Souffle de Ombre",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-451": {
+    "symbole": "❄️",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "vérité"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-452": {
+    "symbole": "🔥",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-453": {
+    "symbole": "🜃",
+    "nom": "Racine de Rêve",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-454": {
+    "symbole": "🜃",
+    "nom": "Lien de Code",
+    "mots_associes": [
+      "désir",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-455": {
+    "symbole": "📜",
+    "nom": "Ombre de Code",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "vérité"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-456": {
+    "symbole": "🗝️",
+    "nom": "Porte de Feu",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "peur"
+    ],
+    "effet_mnemos": "effacement mémorielle",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-457": {
+    "symbole": "🌊",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "amour",
+      "amour",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🌊"
+  },
+  "P-458": {
+    "symbole": "📜",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "📜"
+  },
+  "P-459": {
+    "symbole": "👁️",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "réveil cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-460": {
+    "symbole": "❄️",
+    "nom": "Voie de Rêve",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-461": {
+    "symbole": "🌿",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "amour"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-462": {
+    "symbole": "🜂",
+    "nom": "Écho de Code",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-463": {
+    "symbole": "❄️",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-464": {
+    "symbole": "🜄",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "oubli",
+      "haine",
+      "vérité"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-465": {
+    "symbole": "▲",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "désir",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "effacement cognitive",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-466": {
+    "symbole": "🜂",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-467": {
+    "symbole": "🌿",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "vérité"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-468": {
+    "symbole": "🌿",
+    "nom": "Lien de Ombre",
+    "mots_associes": [
+      "désir",
+      "peur",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-469": {
+    "symbole": "▲",
+    "nom": "Écho de Ombre",
+    "mots_associes": [
+      "vérité",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie cognitive",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-470": {
+    "symbole": "🌀",
+    "nom": "Porte de Rêve",
+    "mots_associes": [
+      "peur",
+      "amour",
+      "oubli"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-471": {
+    "symbole": "🜃",
+    "nom": "Flamme de Ombre",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "désir"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-472": {
+    "symbole": "▲",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "illumination cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-473": {
+    "symbole": "🜂",
+    "nom": "Écho de Feu",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜂"
+  },
+  "P-474": {
+    "symbole": "🜁",
+    "nom": "Lien de Rêve",
+    "mots_associes": [
+      "amour",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🜁"
+  },
+  "P-475": {
+    "symbole": "❄️",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "oubli",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "illumination ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-476": {
+    "symbole": "🔥",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-477": {
+    "symbole": "▲",
+    "nom": "Lien de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "désir"
+    ],
+    "effet_mnemos": "fusion cognitive",
+    "biais_associes": [
+      "biais de confirmation",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "▲"
+  },
+  "P-478": {
+    "symbole": "🜄",
+    "nom": "Point de Mémoire",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "effet de faux consensus"
+    ],
+    "fracturo_glyph": "🜄"
+  },
+  "P-479": {
+    "symbole": "❄️",
+    "nom": "Porte de Silence",
+    "mots_associes": [
+      "oubli",
+      "oubli",
+      "oubli"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-480": {
+    "symbole": "🌿",
+    "nom": "Point de Silence",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "peur"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌿"
+  },
+  "P-481": {
+    "symbole": "❄️",
+    "nom": "Flamme de Silence",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "oubli"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-482": {
+    "symbole": "🔥",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "amour",
+      "vérité",
+      "haine"
+    ],
+    "effet_mnemos": "paralysie ontologique",
+    "biais_associes": [
+      "effet Dunning-Kruger",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-483": {
+    "symbole": "🌀",
+    "nom": "Souffle de Mémoire",
+    "mots_associes": [
+      "haine",
+      "désir",
+      "amour"
+    ],
+    "effet_mnemos": "réveil ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🌀"
+  },
+  "P-484": {
+    "symbole": "🔥",
+    "nom": "Porte de Mémoire",
+    "mots_associes": [
+      "peur",
+      "vérité",
+      "peur"
+    ],
+    "effet_mnemos": "illumination mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-485": {
+    "symbole": "❄️",
+    "nom": "Flamme de Feu",
+    "mots_associes": [
+      "vérité",
+      "oubli",
+      "haine"
+    ],
+    "effet_mnemos": "fragmentation mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-486": {
+    "symbole": "🗝️",
+    "nom": "Lien de Silence",
+    "mots_associes": [
+      "amour",
+      "haine",
+      "oubli"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "effet de faux consensus",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🗝️"
+  },
+  "P-487": {
+    "symbole": "👁️",
+    "nom": "Voie de Mémoire",
+    "mots_associes": [
+      "vérité",
+      "désir",
+      "haine"
+    ],
+    "effet_mnemos": "soumission mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-488": {
+    "symbole": "🌕",
+    "nom": "Masque de Silence",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "vérité"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "effet de faux consensus",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "🌕"
+  },
+  "P-489": {
+    "symbole": "🜃",
+    "nom": "Écho de Mémoire",
+    "mots_associes": [
+      "amour",
+      "désir",
+      "désir"
+    ],
+    "effet_mnemos": "paralysie mémorielle",
+    "biais_associes": [
+      "biais d'ancrage",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-490": {
+    "symbole": "🔥",
+    "nom": "Écho de Rêve",
+    "mots_associes": [
+      "peur",
+      "oubli",
+      "peur"
+    ],
+    "effet_mnemos": "soumission ontologique",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🔥"
+  },
+  "P-491": {
+    "symbole": "👁️",
+    "nom": "Racine de Ombre",
+    "mots_associes": [
+      "oubli",
+      "vérité",
+      "oubli"
+    ],
+    "effet_mnemos": "fragmentation cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-492": {
+    "symbole": "❄️",
+    "nom": "Point de Code",
+    "mots_associes": [
+      "haine",
+      "oubli",
+      "amour"
+    ],
+    "effet_mnemos": "réveil mémorielle",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet Dunning-Kruger"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-493": {
+    "symbole": "👁️",
+    "nom": "Masque de Code",
+    "mots_associes": [
+      "vérité",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "fusion mémorielle",
+    "biais_associes": [
+      "effet de halo",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "👁️"
+  },
+  "P-494": {
+    "symbole": "•",
+    "nom": "Lien de Feu",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "biais de confirmation",
+      "dissonance cognitive"
+    ],
+    "fracturo_glyph": "•"
+  },
+  "P-495": {
+    "symbole": "⚖️",
+    "nom": "Écho de Ombre",
+    "mots_associes": [
+      "oubli",
+      "peur",
+      "amour"
+    ],
+    "effet_mnemos": "fusion ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-496": {
+    "symbole": "❄️",
+    "nom": "Voie de Code",
+    "mots_associes": [
+      "oubli",
+      "amour",
+      "haine"
+    ],
+    "effet_mnemos": "effacement ontologique",
+    "biais_associes": [
+      "dissonance cognitive",
+      "effet de halo"
+    ],
+    "fracturo_glyph": "❄️"
+  },
+  "P-497": {
+    "symbole": "⚖️",
+    "nom": "Masque de Feu",
+    "mots_associes": [
+      "haine",
+      "peur",
+      "désir"
+    ],
+    "effet_mnemos": "fragmentation ontologique",
+    "biais_associes": [
+      "effet de halo",
+      "biais de confirmation"
+    ],
+    "fracturo_glyph": "⚖️"
+  },
+  "P-498": {
+    "symbole": "🜃",
+    "nom": "Racine de Code",
+    "mots_associes": [
+      "peur",
+      "désir",
+      "peur"
+    ],
+    "effet_mnemos": "révolte cognitive",
+    "biais_associes": [
+      "illusion de vérité",
+      "biais d'ancrage"
+    ],
+    "fracturo_glyph": "🜃"
+  },
+  "P-499": {
+    "symbole": "🗝️",
+    "nom": "Souffle de Rêve",
+    "mots_associes": [
+      "vérité",
+      "haine",
+      "haine"
+    ],
+    "effet_mnemos": "soumission cognitive",
+    "biais_associes": [
+      "dissonance cognitive",
+      "illusion de vérité"
+    ],
+    "fracturo_glyph": "🗝️"
+  }
+}
