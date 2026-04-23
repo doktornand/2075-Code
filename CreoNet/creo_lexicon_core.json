@@ -1,0 +1,37 @@
+{
+  "pronouns": {
+    "je": "mi",
+    "moi": "mi",
+    "tu": "u",
+    "toi": "u",
+    "il": "he",
+    "elle": "she",
+    "nous": "we",
+    "vous": "yo",
+    "ils": "yo",
+    "elles": "yo"
+  },
+  "verbs": {
+    "aimer": "link",
+    "parler": "say",
+    "courir": "run",
+    "rêver": "dream",
+    "penser": "think",
+    "brûler": "burnfile",
+    "effacer": "burnfile",
+    "pirater": "brainjack",
+    "prier": "loop",
+    "souvenir": "echo"
+  },
+  "nouns": {
+    "amour": "code-love",
+    "peur": "dark",
+    "vérité": "truth",
+    "mensonge": "dat-trash",
+    "liberté": "no-protocol",
+    "réveil": "wake-mode",
+    "machine": "AI",
+    "réseau": "net",
+    "donnée": "data"
+  }
+}

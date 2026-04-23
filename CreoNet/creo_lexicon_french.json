@@ -1,0 +1,27 @@
+{
+  "particules": {
+    "est-ce que": "eske", "quelque": "kek", "chaque": "chak",
+    "certains": "kek.moun", "beaucoup": "anpil", "très": "trè",
+    "plus": "plis", "moins": "mwens", "tout": "tout", "rien": "anyen"
+  },
+  "verbes_francais": {
+    "être": "se", "avoir": "genyen", "faire": "fè", "dire": "di",
+    "aller": "ale", "voir": "wè", "savoir": "konnen", "pouvoir": "kapab",
+    "vouloir": "vle", "devoir": "dwe", "venir": "vini", "partir": "pati",
+    "mettre": "mete", "prendre": "pran", "donner": "bay", "parler": "pale",
+    "comprendre": "konprann", "connaître": "konnen", "croire": "kwè",
+    "trouver": "jwenn", "passer": "pase", "rester": "rete"
+  },
+  "structures": {
+    "il y a": "genyen", "est-ce que": "eske", "qu'est-ce que": "kisa",
+    "n'est-ce pas": "non", "voici": "men", "voilà": "men",
+    "c'est": "se", "il faut": "fòk", "peut-être": "petèt"
+  },
+  "expressions_francaises": {
+    "bien sûr": "byensir", "ça va": "sa.và", "d'accord": "dakò",
+    "je m'en fous": "mwen.pa.kè", "c'est la vie": "se.lavi",
+    "tant pis": "tant.pis", "au revoir": "orevwa", "merci": "mèsi",
+    "s'il vous plaît": "souple", "excusez-moi": "eskize.m",
+    "attention": "atansyon", "vite fait": "vit.fè"
+  }
+}

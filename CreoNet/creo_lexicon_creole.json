@@ -1,0 +1,43 @@
+{
+  "pronoms": {
+    "je": "mwen", "moi": "mwen", "tu": "ou", "toi": "ou", 
+    "il": "li", "elle": "li", "nous": "nou", "vous": "nou", 
+    "ils": "yo", "elles": "yo", "eux": "yo",
+    "mon": "mwen", "ton": "ou", "son": "li", "notre": "nou", "votre": "nou"
+  },
+  "questions": {
+    "qui": "ki.moun", "quoi": "ki.bagay", "où": "kot", 
+    "comment": "kijan", "pourquoi": "poukisa", "quand": "kilè",
+    "combien": "konbyen", "lequel": "kilès", "est-ce que": "eske"
+  },
+  "negation": {
+    "ne": "pa", "pas": "pa", "ne...pas": "pa", "plus": "pa",
+    "jamais": "pa.janm", "rien": "anyen", "personne": "pèsonn"
+  },
+  "verbes_creoles": {
+    "être": "se", "avoir": "gen", "faire": "fè", "aller": "ale",
+    "venir": "vini", "voir": "wè", "savoir": "konnen", "pouvoir": "kapab",
+    "vouloir": "vle", "devoir": "dwe", "dire": "di", "parler": "pale",
+    "manger": "manje", "boire": "bwe", "donner": "bay", "prendre": "pran",
+    "comprendre": "konprann", "connaître": "konnen", "sentir": "santi",
+    "penser": "panse", "trouver": "jwenn", "rester": "rete", "partir": "pati"
+  },
+  "adverbes": {
+    "maintenant": "kounyea", "ici": "isit", "là": "la", "là-bas": "labà",
+    "toujours": "toujou", "souvent": "souvan", "vite": "vit", "lentement": "dousman",
+    "beaucoup": "anpil", "très": "trè", "trop": "twò", "assez": "ase",
+    "bien": "byen", "mal": "mal", "vraiment": "vrèman", "seulement": "sèlman"
+  },
+  "expressions": {
+    "comment ça va": "sak.pase", "pas de problème": "pa.gen.pwoblèm",
+    "bonne chose": "bon.bagay", "tais-toi": "pa.pale", "je gère": "m.ap.boule",
+    "c'est cassé": "kraze", "c'est bon": "bon", "attends": "tann",
+    "viens ici": "vin.isit", "regarde": "gade", "écoute": "koute",
+    "je ne sais pas": "m.pa.konn", "je ne peux pas": "m.pa.kapab"
+  },
+  "grammaire": {
+    "à": "a", "de": "de", "dans": "nan", "sur": "sou", "avec": "ak",
+    "pour": "pou", "par": "pa", "et": "ak", "ou": "oswa", "mais": "men",
+    "car": "paske", "si": "si", "que": "ke", "qui": "ki"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "language_profiles": {
+    "gwadar": {"creole": 0.3, "french": 0.2, "english": 0.4, "code": 0.1},
+    "naples": {"creole": 0.4, "french": 0.3, "english": 0.2, "code": 0.1},
+    "lagos": {"creole": 0.5, "french": 0.1, "english": 0.3, "code": 0.1},
+    "djibouti": {"creole": 0.2, "french": 0.5, "english": 0.2, "code": 0.1},
+    "abidjan": {"creole": 0.4, "french": 0.4, "english": 0.1, "code": 0.1},
+    "port_au_prince": {"creole": 0.7, "french": 0.2, "english": 0.05, "code": 0.05},
+    "marseille": {"creole": 0.3, "french": 0.5, "english": 0.1, "code": 0.1},
+    "kinshasa": {"creole": 0.6, "french": 0.3, "english": 0.05, "code": 0.05}
+  }
+}

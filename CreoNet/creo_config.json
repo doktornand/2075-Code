@@ -1,0 +1,24 @@
+{
+  "particles": ["yo", "mi", "dat", "we", "no", "ghost", "feed", "dream", "link"],
+  "emotion_tags": {
+    "amour": ["<link>", "<glow>", "<echo.glow>", "<heartware>"],
+    "colère": ["<burn>", "<dark>", "<feed.burn>", "<rage>"],
+    "mystique": ["<ghost>", "<soul.glow>", "<echo>", "<ω>"],
+    "mélancolie": ["<echo.dark>", "<null>", "<loop>", "<soft-echo>"],
+    "neutre": ["<glow>", "<dark>", "<echo>", "<null>"]
+  },
+  "separators": {
+    "street": " / ",
+    "ritual": " // ",
+    "poetic": " / ",
+    "hacker": " / ",
+    "liturgical": " // "
+  },
+  "glyphs": {
+    "omega": "Ω",
+    "proof": "∴",
+    "void": "∅",
+    "infty": "∞/",
+    "silence": "⦸"
+  }
+}
