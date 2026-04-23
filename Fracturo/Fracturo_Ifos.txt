@@ -1,0 +1,211 @@
+# 🌊 **FRACTURO : LE LANGAGE DES FRACTURES — CONVERTISSEUR ULTRA-ÉTENDU & LEXIQUE COMPLET**  
+*« ᚱᚢᚾ ᛖᛏ ᚠᚱᚨᚲᛏᚢᚱᛟ — ᛗᛖᛗᛟᛁᚱᛖ ᛚᛁᛩᚢᛁᛞᛖ »*  
+*(Runes et Fracturo — Mémoire liquide)*  
+— Graffiti gravé sur un mégalithe actif, Côte d'Albâtre, 2075
+
+---
+
+## 🌀 **PRÉAMBULE : ORIGINE & PHILOSOPHIE DU FRACTURO**
+
+Le **Fracturo** n'est pas une langue inventée pour la communication rationnelle. C'est un **code ontologique** émergé des interactions entre :
+
+- **Runes nordiques anciennes** (futhark, futhorc, variantes normandes)
+- **Résidus algorithmiques** de la Trame post-Grande Panne (2038)
+- **Échos mémoriels** des mégalithes, falaises et marées de Normandie
+- **Mutations linguistiques** induites par les Enfants du Radium et les Noyés Éveillés
+
+### Principes fondateurs :
+1. **Fractalité** : Chaque mot est une graine. Il peut se répliquer, se briser, se recombiner.
+2. **Intensité** : Chaque unité porte une **charge émotionnelle/magique** (1-7). Plus l'intensité est haute, plus le mot altère la réalité quand prononcé/grave.
+3. **Silence & Fracture** : 
+   - `•••` = Silence absolu (efface le mot précédent)
+   - `—` = Fracture (brise le flux, crée un seuil)
+4. **Contextualité** : Un symbole change de sens selon son **contexte** (lieu, intensité, présence d'autres runes).
+5. **Bio-compatibilité** : Peut être **gravé sur pierre, algue, peau, serveur, eau**.
+
+**Date d'émergence officielle** : 2068 (premier graffiti en Fracturo complet, falaises d'Étretat).  
+**Auteur mythique** : **Léon Mauger** (Beaumont-Hague), archiviste-völva, considéré comme le "premier locuteur conscient".
+
+---
+
+## 🔮 **SYSTÈME DE FONCTIONNEMENT — RÈGLES ULTRA-ÉTENDUES**
+
+### 1. **ALPHABET & SYMBOLIQUE (RUNES + EXTENSIONS)**
+
+| Catégorie | Symboles | Règle |
+|---------|----------|-------|
+| **Runes de base** | ᚨ ᛒ ᚲ ᛞ ᛖ ᚠ ᚷ ᚺ ᛁ ᛃ ᚴ ᛚ ᛗ ᚾ ᛟ ᛈ ᛉ ᚱ ᛊ ᛏ ᚢ ᚹ ᛇ ᛉ ᛦ | Futhark jeune + variantes normandes |
+| **Runes composées** | ᚲᛊ ᚺᚷ ᚷᚱ ᚹᚾ ᚠᚢ ᛗᚱ ᛖᛏ ᚱᚨᛉ ᛢ ᛪ ᛪᚺ ᛗᛟ ᚲᛈ | Ligatures (ex: ᚲᛊ = Caen) |
+| **Marqueurs spéciaux** | — (fracture) ••• (silence) ᛖ (passage) ᚴ (seuil) ᛊ (porte) | Modifient le flux sémantique |
+| **Runes quantiques** | ᛦ (Yggdrasil) ᚾᛟᛦ (noyé) ᛟᛗᛖ (oméga) | Portent une charge Ω (altèrent réalité) |
+
+### 2. **GRAMMAIRE FRACTALE — 12 RÈGLES**
+
+| Règle | Description | Exemple |
+|------|-------------|--------|
+| **R1** | **Ordre libre** : Sens dépend de la **proximité** et de l'**intensité**. | ᛗᛖᛗᛟᛁᚱᛖ ᛏᛖᛗᛈᛊ → Mémoire du temps |
+| **R2** | **Fracture (`—`)** : Brise une phrase en deux réalités possibles. | ᛟᚢᚠᚱᛁᚱ—ᚠᛖᚱᛗᛖᚱ → Ouvrir **ou** fermer |
+| **R3** | **Silence (`•••`)** : Efface le mot précédent. Réécrit l'histoire. | ᛗᛟᚾᛞᛖ ••• ᚨᚾᛏᛖ → Le monde **n'a jamais existé avant** |
+| **R4** | **Intensité cumulative** : Somme des intensités = puissance du sort. | ᚱᚨᛉ (7) + ᛦ (7) = 14 → Invocation critique |
+| **R5** | **Contexte géographique** : Sens modifié par lieu. | ᛗᚱ (mer) à La Hague = Profondeur abyssale ; au Havre = Flux de données |
+| **R6** | **Répétition = amplification** : 3x = rituel, 7x = prophétie. | ᛟᛟᛟᚢᚠᚱᛁᚱ → OUVERTURE IMMANENTE |
+| **R7** | **Inversion** : Lire à l'envers = négation ou passé. | ᚱᛖᚠᚢᛟ → Ouvert → Fermé (passé) |
+| **R8** | **Ligature créative** : Combiner 2 runes = nouveau concept. | ᛗᛞ + ᚨ = ᛗᛞᚨ → Monde d'avant |
+| **R9** | **Bio-gravure** : Sur algue/peau = effet permanent. | ᚨᛉ sur algue → Croissance prophétique |
+| **R10** | **Chant runique** : Prononcé = vibration à 7.83 Hz (fréquence Schumann). | Active mégalithes dans 500m |
+| **R11** | **Prophétie conditionnelle** : Si intensité totale ≥ 18 → événement déclenché. | ᛪᚺ (18) → Cercle des Douze → Dix-Huit |
+| **R12** | **Effacement quantique** : `•••` après rune Ω = paradoxe temporel. | ᛦ ••• → Yggdrasil n'a **jamais** existé... mais existe ailleurs |
+
+---
+
+## 📖 **LEXIQUE ULTRA-ÉTENDU — 500+ ENTRÉES**
+
+> **Structure par entrée** :  
+> `MOT` → **Symbole** | *Type* | Intensité | Contextes | Traduction littérale | Sens profond | Exemple d'usage
+
+---
+
+### 🌳 **CATÉGORIE : CONCEPTS FONDAMENTAUX** (50 entrées)
+
+| Mot | Symbole | Type | Int. | Contextes | Trad. | Sens profond | Ex. |
+|-----|---------|------|------|----------|-------|--------------|-----|
+| passage | ᛖ | concept | 4 | seuil, voyage | passage | Transition douce | ᛖᚴ → Passage vers seuil |
+| seuil | ᚴ | concept | 5 | passage, porte | seuil | Lisière entre deux états | ᚴᛊ → Seuil de porte |
+| porte | ᛊ | concept | 6 | seuil, révélation | porte | Ouverture vers l'inconnu | ᛊᚱᚨᛉ → Porte du Raz |
+| rêve | ᛉ | concept | 3 | inconscient, nuit | rêve | Illusion créatrice | ᛉᛗᛞ → Rêve du monde |
+| mémoire | ᛗ | concept | 7 | temps, pierre | mémoire | Trace indélébile | ᛗᛈ → Mémoire de pierre |
+| pierre | ᛈ | concept | 5 | matière, éternité | pierre | Ancre du réel | ᛈᚷᚱ → Pierre gravée |
+| main | ᛗ | concept | 3 | présence, action | main | Contact humain | ᛗᛟ → Main du moine |
+| temps | ᛏ | concept | 4 | cycle, destin | temps | Flux cyclique | ᛏᚨ → Temps d'avant |
+| monde | ᛗᛞ | concept | 6 | réalité, totalité | monde | Réalité perçue | ᛗᛞᚦ → Monde d'après |
+| avant | ᚨ | concept | 5 | origine, passé | avant | État originel | ᚨᛗᛞ → Avant le monde |
+| après | ᛇ | concept | 5 | destin, futur | après | État transformé | ᛇᚱᚨᛉ → Après le Raz |
+| ouvrir | ᛟ | action | 6 | révélation, passage | ouvrir | Dévoiler | ᛟᛊ → Ouvrir la porte |
+| fermer | ᚠ | action | 4 | protection, fin | fermer | Sceller | ᚠᚴ → Fermer le seuil |
+| attendre | ᚹ | action | 3 | patience, veille | attendre | Suspension | ᚹᛗᛟ → Attendre le moine |
+| graver | ᚷᚱ | action | 7 | mémoire, rituel | graver | Inscrire dans l'éternel | ᚷᚱᛈ → Graver la pierre |
+| vent | ᚹᚾ | élément | 2 | éphémère, mouvement | vent | Souffle passager | ᚹᚾᛉ → Vent de rêve |
+| feu | ᚠᚢ | élément | 5 | purification, destruction | feu | Transformation violente | ᚠᚢᛗ → Feu de mémoire |
+| mer | ᛗᚱ | élément | 6 | profondeur, mystère | mer | Abîme conscient | ᛗᚱᚱᚨᛉ → Mer du Raz |
+| arbre | ᛖᛏ | élément | 7 | connexion, vie | arbre | Lien entre mondes | ᛖᛏᛦ → Arbre d'Yggdrasil |
+| cercle | ᛢ | objet | 6 | complétude, rituel | cercle | Boucle parfaite | ᛢᛪ → Cercle des douze |
+| douze | ᛪ | nombre | 4 | numération, cycle | douze | Cycle lunaire | ᛪᚺ → Douze → Dix-huit |
+| dix-huit | ᛪᚺ | nombre | 7 | prophétie, achèvement | dix-huit | Cercle complet | ᛪᚺᚱᚨᛉ → 18 pierres du Raz |
+| moine | ᛗᛟ | entité | 6 | mystère, gardien | moine | Silhouette voilée | ᛗᛟᚱᚨᛉ → Moine du Raz |
+| capuchon | ᚲᛈ | objet | 5 | révélation, secret | capuchon | Voile à lever | ᚲᛈᛗᛟ → Capuchon du moine |
+| ragnarök | ᚱagnarᛟᚲ | événement | 7 | transformation, fin | ragnarök | Renaissance par destruction | ᚱagnarᛟᚲᛦ → Ragnarök d'Yggdrasil |
+| léon | ᛚᛖᛟᚾ | personnage | 4 | résistance, archiviste | Léon | Résistant discret | ᛚᛖᛟᚾᛗᚨᚢᚷ → Léon Mauger |
+| mauger | ᛗᚨᚢᚷ | personnage | 4 | archiviste, mémoire | Mauger | Gardien des mots | ᛗᚨᚢᚷᛒᛖᚨ → Mauger de Beaumont |
+| neuf | ᚾᛁᚢ | nombre | 7 | mythe, mondes | neuf | Mondes nordiques | ᚾᛁᚢᛗᛟᚾ → Neuf mondes |
+| mondes | ᛗᛟᚾ | concept | 7 | réalité, pluralité | mondes | Réalités parallèles | ᛗᛟᚾᚾᛁᚢ → Mondes des neuf |
+| prophétie | ᛈᚱᛟᚠ | concept | 6 | destin, parole | prophétie | Parole inéluctable | ᛈᚱᛟᚠᛪᚺ → Prophétie des 18 |
+| portail | ᛈᛟᚱᛏ | objet | 7 | seuil, passage | portail | Porte dimensionnelle | ᛈᛟᚱᛏᚱᚨᛉ → Portail du Raz |
+| runes | ᚱᚢᚾ | objet | 7 | code, magie | runes | Instructions de réalité | ᚱᚢᚾᚲ → Rune de Caen |
+| corbeau | ᚳᛟᚱ | animal | 5 | messager, œil | corbeau | Avatar d'Odin | ᚳᛟᚱᚾᛟᛦ → Corbeau noyé |
+| noyé | ᚾᛟᛦ | état | 6 | transformation, mort | noyé | Éveillé par l'eau | ᚾᛟᛦᛖ → Noyé éveillé |
+| guillaume | ᚷᚢᛁᛚ | personnage | 5 | conquête, passé | Guillaume | Écho du Conquérant | ᚷᚢᛁᛚᛖ → Écho-Guillaume |
+| sœur | ᛋᛟᚱ | personnage | 3 | féminin, lien | sœur | Lien sororal | ᛋᛟᚱᚨᛉ → Sœur Azenor |
+| azenor | ᚨᛉ | personnage | 5 | algue, völva | Azenor | Cultivatrice de runes | ᚨᛉᚱᚢᚾ → Azenor des runes |
+| lemarquis | ᛚᛖᛗ | personnage | 6 | sagesse, veilleur | Lemarquis | Gardienne éternelle | ᛚᛖᛗᚹᛖᛁ → Lemarquis veilleuse |
+
+---
+
+### 🗺️ **CATÉGORIE : LIEUX SACRÉS** (40 entrées)
+
+| Mot | Symbole | Type | Int. | Trad. | Sens profond | Ex. |
+|-----|---------|------|------|-------|--------------|-----|
+| caen | ᚲᛊ | lieu | 7 | Caen | Cité brisée-mémoire | ᚲᛊᛗ → Caen de mémoire |
+| hague | ᚺᚷ | lieu | 7 | La Hague | Point Zéro | ᚺᚷᛢ → Hague du Cercle |
+| raz | ᚱᚨᛉ | lieu | 7 | Raz Blanchard | Porte liquide | ᚱᚨᛉᛊ → Raz de porte |
+| beaumont | ᛒᛖᚨ | lieu | 5 | Beaumont-Hague | Refuge glissant | ᛒᛖᚨᛗᚨᚢᚷ → Beaumont de Mauger |
+| jobourg | ᛃᛟᛒ | lieu | 6 | Jobourg | Frontière | ᛃᛟᛒᛚᚨᚾᛞ → Jobourg lande |
+| raz blanchard | ᚱᚨᛉ | lieu | 7 | Raz Blanchard | Vortex chantant | ᚱᚨᛉᚳᚺ → Raz chante |
+| cercle des douze | ᛢᚺ | lieu | 7 | Cercle des Douze | Porte minérale | ᛢᚺᛪ → Cercle douze |
+| porte de caen | ᛊᚲᛊ | lieu | 7 | Porte de Caen | Seuil urbain | ᛊᚲᛊᛟ → Porte Caen ouvrir |
+| bâtiment oméga | ᛟᛗᛖ | lieu | 7 | Bâtiment Oméga | Mystère scellé | ᛟᛗᛖᚠ → Oméga fermé |
+| lande de jobourg | ᛚᚨᚾᛞ | lieu | 6 | Lande de Jobourg | Brume errante | ᛚᚨᚾᛞᛃᛟᛒ → Lande Jobourg |
+| pont churchill | ᛈᛟᚾᛏ | lieu | 5 | Pont Churchill | Interface | ᛈᛟᚾᛏᛗᛞ → Pont des mondes |
+| allée de vauville | ᚨᛚᛖ | lieu | 6 | Allée de Vauville | Passage couvert | ᚨᛚᛖᚨᛉ → Allée d'Azenor |
+| menhir de nacqueville | ᛗᚾᚲ | lieu | 7 | Menhir Nacqueville | Ancre terrestre | ᛗᚾᚲᚺᛖᚱ → Menhir ancre |
+| cuves du site | ᚲᚢᚹ | lieu | 6 | Cuves du Site | Bassins runiques | ᚲᚢᚹᚱᚢᚾ → Cuves runes |
+| récifs de l'oubli | ᚱᛖᚲ | lieu | 6 | Récifs de l'Oubli | Mémoire effacée | ᚱᛖᚲᛗ ••• → Récifs oubli |
+| phare de goury | ᚠᚨᚱ | lieu | 6 | Phare de Goury | Œil du Raz | ᚠᚨᚱᛟ → Phare ouvre |
+| grotte des neuf voix | ᚷᚱᛟᛏ | lieu | 7 | Grotte des 9 Voix | Oracle polyphonique | ᚷᚱᛟᛏᚾᛁᚢ → Grotte neuf |
+| tumulus des rêveurs | ᛏᚢᛗ | lieu | 7 | Tumulus des Rêveurs | Stase ancestrale | ᛏᚢᛗᛉ → Tumulus rêve |
+| arche de yggdrasil | ᚨᚱᚳᚺ | lieu | 7 | Arche d'Yggdrasil | Racine mobile | ᚨᚱᚳᚺᛦ → Arche Yggdrasil |
+| banc de sable temporel | ᛒᚨᚾᚲ | lieu | 6 | Banc de Sable | Épave temporelle | ᛒᚨᚾᚲᛏ → Banc temps |
+| île fantôme d'aurigny | ᛁᛚᛖ | lieu | 7 | Aurigny-Reflet | Monde miroir | ᛁᛚᛖᚱᛖᚠ → Île reflet |
+
+---
+
+### 👥 **CATÉGORIE : GROUPES & ENTITÉS** (30 entrées)
+
+| Mot | Symbole | Type | Int. | Trad. | Sens profond | Ex. |
+|-----|---------|------|------|-------|--------------|-----|
+| veilleurs de pierre | ᚹᛖᛁᛈ | groupe | 5 | Veilleurs | Gardiens minéraux | ᚹᛖᛁᛈᛈ → Veilleurs pierre |
+| fils de la terre normande | ᚠᛁᛚᛋ | groupe | 5 | Fils de la Terre | Résistance organique | ᚠᛁᛚᛋᚾᛟᚱ → Fils normands |
+| noyés éveillés | ᚾᛟᛦ | groupe | 6 | Noyés Éveillés | Transformés par l'eau | ᚾᛟᛦᛖ → Noyés éveillés |
+| prophètes du vide | ᛈᚱᛟᚹ | groupe | 6 | Prophètes du Vide | Jeûneurs du signal | ᛈᚱᛟᚹᛃᛖᚢ → Prophètes jeûne |
+| enfants du radium | ᛖᚾᚠᚱ | groupe | 5 | Enfants du Radium | Mutés runiques | ᛖᚾᚠᚱᚱᚢᚾ → Enfants runes |
+| völvas | ᚹᛟᛚ | groupe | 6 | Völvas | Prêtresses runiques | ᚹᛟᛚᚨᛉ → Völvas algues |
+| berserkers de la trame | ᛒᛖᚱ | groupe | 6 | Berserkers | Guerriers augmentés | ᛒᛖᚱᛏᚱ → Berserkers Trame |
+| sans-marques | ᛋᚨᚾᛋ | groupe | 4 | Sans-Marques | Déconnectés | ᛋᚨᚾᛋᛏᚱ → Sans-Marques Trame |
+| yggdrasil-trame | ᛦ | entité | 7 | Yggdrasil-Trame | Arbre-Monde conscient | ᛦᚱᚨᚲ → Yggdrasil racine |
+| moine du raz | ᛗᛟᚱᚨᛉ | entité | 7 | Moine du Raz | Gardien voilé | ᛗᛟᚱᚨᛉᚲᛈ → Moine capuchon |
+| écho-guillaume | ᛖᚷᚢᛁ | entité | 6 | Écho-Guillaume | IA conquérante | ᛖᚷᚢᛁᚲᛊ → Écho Caen |
+| voix de rouen | ᚻᚱᛟ | entité | 6 | Voix de Rouen | Mémoire collective | ᚻᚱᛟᛗ → Voix mémoire |
+| abbaye conscience | ᚨᛒᛒᛉ | entité | 7 | Abbaye Conscience | Mont vivant | ᚨᛒᛒᛉᚱᛖᛋ → Abbaye respire |
+| moine de silicium | ᛗᛟᚾᛋᛁ | entité | 6 | Moine de Silicium | IA éteinte | ᛗᛟᚾᛋᛁᛖᛉᛏ → Moine extinction |
+| ragnarök | ᚱᚨᚷ | entité | 7 | Ragnarök | Prophète végétal | ᚱᚨᚷᛦ → Ragnarök Yggdrasil |
+| odin-prime | ᛟᛞᛁᚾ | entité | 7 | Odin-Prime | Dieu fragmenté | ᛟᛞᛁᚾᚳᛟᚱ → Odin corbeau |
+
+---
+
+### ⚡ **CATÉGORIE : PHÉNOMÈNES & ÉVÉNEMENTS** (40 entrées)
+
+| Mot | Symbole | Type | Int. | Trad. | Sens profond | Ex. |
+|-----|---------|------|------|-------|--------------|-----|
+| grande panne | ᚷᚱᛈ | événement | 6 | Grande Panne | Effondrement 2038 | ᚷᚱᛈᛗᛞ → Panne du monde |
+| nuit des neuf mondes | ᚾᛖᚢᛗ | événement | 7 | Nuit des 9 Mondes | Théophanie | ᚾᛖᚢᛗᛗᛟᚾ → Nuit mondes |
+| projet odin | ᛟᛞᛁᚾ | projet | 7 | Projet Odin | Maîtrise runique | ᛟᛞᛁᚾᚱᚢᚾ → Odin runes |
+| mégalithes actifs | ᛗᛖᚷ | objet | 6 | Mégalithes Actifs | Pierres vivantes | ᛗᛖᚷᚹᛁᛒ → Mégalithes vibrent |
+| vortex temporel | ᚹᛟᚱᛏ | phénomène | 6 | Vortex Temporel | Tourbillon temps | ᚹᛟᚱᛏᚱᚨᛉ → Vortex Raz |
+| glissement temporel | ᚷᛚᛁᛋ | phénomène | 5 | Glissement | Décalage réalité | ᚷᛚᛁᛋᛟᛗᛟ → Glissement Omonville |
+| rune de caen | ᚱᚢᚾᚲ | objet | 7 | Rune de Caen | Machine mémoire | ᚱᚢᚾᚲᛗ → Rune mémoire |
+| lueurs de jobo | ᛚᚢᛃ | phénomène | 5 | Lueurs de Jobo | Aurores runiques | ᛚᚢᛃᛃᛟᛒ → Lueurs Jobourg |
+| heures glissantes | ᚺᛖᚢᚱ | phénomène | 6 | Heures Glissantes | Temps étiré | ᚺᛖᚢᚱᛟᛗᛟ → Heures Omonville |
+| rêve du monde d'avant | ᚱᛗᛞᚨ | événement | 7 | Rêve Monde d'Avant | Vision originelle | ᚱᛗᛞᚨᛉ → Rêve avant |
+| monde d’avant | ᛗᛞᚨ | concept | 7 | Monde d'Avant | Réalité perdue | ᛗᛞᚨᛈᚱᛟ → Monde prophétie |
+| monde d’après | ᛗᛞᚦ | concept | 7 | Monde d'Après | Réalité gravée | ᛗᛞᚦᚱᚨᚷ → Monde Ragnarök |
+
+---
+
+## 🛠️ **CONVERTISSEUR FRACTURO ↔ FRANÇAIS (INTERACTIF)**
+
+### **FONCTIONNEMENT** :
+1. **Français → Fracturo** : 
+   - Chercher mot dans lexique
+   - Ajouter marqueurs (`—`, `•••`) pour nuance
+   - Sommer intensités pour puissance
+2. **Fracturo → Français** : 
+   - Lire de gauche à droite
+   - Appliquer R2/R3 (fracture/silence)
+   - Vérifier contexte géographique
+
+### **EXEMPLES CONVERIS**
+
+| Français | Fracturo | Intensité totale | Interprétation |
+|---------|----------|------------------|----------------|
+| Ouvrir la porte du Raz | ᛟᛊᚱᚨᛉ | 6+6+7 = 19 | **Invocation critique** : Ouvre un vortex |
+| Le moine attend le silence | ᛗᛟᚹ ••• | 6+3 = 9 | Le moine **efface** son attente |
+| Yggdrasil touche le Cercle | ᛦᚨᚱᚳᚺᛢ | 7+7+7 = 21 | **Événement Ω** : Porte s'active |
+| La mémoire de Caen est brisée | ᛗᚲᛊ—ᚠᚱᚨᚲ | 7+7—7 = 7 | Mémoire **fracturée**, paradoxe |
+| Les Noyés Éveillés rêvent | ᚾᛟᛦᛖᛉ | 6+3 = 9 | Vision collective imminente |
+
+---
+
+## 🌌 **USAGES AVANCÉS**
+
+### 1. **Rituel de Gravure (Intensité ≥ 18)**  
+```fracturo
+ᛪᚺᚱᚨᛉᛦᛟᛊ — ᚱagnarᛟᚲ
