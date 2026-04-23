@@ -1,0 +1,2512 @@
+{
+  "fara": {
+    "lemma": "fara",
+    "pos": "verb",
+    "gloss": "aller"
+  },
+  "koma": {
+    "lemma": "koma",
+    "pos": "verb",
+    "gloss": "venir"
+  },
+  "drepa": {
+    "lemma": "drepa",
+    "pos": "verb",
+    "gloss": "tuer"
+  },
+  "vera": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "être"
+  },
+  "heita": {
+    "lemma": "heita",
+    "pos": "verb",
+    "gloss": "s'appeler"
+  },
+  "segja": {
+    "lemma": "segja",
+    "pos": "verb",
+    "gloss": "dire"
+  },
+  "gera": {
+    "lemma": "gera",
+    "pos": "verb",
+    "gloss": "faire"
+  },
+  "taka": {
+    "lemma": "taka",
+    "pos": "verb",
+    "gloss": "prendre"
+  },
+  "gefa": {
+    "lemma": "gefa",
+    "pos": "verb",
+    "gloss": "donner"
+  },
+  "sjá": {
+    "lemma": "sjá",
+    "pos": "pron",
+    "gloss": "ce"
+  },
+  "heyra": {
+    "lemma": "heyra",
+    "pos": "verb",
+    "gloss": "entendre"
+  },
+  "vita": {
+    "lemma": "vita",
+    "pos": "verb",
+    "gloss": "savoir"
+  },
+  "vilja": {
+    "lemma": "vilja",
+    "pos": "verb",
+    "gloss": "vouloir"
+  },
+  "munu": {
+    "lemma": "munu",
+    "pos": "verb",
+    "gloss": "devoir/futur"
+  },
+  "skulu": {
+    "lemma": "skulu",
+    "pos": "verb",
+    "gloss": "devoir"
+  },
+  "eiga": {
+    "lemma": "eiga",
+    "pos": "verb",
+    "gloss": "posséder/avoir"
+  },
+  "hafa": {
+    "lemma": "hafa",
+    "pos": "verb",
+    "gloss": "avoir"
+  },
+  "verða": {
+    "lemma": "verða",
+    "pos": "verb",
+    "gloss": "devenir"
+  },
+  "sitja": {
+    "lemma": "sitja",
+    "pos": "verb",
+    "gloss": "être assis"
+  },
+  "standa": {
+    "lemma": "standa",
+    "pos": "verb",
+    "gloss": "se tenir debout"
+  },
+  "liggja": {
+    "lemma": "liggja",
+    "pos": "verb",
+    "gloss": "être couché"
+  },
+  "ganga": {
+    "lemma": "ganga",
+    "pos": "verb",
+    "gloss": "marcher"
+  },
+  "ríða": {
+    "lemma": "ríða",
+    "pos": "verb",
+    "gloss": "chevaucher"
+  },
+  "fljúga": {
+    "lemma": "fljúga",
+    "pos": "verb",
+    "gloss": "voler"
+  },
+  "bera": {
+    "lemma": "bera",
+    "pos": "verb",
+    "gloss": "porter"
+  },
+  "borinn": {
+    "lemma": "bera",
+    "pos": "verb",
+    "gloss": "né"
+  },
+  "deyja": {
+    "lemma": "deyja",
+    "pos": "verb",
+    "gloss": "mourir"
+  },
+  "lifa": {
+    "lemma": "lifa",
+    "pos": "verb",
+    "gloss": "vivre"
+  },
+  "eta": {
+    "lemma": "eta",
+    "pos": "verb",
+    "gloss": "manger"
+  },
+  "drekka": {
+    "lemma": "drekka",
+    "pos": "verb",
+    "gloss": "boire"
+  },
+  "sofa": {
+    "lemma": "sofa",
+    "pos": "verb",
+    "gloss": "dormir"
+  },
+  "vakna": {
+    "lemma": "vakna",
+    "pos": "verb",
+    "gloss": "se réveiller"
+  },
+  "elska": {
+    "lemma": "elska",
+    "pos": "verb",
+    "gloss": "aimer"
+  },
+  "hata": {
+    "lemma": "hata",
+    "pos": "verb",
+    "gloss": "haïr"
+  },
+  "bíða": {
+    "lemma": "bíða",
+    "pos": "verb",
+    "gloss": "attendre"
+  },
+  "finna": {
+    "lemma": "finna",
+    "pos": "verb",
+    "gloss": "trouver"
+  },
+  "leita": {
+    "lemma": "leita",
+    "pos": "verb",
+    "gloss": "chercher"
+  },
+  "kalla": {
+    "lemma": "kalla",
+    "pos": "verb",
+    "gloss": "appeler"
+  },
+  "spyrja": {
+    "lemma": "spyrja",
+    "pos": "verb",
+    "gloss": "demander"
+  },
+  "svara": {
+    "lemma": "svara",
+    "pos": "verb",
+    "gloss": "répondre"
+  },
+  "biðja": {
+    "lemma": "biðja",
+    "pos": "verb",
+    "gloss": "prier/demander"
+  },
+  "þakka": {
+    "lemma": "þakka",
+    "pos": "verb",
+    "gloss": "remercier"
+  },
+  "vinna": {
+    "lemma": "vinna",
+    "pos": "verb",
+    "gloss": "gagner/travailler"
+  },
+  "tapa": {
+    "lemma": "tapa",
+    "pos": "verb",
+    "gloss": "perdre"
+  },
+  "berjast": {
+    "lemma": "berjast",
+    "pos": "verb",
+    "gloss": "se battre"
+  },
+  "vega": {
+    "lemma": "vega",
+    "pos": "verb",
+    "gloss": "tuer/combattre"
+  },
+  "falla": {
+    "lemma": "falla",
+    "pos": "verb",
+    "gloss": "tomber"
+  },
+  "rísa": {
+    "lemma": "rísa",
+    "pos": "verb",
+    "gloss": "se lever"
+  },
+  "kasta": {
+    "lemma": "kasta",
+    "pos": "verb",
+    "gloss": "jeter"
+  },
+  "keyra": {
+    "lemma": "keyra",
+    "pos": "verb",
+    "gloss": "conduire/pousser"
+  },
+  "fæða": {
+    "lemma": "fæða",
+    "pos": "verb",
+    "gloss": "nourrir/enfanter"
+  },
+  "ala": {
+    "lemma": "ala",
+    "pos": "verb",
+    "gloss": "élever"
+  },
+  "kenna": {
+    "lemma": "kenna",
+    "pos": "verb",
+    "gloss": "enseigner/connaître"
+  },
+  "læra": {
+    "lemma": "læra",
+    "pos": "verb",
+    "gloss": "apprendre"
+  },
+  "skilja": {
+    "lemma": "skilja",
+    "pos": "verb",
+    "gloss": "comprendre/séparer"
+  },
+  "hugsa": {
+    "lemma": "hugsa",
+    "pos": "verb",
+    "gloss": "penser"
+  },
+  "trúa": {
+    "lemma": "trúa",
+    "pos": "verb",
+    "gloss": "croire"
+  },
+  "vænta": {
+    "lemma": "vænta",
+    "pos": "verb",
+    "gloss": "espérer/attendre"
+  },
+  "óttast": {
+    "lemma": "óttast",
+    "pos": "verb",
+    "gloss": "craindre"
+  },
+  "maðr": {
+    "lemma": "maðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "homme"
+  },
+  "kona": {
+    "lemma": "kona",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "femme"
+  },
+  "konungr": {
+    "lemma": "konungr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "roi"
+  },
+  "dróttning": {
+    "lemma": "dróttning",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "reine"
+  },
+  "sonr": {
+    "lemma": "sonr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "fils"
+  },
+  "dóttir": {
+    "lemma": "dóttir",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "fille"
+  },
+  "faðir": {
+    "lemma": "faðir",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "père"
+  },
+  "móðir": {
+    "lemma": "móðir",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "mère"
+  },
+  "bróðir": {
+    "lemma": "bróðir",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "frère"
+  },
+  "systir": {
+    "lemma": "systir",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "sœur"
+  },
+  "barn": {
+    "lemma": "barn",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "enfant"
+  },
+  "átti": {
+    "lemma": "átti",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "parent/famille"
+  },
+  "frændi": {
+    "lemma": "frændi",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "parent/cousin"
+  },
+  "vinr": {
+    "lemma": "vinr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "ami"
+  },
+  "óvinr": {
+    "lemma": "óvinr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "ennemi"
+  },
+  "drengr": {
+    "lemma": "drengr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "jeune homme/guerrier"
+  },
+  "karl": {
+    "lemma": "karl",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "homme/vieux"
+  },
+  "kerling": {
+    "lemma": "kerling",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "vieille femme"
+  },
+  "jarl": {
+    "lemma": "jarl",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "jarl/comte"
+  },
+  "hersir": {
+    "lemma": "hersir",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "chef local"
+  },
+  "bóndi": {
+    "lemma": "bóndi",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "fermier"
+  },
+  "þræll": {
+    "lemma": "þræll",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "esclave"
+  },
+  "goði": {
+    "lemma": "goði",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "prêtre/chef"
+  },
+  "víkingr": {
+    "lemma": "víkingr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "viking"
+  },
+  "skip": {
+    "lemma": "skip",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "navire"
+  },
+  "knǫrr": {
+    "lemma": "knǫrr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "navire marchand"
+  },
+  "bátr": {
+    "lemma": "bátr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "bateau"
+  },
+  "segl": {
+    "lemma": "segl",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "voile"
+  },
+  "árar": {
+    "lemma": "ár",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "rame"
+  },
+  "land": {
+    "lemma": "land",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "terre"
+  },
+  "ríki": {
+    "lemma": "ríki",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "royaume"
+  },
+  "herað": {
+    "lemma": "herað",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "district"
+  },
+  "býr": {
+    "lemma": "býr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "ferme/habitation"
+  },
+  "bær": {
+    "lemma": "bær",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "ferme"
+  },
+  "hús": {
+    "lemma": "hús",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "maison"
+  },
+  "skáli": {
+    "lemma": "skáli",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "hall"
+  },
+  "salr": {
+    "lemma": "salr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "salle/hall"
+  },
+  "kirkja": {
+    "lemma": "kirkja",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "église"
+  },
+  "hof": {
+    "lemma": "hof",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "temple"
+  },
+  "þing": {
+    "lemma": "þing",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "assemblée"
+  },
+  "alþingi": {
+    "lemma": "alþingi",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "assemblée générale"
+  },
+  "borg": {
+    "lemma": "borg",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "forteresse"
+  },
+  "vegr": {
+    "lemma": "vegr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "gloire"
+  },
+  "brú": {
+    "lemma": "brú",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "pont"
+  },
+  "sværð": {
+    "lemma": "sværð",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "épée"
+  },
+  "mækir": {
+    "lemma": "mækir",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "épée"
+  },
+  "øx": {
+    "lemma": "øx",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "hache"
+  },
+  "spjót": {
+    "lemma": "spjót",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "lance"
+  },
+  "skjǫldr": {
+    "lemma": "skjǫldr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "bouclier"
+  },
+  "brynja": {
+    "lemma": "brynja",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "cotte de mailles"
+  },
+  "hjálmr": {
+    "lemma": "hjálmr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "casque"
+  },
+  "bogi": {
+    "lemma": "bogi",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "arc"
+  },
+  "ǫr": {
+    "lemma": "ǫr",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "flèche"
+  },
+  "knífr": {
+    "lemma": "knífr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "couteau"
+  },
+  "hestr": {
+    "lemma": "hestr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "cheval"
+  },
+  "hross": {
+    "lemma": "hross",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "cheval"
+  },
+  "hundr": {
+    "lemma": "hundr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "chien"
+  },
+  "kǫttr": {
+    "lemma": "kǫttr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "chat"
+  },
+  "ulfr": {
+    "lemma": "ulfr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "loup"
+  },
+  "bjǫrn": {
+    "lemma": "bjǫrn",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "ours"
+  },
+  "ǫrn": {
+    "lemma": "ǫrn",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "aigle"
+  },
+  "hrafn": {
+    "lemma": "hrafn",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "corbeau"
+  },
+  "fugla": {
+    "lemma": "fugl",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "oiseau"
+  },
+  "fiskr": {
+    "lemma": "fiskr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "poisson"
+  },
+  "ormr": {
+    "lemma": "ormr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "serpent/dragon"
+  },
+  "nǫðr": {
+    "lemma": "nǫðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "serpent"
+  },
+  "kýr": {
+    "lemma": "kýr",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "vache"
+  },
+  "oxi": {
+    "lemma": "oxi",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "bœuf"
+  },
+  "sauðr": {
+    "lemma": "sauðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "mouton"
+  },
+  "geit": {
+    "lemma": "geit",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "chèvre"
+  },
+  "svín": {
+    "lemma": "svín",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "porc"
+  },
+  "dagr": {
+    "lemma": "dagr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "jour"
+  },
+  "nótt": {
+    "lemma": "nótt",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "nuit"
+  },
+  "morgin": {
+    "lemma": "morgin",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "matin"
+  },
+  "aptann": {
+    "lemma": "aptan",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "soir"
+  },
+  "ár": {
+    "lemma": "ár",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "année"
+  },
+  "mánuðr": {
+    "lemma": "mánuðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "mois"
+  },
+  "vika": {
+    "lemma": "vika",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "semaine"
+  },
+  "tími": {
+    "lemma": "tími",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "temps/heure"
+  },
+  "stund": {
+    "lemma": "stund",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "moment"
+  },
+  "sumar": {
+    "lemma": "sumar",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "été"
+  },
+  "vetr": {
+    "lemma": "vetr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "hiver"
+  },
+  "vár": {
+    "lemma": "vár",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "printemps"
+  },
+  "haust": {
+    "lemma": "haust",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "automne"
+  },
+  "sól": {
+    "lemma": "sól",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "soleil"
+  },
+  "máni": {
+    "lemma": "máni",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "lune"
+  },
+  "stjarna": {
+    "lemma": "stjarna",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "étoile"
+  },
+  "himinn": {
+    "lemma": "himinn",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "ciel"
+  },
+  "ský": {
+    "lemma": "ský",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "nuage"
+  },
+  "veðr": {
+    "lemma": "veðr",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "temps/météo"
+  },
+  "vindr": {
+    "lemma": "vindr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "vent"
+  },
+  "regn": {
+    "lemma": "regn",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "pluie"
+  },
+  "snjór": {
+    "lemma": "snjór",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "neige"
+  },
+  "íss": {
+    "lemma": "íss",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "glace"
+  },
+  "eldr": {
+    "lemma": "eldr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "feu"
+  },
+  "vatn": {
+    "lemma": "vatn",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "lac"
+  },
+  "sjór": {
+    "lemma": "sjór",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "mer"
+  },
+  "á": {
+    "lemma": "á",
+    "pos": "prep",
+    "gloss": "sur/à"
+  },
+  "fjǫrðr": {
+    "lemma": "fjǫrðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "fjord"
+  },
+  "ey": {
+    "lemma": "ey",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "île"
+  },
+  "fjall": {
+    "lemma": "fjall",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "montagne"
+  },
+  "dalr": {
+    "lemma": "dalr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "vallée"
+  },
+  "vǫllr": {
+    "lemma": "vǫllr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "champ/plaine"
+  },
+  "skógr": {
+    "lemma": "skógr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "forêt"
+  },
+  "mork": {
+    "lemma": "mork",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "forêt"
+  },
+  "steinn": {
+    "lemma": "steinn",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "pierre"
+  },
+  "jǫrð": {
+    "lemma": "jǫrð",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "terre/sol"
+  },
+  "grǫs": {
+    "lemma": "grǫs",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "herbe"
+  },
+  "tré": {
+    "lemma": "tré",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "arbre"
+  },
+  "matr": {
+    "lemma": "matr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "nourriture"
+  },
+  "brauð": {
+    "lemma": "brauð",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "pain"
+  },
+  "kjǫt": {
+    "lemma": "kjǫt",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "viande"
+  },
+  "ǫl": {
+    "lemma": "ǫl",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "bière"
+  },
+  "vín": {
+    "lemma": "vín",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "vin"
+  },
+  "mjǫðr": {
+    "lemma": "mjǫðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "hydromel"
+  },
+  "mjólk": {
+    "lemma": "mjólk",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "lait"
+  },
+  "smjǫr": {
+    "lemma": "smjǫr",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "beurre"
+  },
+  "ostr": {
+    "lemma": "ostr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "fromage"
+  },
+  "höfuð": {
+    "lemma": "höfuð",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "tête"
+  },
+  "hár": {
+    "lemma": "hár",
+    "pos": "adj",
+    "gloss": "haut"
+  },
+  "auga": {
+    "lemma": "auga",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "œil"
+  },
+  "eyra": {
+    "lemma": "eyra",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "oreille"
+  },
+  "nef": {
+    "lemma": "nef",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "nez"
+  },
+  "munnr": {
+    "lemma": "munnr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "bouche"
+  },
+  "tunga": {
+    "lemma": "tunga",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "langue"
+  },
+  "tǫnn": {
+    "lemma": "tǫnn",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "dent"
+  },
+  "hals": {
+    "lemma": "hals",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "cou"
+  },
+  "hǫnd": {
+    "lemma": "hǫnd",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "main"
+  },
+  "fingr": {
+    "lemma": "fingr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "doigt"
+  },
+  "fótr": {
+    "lemma": "fótr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "pied"
+  },
+  "beinn": {
+    "lemma": "bein",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "os/jambe"
+  },
+  "hjarta": {
+    "lemma": "hjarta",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "cœur"
+  },
+  "blóð": {
+    "lemma": "blóð",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "sang"
+  },
+  "líkami": {
+    "lemma": "líkami",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "corps"
+  },
+  "goð": {
+    "lemma": "goð",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "dieu"
+  },
+  "guð": {
+    "lemma": "guð",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "dieu"
+  },
+  "gyðja": {
+    "lemma": "gyðja",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "déesse"
+  },
+  "áss": {
+    "lemma": "áss",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "dieu Ase"
+  },
+  "vanr": {
+    "lemma": "vanr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "dieu Vane"
+  },
+  "jǫtunn": {
+    "lemma": "jǫtunn",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "géant"
+  },
+  "álfr": {
+    "lemma": "álfr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "elfe"
+  },
+  "dvergr": {
+    "lemma": "dvergr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "nain"
+  },
+  "trǫll": {
+    "lemma": "trǫll",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "troll"
+  },
+  "draug": {
+    "lemma": "draugr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "revenant"
+  },
+  "valkyrja": {
+    "lemma": "valkyrja",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "valkyrie"
+  },
+  "hamr": {
+    "lemma": "hamr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "forme/peau"
+  },
+  "seiðr": {
+    "lemma": "seiðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "sorcellerie"
+  },
+  "galdr": {
+    "lemma": "galdr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "incantation"
+  },
+  "rúnar": {
+    "lemma": "rún",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "rune"
+  },
+  "orð": {
+    "lemma": "orð",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "mot/parole"
+  },
+  "mál": {
+    "lemma": "mál",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "langue/discours"
+  },
+  "saga": {
+    "lemma": "saga",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "récit/saga"
+  },
+  "sǫgn": {
+    "lemma": "sǫgn",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "histoire"
+  },
+  "kvæði": {
+    "lemma": "kvæði",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "poème"
+  },
+  "vísa": {
+    "lemma": "vísa",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "strophe/vers"
+  },
+  "nafn": {
+    "lemma": "nafn",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "nom"
+  },
+  "heiti": {
+    "lemma": "heiti",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "nom/appellation"
+  },
+  "kenning": {
+    "lemma": "kenning",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "kenning"
+  },
+  "sœmð": {
+    "lemma": "sœmð",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "honneur"
+  },
+  "frægð": {
+    "lemma": "frægð",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "renommée"
+  },
+  "skǫmm": {
+    "lemma": "skǫmm",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "honte"
+  },
+  "níð": {
+    "lemma": "níð",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "insulte/honte"
+  },
+  "heill": {
+    "lemma": "heill",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "chance/santé"
+  },
+  "gæfa": {
+    "lemma": "gæfa",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "chance"
+  },
+  "hamingja": {
+    "lemma": "hamingja",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "chance/esprit tutélaire"
+  },
+  "auðr": {
+    "lemma": "auðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "richesse"
+  },
+  "fé": {
+    "lemma": "fé",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "bétail/richesse"
+  },
+  "silfr": {
+    "lemma": "silfr",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "argent"
+  },
+  "gull": {
+    "lemma": "gull",
+    "pos": "noun",
+    "gender": "neut",
+    "gloss": "or"
+  },
+  "hringr": {
+    "lemma": "hringr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "anneau"
+  },
+  "ok": {
+    "lemma": "ok",
+    "pos": "conj",
+    "gloss": "et"
+  },
+  "eða": {
+    "lemma": "eða",
+    "pos": "conj",
+    "gloss": "ou"
+  },
+  "en": {
+    "lemma": "en",
+    "pos": "conj",
+    "gloss": "mais"
+  },
+  "at": {
+    "lemma": "at",
+    "pos": "conj",
+    "gloss": "que/à"
+  },
+  "ef": {
+    "lemma": "ef",
+    "pos": "conj",
+    "gloss": "si"
+  },
+  "þó": {
+    "lemma": "þó",
+    "pos": "conj",
+    "gloss": "bien que/cependant"
+  },
+  "því": {
+    "lemma": "því",
+    "pos": "conj",
+    "gloss": "parce que"
+  },
+  "þegar": {
+    "lemma": "þegar",
+    "pos": "adv",
+    "gloss": "aussitôt"
+  },
+  "meðan": {
+    "lemma": "meðan",
+    "pos": "conj",
+    "gloss": "pendant que"
+  },
+  "áðr": {
+    "lemma": "áðr",
+    "pos": "adv",
+    "gloss": "avant"
+  },
+  "síðan": {
+    "lemma": "síðan",
+    "pos": "adv",
+    "gloss": "après/ensuite"
+  },
+  "til": {
+    "lemma": "til",
+    "pos": "prep",
+    "gloss": "vers/à"
+  },
+  "frá": {
+    "lemma": "frá",
+    "pos": "prep",
+    "gloss": "de/depuis"
+  },
+  "í": {
+    "lemma": "í",
+    "pos": "prep",
+    "gloss": "dans"
+  },
+  "með": {
+    "lemma": "með",
+    "pos": "prep",
+    "gloss": "avec"
+  },
+  "af": {
+    "lemma": "af",
+    "pos": "prep",
+    "gloss": "de/par"
+  },
+  "fyrir": {
+    "lemma": "fyrir",
+    "pos": "prep",
+    "gloss": "pour/devant"
+  },
+  "um": {
+    "lemma": "um",
+    "pos": "prep",
+    "gloss": "autour/au sujet de"
+  },
+  "við": {
+    "lemma": "við",
+    "pos": "prep",
+    "gloss": "contre/auprès de"
+  },
+  "undir": {
+    "lemma": "undir",
+    "pos": "prep",
+    "gloss": "sous"
+  },
+  "yfir": {
+    "lemma": "yfir",
+    "pos": "prep",
+    "gloss": "au-dessus"
+  },
+  "hjá": {
+    "lemma": "hjá",
+    "pos": "prep",
+    "gloss": "chez/près de"
+  },
+  "milli": {
+    "lemma": "milli",
+    "pos": "prep",
+    "gloss": "entre"
+  },
+  "millum": {
+    "lemma": "millum",
+    "pos": "prep",
+    "gloss": "entre"
+  },
+  "gegn": {
+    "lemma": "gegn",
+    "pos": "prep",
+    "gloss": "contre/en face de"
+  },
+  "mót": {
+    "lemma": "mót",
+    "pos": "prep",
+    "gloss": "contre/vers"
+  },
+  "eptir": {
+    "lemma": "eptir",
+    "pos": "prep",
+    "gloss": "après/selon"
+  },
+  "utan": {
+    "lemma": "utan",
+    "pos": "prep",
+    "gloss": "dehors/excepté"
+  },
+  "innan": {
+    "lemma": "innan",
+    "pos": "prep",
+    "gloss": "dedans"
+  },
+  "nær": {
+    "lemma": "nær",
+    "pos": "adv",
+    "gloss": "près"
+  },
+  "fjarri": {
+    "lemma": "fjarri",
+    "pos": "adv",
+    "gloss": "loin"
+  },
+  "mikill": {
+    "lemma": "mikill",
+    "pos": "adj",
+    "gloss": "grand"
+  },
+  "lítill": {
+    "lemma": "lítill",
+    "pos": "adj",
+    "gloss": "petit"
+  },
+  "stórr": {
+    "lemma": "stórr",
+    "pos": "adj",
+    "gloss": "grand"
+  },
+  "langr": {
+    "lemma": "langr",
+    "pos": "adj",
+    "gloss": "long"
+  },
+  "stuttr": {
+    "lemma": "stuttr",
+    "pos": "adj",
+    "gloss": "court"
+  },
+  "breiðr": {
+    "lemma": "breiðr",
+    "pos": "adj",
+    "gloss": "large"
+  },
+  "mjór": {
+    "lemma": "mjór",
+    "pos": "adj",
+    "gloss": "mince"
+  },
+  "þykkr": {
+    "lemma": "þykkr",
+    "pos": "adj",
+    "gloss": "épais"
+  },
+  "lágr": {
+    "lemma": "lágr",
+    "pos": "adj",
+    "gloss": "bas"
+  },
+  "djúpr": {
+    "lemma": "djúpr",
+    "pos": "adj",
+    "gloss": "profond"
+  },
+  "grunnr": {
+    "lemma": "grunnr",
+    "pos": "adj",
+    "gloss": "peu profond"
+  },
+  "þungr": {
+    "lemma": "þungr",
+    "pos": "adj",
+    "gloss": "lourd"
+  },
+  "léttr": {
+    "lemma": "léttr",
+    "pos": "adj",
+    "gloss": "léger"
+  },
+  "góðr": {
+    "lemma": "góðr",
+    "pos": "adj",
+    "gloss": "bon",
+    "features": {
+      "case": "nom",
+      "gender": "masc",
+      "number": "sg",
+      "degree": "pos"
+    }
+  },
+  "illr": {
+    "lemma": "illr",
+    "pos": "adj",
+    "gloss": "mauvais"
+  },
+  "betr": {
+    "lemma": "betr",
+    "pos": "adj",
+    "gloss": "meilleur"
+  },
+  "verr": {
+    "lemma": "verr",
+    "pos": "adj",
+    "gloss": "pire"
+  },
+  "fagr": {
+    "lemma": "fagr",
+    "pos": "adj",
+    "gloss": "beau"
+  },
+  "ljótr": {
+    "lemma": "ljótr",
+    "pos": "adj",
+    "gloss": "laid"
+  },
+  "fríðr": {
+    "lemma": "fríðr",
+    "pos": "adj",
+    "gloss": "beau"
+  },
+  "ríkr": {
+    "lemma": "ríkr",
+    "pos": "adj",
+    "gloss": "riche"
+  },
+  "máttugr": {
+    "lemma": "máttugr",
+    "pos": "adj",
+    "gloss": "puissant"
+  },
+  "sterkr": {
+    "lemma": "sterkr",
+    "pos": "adj",
+    "gloss": "fort"
+  },
+  "veikr": {
+    "lemma": "veikr",
+    "pos": "adj",
+    "gloss": "faible"
+  },
+  "harðr": {
+    "lemma": "harðr",
+    "pos": "adj",
+    "gloss": "dur"
+  },
+  "mjúkr": {
+    "lemma": "mjúkr",
+    "pos": "adj",
+    "gloss": "doux/mou"
+  },
+  "hvass": {
+    "lemma": "hvass",
+    "pos": "adj",
+    "gloss": "tranchant/vif"
+  },
+  "sljór": {
+    "lemma": "sljór",
+    "pos": "adj",
+    "gloss": "émoussé"
+  },
+  "gamall": {
+    "lemma": "gamall",
+    "pos": "adj",
+    "gloss": "vieux"
+  },
+  "ungr": {
+    "lemma": "ungr",
+    "pos": "adj",
+    "gloss": "jeune"
+  },
+  "nýr": {
+    "lemma": "nýr",
+    "pos": "adj",
+    "gloss": "nouveau"
+  },
+  "forn": {
+    "lemma": "forn",
+    "pos": "adj",
+    "gloss": "ancien"
+  },
+  "hinn": {
+    "lemma": "hinn",
+    "pos": "adj",
+    "gloss": "l'autre"
+  },
+  "fátœkr": {
+    "lemma": "fátœkr",
+    "pos": "adj",
+    "gloss": "pauvre"
+  },
+  "auðigr": {
+    "lemma": "auðigr",
+    "pos": "adj",
+    "gloss": "riche"
+  },
+  "dýrr": {
+    "lemma": "dýrr",
+    "pos": "adj",
+    "gloss": "cher/précieux"
+  },
+  "vitr": {
+    "lemma": "vitr",
+    "pos": "adj",
+    "gloss": "sage"
+  },
+  "heimskr": {
+    "lemma": "heimskr",
+    "pos": "adj",
+    "gloss": "stupide"
+  },
+  "fróðr": {
+    "lemma": "fróðr",
+    "pos": "adj",
+    "gloss": "savant"
+  },
+  "klókr": {
+    "lemma": "klókr",
+    "pos": "adj",
+    "gloss": "rusé/intelligent"
+  },
+  "heiðr": {
+    "lemma": "heiðr",
+    "pos": "adj",
+    "gloss": "clair/brillant"
+  },
+  "ljóss": {
+    "lemma": "ljóss",
+    "pos": "adj",
+    "gloss": "lumineux"
+  },
+  "dimmr": {
+    "lemma": "dimmr",
+    "pos": "adj",
+    "gloss": "sombre"
+  },
+  "myrkr": {
+    "lemma": "myrkr",
+    "pos": "adj",
+    "gloss": "obscur"
+  },
+  "bjart": {
+    "lemma": "bjart",
+    "pos": "adj",
+    "gloss": "brillant"
+  },
+  "hvítr": {
+    "lemma": "hvítr",
+    "pos": "adj",
+    "gloss": "blanc"
+  },
+  "svartr": {
+    "lemma": "svartr",
+    "pos": "adj",
+    "gloss": "noir"
+  },
+  "rauðr": {
+    "lemma": "rauðr",
+    "pos": "adj",
+    "gloss": "rouge"
+  },
+  "grœnn": {
+    "lemma": "grœnn",
+    "pos": "adj",
+    "gloss": "vert"
+  },
+  "blár": {
+    "lemma": "blár",
+    "pos": "adj",
+    "gloss": "bleu/noir"
+  },
+  "gulr": {
+    "lemma": "gulr",
+    "pos": "adj",
+    "gloss": "jaune"
+  },
+  "grár": {
+    "lemma": "grár",
+    "pos": "adj",
+    "gloss": "gris"
+  },
+  "heitr": {
+    "lemma": "heitr",
+    "pos": "adj",
+    "gloss": "chaud"
+  },
+  "kaldr": {
+    "lemma": "kaldr",
+    "pos": "adj",
+    "gloss": "froid"
+  },
+  "varmr": {
+    "lemma": "varmr",
+    "pos": "adj",
+    "gloss": "chaud"
+  },
+  "þurr": {
+    "lemma": "þurr",
+    "pos": "adj",
+    "gloss": "sec"
+  },
+  "blautr": {
+    "lemma": "blautr",
+    "pos": "adj",
+    "gloss": "humide/mouillé"
+  },
+  "votr": {
+    "lemma": "votr",
+    "pos": "adj",
+    "gloss": "humide"
+  },
+  "glaðr": {
+    "lemma": "glaðr",
+    "pos": "adj",
+    "gloss": "joyeux"
+  },
+  "hryggr": {
+    "lemma": "hryggr",
+    "pos": "adj",
+    "gloss": "triste"
+  },
+  "reiðr": {
+    "lemma": "reiðr",
+    "pos": "adj",
+    "gloss": "en colère"
+  },
+  "bliðr": {
+    "lemma": "bliðr",
+    "pos": "adj",
+    "gloss": "doux/aimable"
+  },
+  "grimmr": {
+    "lemma": "grimmr",
+    "pos": "adj",
+    "gloss": "féroce"
+  },
+  "huglauss": {
+    "lemma": "huglauss",
+    "pos": "adj",
+    "gloss": "lâche"
+  },
+  "djarfr": {
+    "lemma": "djarfr",
+    "pos": "adj",
+    "gloss": "audacieux"
+  },
+  "hraustr": {
+    "lemma": "hraustr",
+    "pos": "adj",
+    "gloss": "vaillant"
+  },
+  "sannr": {
+    "lemma": "sannr",
+    "pos": "adj",
+    "gloss": "vrai"
+  },
+  "ósannr": {
+    "lemma": "ósannr",
+    "pos": "adj",
+    "gloss": "faux"
+  },
+  "hollr": {
+    "lemma": "hollr",
+    "pos": "adj",
+    "gloss": "loyal"
+  },
+  "svikin": {
+    "lemma": "svikinn",
+    "pos": "adj",
+    "gloss": "traître"
+  },
+  "trúr": {
+    "lemma": "trúr",
+    "pos": "adj",
+    "gloss": "fidèle"
+  },
+  "fullr": {
+    "lemma": "fullr",
+    "pos": "adj",
+    "gloss": "plein"
+  },
+  "tómr": {
+    "lemma": "tómr",
+    "pos": "adj",
+    "gloss": "vide"
+  },
+  "margr": {
+    "lemma": "margr",
+    "pos": "adj",
+    "gloss": "beaucoup"
+  },
+  "fár": {
+    "lemma": "fár",
+    "pos": "adj",
+    "gloss": "peu"
+  },
+  "allr": {
+    "lemma": "allr",
+    "pos": "adj",
+    "gloss": "tout"
+  },
+  "engi": {
+    "lemma": "engi",
+    "pos": "adj",
+    "gloss": "aucun"
+  },
+  "sumr": {
+    "lemma": "sumr",
+    "pos": "adj",
+    "gloss": "certains"
+  },
+  "annarr": {
+    "lemma": "annarr",
+    "pos": "adj",
+    "gloss": "autre"
+  },
+  "báðir": {
+    "lemma": "báðir",
+    "pos": "adj",
+    "gloss": "les deux"
+  },
+  "einn": {
+    "lemma": "einn",
+    "pos": "adj",
+    "gloss": "un/seul"
+  },
+  "tveir": {
+    "lemma": "tveir",
+    "pos": "num",
+    "gloss": "deux"
+  },
+  "þrír": {
+    "lemma": "þrír",
+    "pos": "num",
+    "gloss": "trois"
+  },
+  "fjórir": {
+    "lemma": "fjórir",
+    "pos": "num",
+    "gloss": "quatre"
+  },
+  "fimm": {
+    "lemma": "fimm",
+    "pos": "num",
+    "gloss": "cinq"
+  },
+  "sex": {
+    "lemma": "sex",
+    "pos": "num",
+    "gloss": "six"
+  },
+  "sjau": {
+    "lemma": "sjau",
+    "pos": "num",
+    "gloss": "sept"
+  },
+  "átta": {
+    "lemma": "átta",
+    "pos": "num",
+    "gloss": "huit"
+  },
+  "níu": {
+    "lemma": "níu",
+    "pos": "num",
+    "gloss": "neuf"
+  },
+  "tíu": {
+    "lemma": "tíu",
+    "pos": "num",
+    "gloss": "dix"
+  },
+  "hundrað": {
+    "lemma": "hundrað",
+    "pos": "num",
+    "gloss": "cent"
+  },
+  "þúsund": {
+    "lemma": "þúsund",
+    "pos": "num",
+    "gloss": "mille"
+  },
+  "ek": {
+    "lemma": "ek",
+    "pos": "pron",
+    "gloss": "je"
+  },
+  "þú": {
+    "lemma": "þú",
+    "pos": "pron",
+    "gloss": "tu"
+  },
+  "hann": {
+    "lemma": "hann",
+    "pos": "pron",
+    "gloss": "il"
+  },
+  "hon": {
+    "lemma": "hon",
+    "pos": "pron",
+    "gloss": "elle"
+  },
+  "þat": {
+    "lemma": "þat",
+    "pos": "pron",
+    "gloss": "cela"
+  },
+  "vér": {
+    "lemma": "vér",
+    "pos": "pron",
+    "gloss": "nous"
+  },
+  "þér": {
+    "lemma": "þú",
+    "pos": "pron",
+    "gloss": "à toi",
+    "features": {
+      "case": "dat",
+      "person": "2",
+      "number": "sg"
+    }
+  },
+  "þeir": {
+    "lemma": "þeir",
+    "pos": "pron",
+    "gloss": "ils"
+  },
+  "þær": {
+    "lemma": "þær",
+    "pos": "pron",
+    "gloss": "elles"
+  },
+  "sá": {
+    "lemma": "sá",
+    "pos": "pron",
+    "gloss": "celui-là"
+  },
+  "sú": {
+    "lemma": "sú",
+    "pos": "pron",
+    "gloss": "celle-là"
+  },
+  "þessi": {
+    "lemma": "þessi",
+    "pos": "pron",
+    "gloss": "ce/cet"
+  },
+  "minn": {
+    "lemma": "minn",
+    "pos": "pron",
+    "gloss": "mon"
+  },
+  "þinn": {
+    "lemma": "þinn",
+    "pos": "pron",
+    "gloss": "ton"
+  },
+  "sinn": {
+    "lemma": "sinn",
+    "pos": "pron",
+    "gloss": "son"
+  },
+  "várr": {
+    "lemma": "várr",
+    "pos": "pron",
+    "gloss": "notre"
+  },
+  "yðarr": {
+    "lemma": "yðarr",
+    "pos": "pron",
+    "gloss": "votre"
+  },
+  "hvat": {
+    "lemma": "hvat",
+    "pos": "pron",
+    "gloss": "quoi"
+  },
+  "hverr": {
+    "lemma": "hverr",
+    "pos": "pron",
+    "gloss": "qui"
+  },
+  "hvar": {
+    "lemma": "hvar",
+    "pos": "adv",
+    "gloss": "où"
+  },
+  "hví": {
+    "lemma": "hví",
+    "pos": "adv",
+    "gloss": "pourquoi"
+  },
+  "hvenær": {
+    "lemma": "hvenær",
+    "pos": "adv",
+    "gloss": "quand"
+  },
+  "hvernig": {
+    "lemma": "hvernig",
+    "pos": "adv",
+    "gloss": "comment"
+  },
+  "já": {
+    "lemma": "já",
+    "pos": "adv",
+    "gloss": "oui"
+  },
+  "nei": {
+    "lemma": "nei",
+    "pos": "adv",
+    "gloss": "non"
+  },
+  "eigi": {
+    "lemma": "eigi",
+    "pos": "adv",
+    "gloss": "ne pas"
+  },
+  "ekki": {
+    "lemma": "ekki",
+    "pos": "adv",
+    "gloss": "ne pas"
+  },
+  "aldri": {
+    "lemma": "aldri",
+    "pos": "adv",
+    "gloss": "jamais"
+  },
+  "æ": {
+    "lemma": "æ",
+    "pos": "adv",
+    "gloss": "toujours"
+  },
+  "jafnan": {
+    "lemma": "jafnan",
+    "pos": "adv",
+    "gloss": "toujours"
+  },
+  "opt": {
+    "lemma": "opt",
+    "pos": "adv",
+    "gloss": "souvent"
+  },
+  "sjaldan": {
+    "lemma": "sjaldan",
+    "pos": "adv",
+    "gloss": "rarement"
+  },
+  "stundum": {
+    "lemma": "stundum",
+    "pos": "adv",
+    "gloss": "parfois"
+  },
+  "nú": {
+    "lemma": "nú",
+    "pos": "adv",
+    "gloss": "maintenant"
+  },
+  "þá": {
+    "lemma": "þá",
+    "pos": "adv",
+    "gloss": "alors"
+  },
+  "ávallt": {
+    "lemma": "ávallt",
+    "pos": "adv",
+    "gloss": "toujours"
+  },
+  "brátt": {
+    "lemma": "brátt",
+    "pos": "adv",
+    "gloss": "bientôt"
+  },
+  "síðar": {
+    "lemma": "síðar",
+    "pos": "adv",
+    "gloss": "plus tard"
+  },
+  "fyrr": {
+    "lemma": "fyrr",
+    "pos": "adv",
+    "gloss": "avant/plus tôt"
+  },
+  "hér": {
+    "lemma": "hér",
+    "pos": "adv",
+    "gloss": "ici"
+  },
+  "þar": {
+    "lemma": "þar",
+    "pos": "adv",
+    "gloss": "là"
+  },
+  "þaðan": {
+    "lemma": "þaðan",
+    "pos": "adv",
+    "gloss": "de là"
+  },
+  "hingat": {
+    "lemma": "hingat",
+    "pos": "adv",
+    "gloss": "ici (vers)"
+  },
+  "þangat": {
+    "lemma": "þangat",
+    "pos": "adv",
+    "gloss": "là (vers)"
+  },
+  "hvert": {
+    "lemma": "hvert",
+    "pos": "adv",
+    "gloss": "où (vers)"
+  },
+  "uppi": {
+    "lemma": "uppi",
+    "pos": "adv",
+    "gloss": "en haut"
+  },
+  "niðri": {
+    "lemma": "niðri",
+    "pos": "adv",
+    "gloss": "en bas"
+  },
+  "inni": {
+    "lemma": "inni",
+    "pos": "adv",
+    "gloss": "dedans"
+  },
+  "úti": {
+    "lemma": "úti",
+    "pos": "adv",
+    "gloss": "dehors"
+  },
+  "heima": {
+    "lemma": "heima",
+    "pos": "adv",
+    "gloss": "à la maison"
+  },
+  "brott": {
+    "lemma": "brott",
+    "pos": "adv",
+    "gloss": "loin/parti"
+  },
+  "fram": {
+    "lemma": "fram",
+    "pos": "adv",
+    "gloss": "en avant"
+  },
+  "aptr": {
+    "lemma": "aptr",
+    "pos": "adv",
+    "gloss": "en arrière"
+  },
+  "norðr": {
+    "lemma": "norðr",
+    "pos": "adv",
+    "gloss": "au nord"
+  },
+  "suðr": {
+    "lemma": "suðr",
+    "pos": "adv",
+    "gloss": "au sud"
+  },
+  "austr": {
+    "lemma": "austr",
+    "pos": "adv",
+    "gloss": "à l'est"
+  },
+  "vestr": {
+    "lemma": "vestr",
+    "pos": "adv",
+    "gloss": "à l'ouest"
+  },
+  "mjǫk": {
+    "lemma": "mjǫk",
+    "pos": "adv",
+    "gloss": "très/beaucoup"
+  },
+  "lítt": {
+    "lemma": "lítt",
+    "pos": "adv",
+    "gloss": "peu"
+  },
+  "meira": {
+    "lemma": "meira",
+    "pos": "adv",
+    "gloss": "plus"
+  },
+  "minna": {
+    "lemma": "minna",
+    "pos": "adv",
+    "gloss": "moins"
+  },
+  "mest": {
+    "lemma": "mest",
+    "pos": "adv",
+    "gloss": "le plus"
+  },
+  "vel": {
+    "lemma": "vel",
+    "pos": "adv",
+    "gloss": "bien"
+  },
+  "illa": {
+    "lemma": "illa",
+    "pos": "adv",
+    "gloss": "mal"
+  },
+  "skjótt": {
+    "lemma": "skjótt",
+    "pos": "adv",
+    "gloss": "vite"
+  },
+  "seint": {
+    "lemma": "seint",
+    "pos": "adv",
+    "gloss": "lentement"
+  },
+  "lengi": {
+    "lemma": "lengi",
+    "pos": "adv",
+    "gloss": "longtemps"
+  },
+  "saman": {
+    "lemma": "saman",
+    "pos": "adv",
+    "gloss": "ensemble"
+  },
+  "í sundr": {
+    "lemma": "í sundr",
+    "pos": "adv",
+    "gloss": "séparément"
+  },
+  "em": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "suis",
+    "features": {
+      "tense": "pres",
+      "mood": "ind",
+      "person": "1",
+      "number": "sg"
+    }
+  },
+  "ert": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "es",
+    "features": {
+      "tense": "pres",
+      "mood": "ind",
+      "person": "2",
+      "number": "sg"
+    }
+  },
+  "er": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "est",
+    "features": {
+      "tense": "pres",
+      "mood": "ind",
+      "person": "3",
+      "number": "sg"
+    }
+  },
+  "erum": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "sommes",
+    "features": {
+      "tense": "pres",
+      "mood": "ind",
+      "person": "1",
+      "number": "pl"
+    }
+  },
+  "eruð": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "êtes",
+    "features": {
+      "tense": "pres",
+      "mood": "ind",
+      "person": "2",
+      "number": "pl"
+    }
+  },
+  "eru": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "sont",
+    "features": {
+      "tense": "pres",
+      "mood": "ind",
+      "person": "3",
+      "number": "pl"
+    }
+  },
+  "var": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "fus/était",
+    "features": {
+      "tense": "past",
+      "mood": "ind",
+      "person": "1/3",
+      "number": "sg"
+    }
+  },
+  "várum": {
+    "lemma": "vera",
+    "pos": "verb",
+    "gloss": "fûmes/étions",
+    "features": {
+      "tense": "past",
+      "mood": "ind",
+      "person": "1",
+      "number": "pl"
+    }
+  },
+  "menn": {
+    "lemma": "maðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "hommes",
+    "features": {
+      "case": "nom",
+      "number": "pl"
+    }
+  },
+  "manna": {
+    "lemma": "maðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "des hommes",
+    "features": {
+      "case": "gen",
+      "number": "pl"
+    }
+  },
+  "mǫnnum": {
+    "lemma": "maðr",
+    "pos": "noun",
+    "gender": "masc",
+    "gloss": "aux hommes",
+    "features": {
+      "case": "dat",
+      "number": "pl"
+    }
+  },
+  "konur": {
+    "lemma": "kona",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "femmes",
+    "features": {
+      "case": "nom",
+      "number": "pl"
+    }
+  },
+  "kvenna": {
+    "lemma": "kona",
+    "pos": "noun",
+    "gender": "fem",
+    "gloss": "des femmes",
+    "features": {
+      "case": "gen",
+      "number": "pl"
+    }
+  },
+  "góðan": {
+    "lemma": "góðr",
+    "pos": "adj",
+    "gloss": "bon",
+    "features": {
+      "case": "acc",
+      "gender": "masc",
+      "number": "sg",
+      "degree": "pos"
+    }
+  },
+  "góðum": {
+    "lemma": "góðr",
+    "pos": "adj",
+    "gloss": "bon",
+    "features": {
+      "case": "dat",
+      "gender": "masc",
+      "number": "sg",
+      "degree": "pos"
+    }
+  },
+  "betri": {
+    "lemma": "góðr",
+    "pos": "adj",
+    "gloss": "meilleur",
+    "features": {
+      "degree": "comp"
+    }
+  },
+  "beztr": {
+    "lemma": "góðr",
+    "pos": "adj",
+    "gloss": "le meilleur",
+    "features": {
+      "degree": "sup"
+    }
+  },
+  "mik": {
+    "lemma": "ek",
+    "pos": "pron",
+    "gloss": "me",
+    "features": {
+      "case": "acc",
+      "person": "1",
+      "number": "sg"
+    }
+  },
+  "mér": {
+    "lemma": "ek",
+    "pos": "pron",
+    "gloss": "à moi",
+    "features": {
+      "case": "dat",
+      "person": "1",
+      "number": "sg"
+    }
+  },
+  "mín": {
+    "lemma": "ek",
+    "pos": "pron",
+    "gloss": "de moi",
+    "features": {
+      "case": "gen",
+      "person": "1",
+      "number": "sg"
+    }
+  },
+  "þik": {
+    "lemma": "þú",
+    "pos": "pron",
+    "gloss": "te",
+    "features": {
+      "case": "acc",
+      "person": "2",
+      "number": "sg"
+    }
+  },
+  "þín": {
+    "lemma": "þú",
+    "pos": "pron",
+    "gloss": "de toi",
+    "features": {
+      "case": "gen",
+      "person": "2",
+      "number": "sg"
+    }
+  }
+}
